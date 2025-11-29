@@ -105,22 +105,38 @@ th {
     background: #fff;
   }
 
+  /* Use flex layout inside each "cell" so the label (pseudo-element) becomes a flex item.
+     This prevents label/value overlapping: label can wrap and value takes remaining space. */
   .table-wrap td {
     border: none;
     position: relative;
-    padding: 8px 10px 8px 120px; /* leave space for label */
-    white-space: normal;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 8px;
+    padding: 8px 10px;
+    white-space: normal;          /* allow wrapping of long values */
+    word-break: break-word;      /* break very long words/URLs if needed */
   }
 
   .table-wrap td:before {
-    position: absolute;
-    left: 12px;
-    top: 8px;
-    width: 100px;
+    /* Make the label a normal, wrap-capable inline block (participates in flexbox).
+       Give it a fixed flex-basis but allow wrapping to multiple lines if it's long. */
+    position: static;
+    display: inline-block;
+    width: 110px;                 /* label column width; tune as needed (e.g. 90-120px) */
+    flex: 0 0 110px;              /* do not shrink below this width */
     padding-right: 8px;
-    white-space: nowrap;
+    white-space: normal;          /* allow label to wrap */
     font-weight: 600;
     color: #333;
+    box-sizing: border-box;
+  }
+
+  /* Ensure the real cell contents (value) grow and wrap properly */
+  .table-wrap td > * {
+    flex: 1 1 0%;
+    min-width: 0;                 /* enables shrinking of long content inside flex item */
   }
 
   /* Column labels (match the table headers) */
