@@ -1,4 +1,3 @@
-
 // Base URL for data (relative to where index.html is served)
 const DATA_BASE_URL = './out'; // IMPORTANT: keep 'out' here
 const AVAILABLE_YEARS = [2013,2014,2015,2016,2017,2018,2019,2021, 2022, 2023, 2024, 2025]; // Update with your real years
@@ -41,17 +40,87 @@ function renderRows(tbody, rows, distanceKm) {
   });
 }
 
+// sanitize JSON text by replacing bare NaN tokens outside string literals with null
+function sanitizeJsonText(text) {
+  let out = '';
+  let inString = false;
+  let stringChar = '';
+  let esc = false;
+  for (let i = 0; i < text.length; i++) {
+    const ch = text[i];
+
+    if (inString) {
+      out += ch;
+      if (esc) {
+        esc = false;
+      } else if (ch === '\\') {
+        esc = true;
+      } else if (ch === stringChar) {
+        inString = false;
+        stringChar = '';
+      }
+      continue;
+    }
+
+    // not inside string
+    if (ch === '"' || ch === "'") {
+      inString = true;
+      stringChar = ch;
+      out += ch;
+      continue;
+    }
+
+    // attempt to detect bare NaN token
+    if (ch === 'N' && text.substr(i, 3) === 'NaN') {
+      const prev = text[i - 1] || '';
+      const next = text[i + 3] || '';
+      // check boundaries: previous/next should not be word char or quote/bracket that suggest it's inside a name/string
+      const prevOk = !/[\w\]"']/.test(prev);
+      const nextOk = !/[\w\["']/.test(next);
+      if (prevOk && nextOk) {
+        out += 'null';
+        i += 2; // advance past 'NaN'
+        continue;
+      }
+    }
+
+    out += ch;
+  }
+  return out;
+}
+
+// small helper to fetch JSON even if the file contains NaN tokens
+async function fetchPossiblyInvalidJson(url) {
+  const res = await fetch(url);
+  if (!res.ok) {
+    const err = new Error(`HTTP ${res.status} for ${url}`);
+    err.status = res.status;
+    throw err;
+  }
+  const text = await res.text();
+  // first try safe sanitize (avoids touching "NaN" inside strings)
+  const cleaned = sanitizeJsonText(text);
+  try {
+    return JSON.parse(cleaned);
+  } catch (e1) {
+    // fallback: blunt replacement (covers some edge cases)
+    try {
+      const fallback = text.replace(/\bNaN\b/g, 'null');
+      return JSON.parse(fallback);
+    } catch (e2) {
+      // rethrow the original parse error with context
+      console.error('Failed to parse JSON after sanitization for', url, e1, e2);
+      throw e1;
+    }
+  }
+}
+
 // ---------------- FKT (unisex) ----------------
 async function loadFKT() {
   const url = `${DATA_BASE_URL}/leaders/leaders_fkt_skt.json`;
   console.log('[loadFKT] fetching', url);
   try {
-    const res = await fetch(url);
-    if (!res.ok) {
-      console.error(`[loadFKT] HTTP ${res.status} for`, url);
-      return;
-    }
-    const data = await res.json();
+    const data = await fetchPossiblyInvalidJson(url);
     const top = (data?.overall?.FKT_top10) || [];
     const distanceKm = 45; // same default as ETL
     const tbody = document.querySelector('#fkt-table tbody');
@@ -67,12 +136,7 @@ async function loadEdition(year) {
   const url = `${DATA_BASE_URL}/${year}.json`; // ALWAYS include /out base
   console.log('[loadEdition] fetching', url);
   try {
-    const res = await fetch(url);
-    if (!res.ok) {
-      console.error(`[loadEdition] HTTP ${res.status} for`, url);
-      return;
-    }
-    const data = await res.json();
+    const data = await fetchPossiblyInvalidJson(url);
     const distanceKm = data?.edition?.distance_km || 45;
     const rows = Array.isArray(data.results) ? data.results.slice() : [];
 
