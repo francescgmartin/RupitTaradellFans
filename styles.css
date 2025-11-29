@@ -31,6 +31,9 @@ body {
   background: transparent; /* prevents CSS background showing */
 }
 
+/* Espaiat entre seccions */
+.mt-40 { margin-top: 40px; }
+
 /* --- Scroll horitzontal de taules --- */
 .table-wrap {
   margin-top: 12px;
@@ -46,7 +49,14 @@ body {
   background-attachment: local, local, scroll;
 }
 
-/* Make sure table can be wider than container so scroll works */
+/* --- Scroll vertical limitat només per a la secció d’edicions --- */
+.table-wrap.editions {
+  max-height: 520px;                  /* “una pàgina” compacta per 1100 files */
+  overflow-y: auto;                   /* scroll vertical dins la taula */
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Taules */
 .table-wrap table {
   width: 100%;
   min-width: 760px; /* ajusta si necessites més/menys espai horitzontal */
@@ -54,7 +64,7 @@ body {
   background: #fff;
 }
 
-/* Table cells */
+/* Cel·les */
 th, td {
   padding: 10px 12px;
   text-align: left;
@@ -93,6 +103,3 @@ th {
   .brand h1 { font-size: 1rem; }
   .table-wrap table { min-width: 640px; } /* forçar scroll una mica més compacte */
 }
-
-/* --- IMPORTANT: eliminem el mode “cards” en pantalles molt estretes ---
-   No hi ha conversió a blocs; manté taules + scroll lateral */
