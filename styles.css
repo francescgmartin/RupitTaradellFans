@@ -1,138 +1,134 @@
-:root {
-  /* Light color scheme */
-  --bg: #ffffff;
-  --panel: #f5f6f8;
-  --text: #0b0b0d;
-  --muted: #6b7280;
-  --accent: #1f6feb;
-  --border: #e6e9ee;
-  --tableRow: #ffffff;
-  --tableRowAlt: #f8f9fb;
-
-  /* Mobile tuning */
-  --header-padding: 12px 20px;
-  --brand-gap: 16px;
-  --crest-size: 64px;
-  --font-scale-mobile: 0.95;
-}
-
-/* Reset & base */
+/* Base reset / box sizing */
 * { box-sizing: border-box; }
-html, body { margin: 0; padding: 0; background: var(--bg); color: var(--text); font-family: system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji"; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-size: 16px; }
-a { color: var(--accent); text-decoration: none; }
-a:hover { text-decoration: underline; }
-
-.container { max-width: 1100px; margin: 0 auto; padding: 20px; }
-
-/* Header */
-.site-header { background: var(--panel); border-bottom: 1px solid var(--border); }
-.site-header .brand { display: flex; align-items: center; gap: var(--brand-gap); padding: var(--header-padding); }
-.crest { display: inline-block; width: var(--crest-size); height: auto; background: transparent; }
-
-/* If you use <img class="crest"> */
-img.crest { display: block; width: var(--crest-size); height: auto; background: transparent; }
-
-/* Mask variant (use when you want to colour the logo via CSS, requires svg or monochrome png) */
-.crest--mask {
-  width: var(--crest-size);
-  height: var(--crest-size);
-  display: inline-block;
-  background-color: var(--accent);
-  -webkit-mask: url('/path/to/logo.svg') center/contain no-repeat;
-  mask: url('/path/to/logo.svg') center/contain no-repeat;
+html, body { height: 100%; }
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  color: #111;
+  background: #fff;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
 }
 
-/* Typography */
-h1 { font-size: 1.6rem; margin: 0; color: var(--text); }
-h2 { font-size: 1.3rem; margin: 12px 0 8px; color: var(--text); }
-
-/* Table / panels */
-/* NOTE: changed overflow handling so inner .table-scroll controls horizontal scroll */
-.table-wrap { background: var(--panel); border: 1px solid var(--border); border-radius: 8px; overflow: visible; }
-.table-wrap .table-scroll {
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-  width: 100%;
-  /* keep the rounded corners when the table is scrolled */
-  border-radius: 8px;
-}
-.table-wrap .table-scroll table { width: 100%; border-collapse: collapse; min-width: 640px; }
-thead tr { background: #eef2f7; }
-th, td { padding: 10px 12px; text-align: left; border-bottom: 1px solid var(--border); color: var(--text); }
-th { color: var(--muted); font-weight: 600; }
-tbody tr:nth-child(odd) { background: var(--tableRow); }
-tbody tr:nth-child(even) { background: var(--tableRowAlt); }
-
-/* Section header / controls */
-.section-header { display: flex; align-items: center; gap: 12px; }
-.edition-label { color: var(--muted); }
-#edition-select { padding: 8px 10px; background: var(--panel); color: var(--text); border: 1px solid var(--border); border-radius: 6px; }
-
-/* Spacing & footer */
-.mt-40 { margin-top: 40px; }
-.site-footer { margin: 40px 0 20px; text-align: center; color: var(--muted); }
-
-/* Small utilities for better contrast on interactive elements */
-button, .btn { background: var(--accent); color: #fff; border: none; padding: 10px 14px; border-radius: 6px; cursor: pointer; font-size: 1rem; }
-button.secondary, .btn.secondary { background: transparent; color: var(--text); border: 1px solid var(--border); }
-
-/* --- Responsive / Mobile improvements --- */
-
-/* Make header stack on narrow screens, increase tap targets, reduce paddings */
-@media (max-width: 768px) {
-  :root {
-    --crest-size: 48px;
-    --brand-gap: 12px;
-    --header-padding: 10px 14px;
-  }
-
-  html, body { font-size: calc(16px * var(--font-scale-mobile)); }
-
-  .site-header .brand {
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 10px;
-  }
-
-  h1 { font-size: 1.4rem; }
-  h2 { font-size: 1.1rem; }
-
-  .container { padding: 14px; }
-
-  .section-header { gap: 8px; }
-  #edition-select { flex: 1 1 100%; width: 100%; box-sizing: border-box; }
-
-  .btn, button { padding: 12px 16px; font-size: 1rem; }
-
-  .table-wrap { border-radius: 6px; }
-  .table-wrap .table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
-  th, td { padding: 8px 10px; }
+/* Layout container */
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 16px;
 }
 
-/* Very small screens */
-@media (max-width: 420px) {
-  :root { --crest-size: 40px; --brand-gap: 8px; --header-padding: 8px 12px; }
+/* Header / brand */
+.site-header { padding: 14px 16px; border-bottom: 1px solid #e9e9e9; background: #fff; }
+.brand { display: flex; align-items: center; gap: 12px; }
+.brand h1 { font-size: 1.125rem; margin: 0; letter-spacing: 0.04em; }
 
-  .site-header .brand { flex-direction: column; align-items: flex-start; gap: 8px; }
-  .container { padding: 10px; }
-  h1 { font-size: 1.2rem; }
-  h2 { font-size: 1rem; }
-
-  table { min-width: 520px; }
-  th, td { padding: 8px; font-size: 0.95rem; }
-
-  .stacked-table { display: none; }
+/* Crest image */
+.crest {
+  width: 56px;          /* small and responsive */
+  height: auto;
+  display: block;
+  background: transparent; /* doesn't make white transparent, but prevents CSS background showing */
 }
 
-/* Accessibility: focus states */
-a:focus, button:focus, input:focus, select:focus {
-  outline: 3px solid color-mix(in srgb, var(--accent) 30%, transparent);
-  outline-offset: 2px;
+/* Tables: make them scroll horizontally inside .table-wrap on small screens */
+.table-wrap {
+  margin-top: 12px;
+  overflow-x: auto;                    /* allow horizontal scroll when table is wider */
+  -webkit-overflow-scrolling: touch;   /* smooth scrolling on iOS */
+  background: linear-gradient(180deg, #fff, #fff); /* avoids white gap in some browsers */
   border-radius: 6px;
+  padding: 6px 0; /* give space for scrollbar on some devices */
 }
 
-/* Helpers for touch scrolling on iOS */
-.table-wrap, .table-wrap .table-scroll {
-  -webkit-overflow-scrolling: touch;
+/* Make sure table can be wider than container so scroll works */
+.table-wrap table {
+  width: 100%;
+  min-width: 760px; /* adjust if you need more/less horizontal space */
+  border-collapse: collapse;
+  background: #fff;
+}
+
+/* Table cells */
+th, td {
+  padding: 10px 12px;
+  text-align: left;
+  border-bottom: 1px solid #efefef;
+  white-space: nowrap; /* keeps columns single-line, lets horizontal scroll appear */
+  font-size: 0.95rem;
+}
+
+th {
+  font-weight: 600;
+  background: #fafafa;
+  position: sticky;
+  top: 0; /* keeps header visible when vertically scrolling inside wrapper (if used) */
+  z-index: 2;
+}
+
+/* Footer */
+.site-footer { padding: 12px 16px; text-align: center; color: #666; font-size: 0.9rem; }
+
+/* Responsive tweaks */
+@media (max-width: 900px) {
+  .container { padding: 12px; }
+  .crest { width: 48px; }
+  .brand h1 { font-size: 1rem; }
+  /* reduce min-width to allow more compact scroll on smaller devices */
+  .table-wrap table { min-width: 640px; }
+}
+
+/* "Card" style stacked table for very narrow screens (optional)
+   This converts rows into blocks with labels for better readability on very small viewports.
+   The horizontal scroll remains available as fallback.
+*/
+@media (max-width: 420px) {
+  .table-wrap table, 
+  .table-wrap thead, 
+  .table-wrap tbody, 
+  .table-wrap th, 
+  .table-wrap td, 
+  .table-wrap tr {
+    display: block;
+  }
+
+  .table-wrap thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .table-wrap tr {
+    border: 1px solid #e8e8e8;
+    margin: 0 10px 12px;
+    padding: 10px;
+    border-radius: 6px;
+    background: #fff;
+  }
+
+  .table-wrap td {
+    border: none;
+    position: relative;
+    padding: 8px 10px 8px 120px; /* leave space for label */
+    white-space: normal;
+  }
+
+  .table-wrap td:before {
+    position: absolute;
+    left: 12px;
+    top: 8px;
+    width: 100px;
+    padding-right: 8px;
+    white-space: nowrap;
+    font-weight: 600;
+    color: #333;
+  }
+
+  /* Column labels (match the table headers) */
+  .table-wrap td:nth-of-type(1):before { content: "Posició"; }
+  .table-wrap td:nth-of-type(2):before { content: "Cognoms i Nom"; }
+  .table-wrap td:nth-of-type(3):before { content: "Gènere"; }
+  .table-wrap td:nth-of-type(4):before { content: "Temps a Sant Julià"; }
+  .table-wrap td:nth-of-type(5):before { content: "Temps a Taradell"; }
+  .table-wrap td:nth-of-type(6):before { content: "Ritme (min/km)"; }
+  .table-wrap td:nth-of-type(7):before { content: "Club"; }
 }
