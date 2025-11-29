@@ -1,0 +1,1 @@
+Col·loca aquí la imatge exportada de l'Excel: taradell-crest.png
