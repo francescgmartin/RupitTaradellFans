@@ -3,8 +3,8 @@
     "year": 2013,
     "name": "Rupit-Taradell",
     "route_id": "rupit-taradell",
-    "distance_km": 45,
-    "elevation_m": 1800
+    "distance_km": 43,
+    "elevation_m": 1400
   },
   "results": [
     {
@@ -15,8 +15,8 @@
       "last_name": "CASTAÑO SOLER",
       "gender": null,
       "club": "CLUB EXCTA. CALLDETENES",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 16704,
       "sant_julia": null
     },
     {
@@ -27,8 +27,8 @@
       "last_name": "PASCUAL SALA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 17515,
       "sant_julia": null
     },
     {
@@ -39,8 +39,8 @@
       "last_name": "MORCILLO VALERO",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 17913,
       "sant_julia": null
     },
     {
@@ -51,8 +51,8 @@
       "last_name": "CAMPS PIELLA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 18027,
       "sant_julia": null
     },
     {
@@ -63,8 +63,8 @@
       "last_name": "MONTAÑA CUSTODI",
       "gender": null,
       "club": "AL-PI-NISME CLUB ESPORTIU",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 18275,
       "sant_julia": null
     },
     {
@@ -75,8 +75,8 @@
       "last_name": "FONT MAIDEU",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 18347,
       "sant_julia": null
     },
     {
@@ -87,8 +87,8 @@
       "last_name": "MONTILLA VALLEJO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 18489,
       "sant_julia": null
     },
     {
@@ -99,8 +99,8 @@
       "last_name": "PONS FORNELL",
       "gender": null,
       "club": "ASS.ESP. MOUNTAIN RUNNERS DEL BERGUEDÀ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 19203,
       "sant_julia": null
     },
     {
@@ -111,8 +111,8 @@
       "last_name": "DELGADO RIFA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 19456,
       "sant_julia": null
     },
     {
@@ -123,8 +123,8 @@
       "last_name": "IBAÑEZ CANO",
       "gender": null,
       "club": "RUNNERING",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 19507,
       "sant_julia": null
     },
     {
@@ -135,8 +135,8 @@
       "last_name": "ATTIYAOUI",
       "gender": null,
       "club": "RUNNERING",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 19511,
       "sant_julia": null
     },
     {
@@ -147,8 +147,8 @@
       "last_name": "SOLA SERRABOU",
       "gender": null,
       "club": "CLUB ATLÈTIC VIC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 19770,
       "sant_julia": null
     },
     {
@@ -159,8 +159,8 @@
       "last_name": "MONTAÑA ROCA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 19823,
       "sant_julia": null
     },
     {
@@ -171,8 +171,8 @@
       "last_name": "HIGUERUELO VALENCIA",
       "gender": null,
       "club": "PLA I AMUNT",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 19852,
       "sant_julia": null
     },
     {
@@ -183,8 +183,8 @@
       "last_name": "AGUILAR MOLIST",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 19862,
       "sant_julia": null
     },
     {
@@ -195,8 +195,8 @@
       "last_name": "BAENA TRISTANCHO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 19876,
       "sant_julia": null
     },
     {
@@ -207,8 +207,8 @@
       "last_name": "FERNANDEZ NAVARRO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 19933,
       "sant_julia": null
     },
     {
@@ -219,8 +219,8 @@
       "last_name": "HIGUERUELO VALENCIA",
       "gender": null,
       "club": "ASS.ESP. DIEDRE",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 19971,
       "sant_julia": null
     },
     {
@@ -231,8 +231,8 @@
       "last_name": "CASAS VILA",
       "gender": null,
       "club": "ASS.ESP. DIEDRE",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 19989,
       "sant_julia": null
     },
     {
@@ -243,8 +243,8 @@
       "last_name": "FREIXAS NOGUE",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 19996,
       "sant_julia": null
     },
     {
@@ -255,8 +255,8 @@
       "last_name": "ROCA VALLS",
       "gender": null,
       "club": "CENTRE EXCTA. HOSTALETS DE BALENYÀ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 20094,
       "sant_julia": null
     },
     {
@@ -267,8 +267,8 @@
       "last_name": "LOZANO DE LA TORRE",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 20099,
       "sant_julia": null
     },
     {
@@ -279,8 +279,8 @@
       "last_name": "LOPEZ LOZANO",
       "gender": null,
       "club": "CENTRE EXCTA. HOSTALETS DE BALENYÀ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 20126,
       "sant_julia": null
     },
     {
@@ -291,8 +291,8 @@
       "last_name": "AGUILERA SAÑE",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 20185,
       "sant_julia": null
     },
     {
@@ -303,8 +303,8 @@
       "last_name": "ALARCON GALLACH",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 20352,
       "sant_julia": null
     },
     {
@@ -315,8 +315,8 @@
       "last_name": "VILARRASA COMERMA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 20619,
       "sant_julia": null
     },
     {
@@ -327,8 +327,8 @@
       "last_name": "NAVARRETE PARAREDA",
       "gender": null,
       "club": "CASES NOVES CLUB BTT",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 20621,
       "sant_julia": null
     },
     {
@@ -339,8 +339,8 @@
       "last_name": "MATAS AGUILERA",
       "gender": null,
       "club": "C.E.V.A.",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 20622,
       "sant_julia": null
     },
     {
@@ -351,8 +351,8 @@
       "last_name": "VILA VILA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 20644,
       "sant_julia": null
     },
     {
@@ -363,8 +363,8 @@
       "last_name": "FONT COMAS",
       "gender": null,
       "club": "UNIÓ EXCTA. VIC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 20977,
       "sant_julia": null
     },
     {
@@ -375,8 +375,8 @@
       "last_name": "CASELLAS AUMEDES",
       "gender": null,
       "club": "UNIÓ EXCTA. VIC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 20984,
       "sant_julia": null
     },
     {
@@ -387,8 +387,8 @@
       "last_name": "MORERA ROCA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 21015,
       "sant_julia": null
     },
     {
@@ -399,8 +399,8 @@
       "last_name": "SALA MARTI",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 21049,
       "sant_julia": null
     },
     {
@@ -411,8 +411,8 @@
       "last_name": "VALENCIA NEBOT",
       "gender": null,
       "club": "PEC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 21080,
       "sant_julia": null
     },
     {
@@ -423,8 +423,8 @@
       "last_name": "GASULL CONESA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 21085,
       "sant_julia": null
     },
     {
@@ -435,8 +435,8 @@
       "last_name": "ROCA SOLA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 21094,
       "sant_julia": null
     },
     {
@@ -447,8 +447,8 @@
       "last_name": "TEJERO HERRERO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 21134,
       "sant_julia": null
     },
     {
@@ -459,8 +459,8 @@
       "last_name": "JANE CRESPO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 21137,
       "sant_julia": null
     },
     {
@@ -471,8 +471,8 @@
       "last_name": "MUNTANE BERTRANS",
       "gender": null,
       "club": "NADAPEDALEACORRE.COM",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 21162,
       "sant_julia": null
     },
     {
@@ -483,8 +483,8 @@
       "last_name": "SUSAN CASTILLO",
       "gender": null,
       "club": "NADAPEDALEACORRE",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 21177,
       "sant_julia": null
     },
     {
@@ -495,8 +495,8 @@
       "last_name": "GONZALEZ GIMENO",
       "gender": null,
       "club": "NADAPEDALEACORRE",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 21208,
       "sant_julia": null
     },
     {
@@ -507,8 +507,8 @@
       "last_name": "DELGADO COLOMO",
       "gender": null,
       "club": "CLUB ATLÈTIC TORELLÓ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 21387,
       "sant_julia": null
     },
     {
@@ -519,8 +519,8 @@
       "last_name": "PRATDESABA FERNANDEZ",
       "gender": null,
       "club": "EME",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 21551,
       "sant_julia": null
     },
     {
@@ -531,8 +531,8 @@
       "last_name": "FABREGA SIMO",
       "gender": null,
       "club": "DESMUNTAMARGES",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 21647,
       "sant_julia": null
     },
     {
@@ -543,8 +543,8 @@
       "last_name": "SALIP AGUSTI",
       "gender": null,
       "club": "CEC VILAMAJOR",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 21654,
       "sant_julia": null
     },
     {
@@ -555,8 +555,8 @@
       "last_name": "DANOT PINEDA",
       "gender": null,
       "club": "CEC VILAMAJOR",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 21655,
       "sant_julia": null
     },
     {
@@ -567,8 +567,8 @@
       "last_name": "CERVIA SERVER",
       "gender": null,
       "club": "-",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 21657,
       "sant_julia": null
     },
     {
@@ -579,8 +579,8 @@
       "last_name": "PLA PLA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 21793,
       "sant_julia": null
     },
     {
@@ -591,8 +591,8 @@
       "last_name": "BODOY SALVANS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 21799,
       "sant_julia": null
     },
     {
@@ -603,8 +603,8 @@
       "last_name": "COSTA SEÑE",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 21810,
       "sant_julia": null
     },
     {
@@ -615,8 +615,8 @@
       "last_name": "VASCO ALARCON",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 21878,
       "sant_julia": null
     },
     {
@@ -627,8 +627,8 @@
       "last_name": "COMARRIU MOLINER",
       "gender": null,
       "club": "GRUP EXCTA. MANLLEU",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 21878,
       "sant_julia": null
     },
     {
@@ -639,8 +639,8 @@
       "last_name": "PARES FERRES",
       "gender": null,
       "club": "GRUP EXCTA. MANLLEU",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 21882,
       "sant_julia": null
     },
     {
@@ -651,8 +651,8 @@
       "last_name": "ILLAMOLA VIALTA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 21899,
       "sant_julia": null
     },
     {
@@ -663,8 +663,8 @@
       "last_name": "MORATO CASASSAS",
       "gender": null,
       "club": "BADABADOC COMUNICACIÓ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 21992,
       "sant_julia": null
     },
     {
@@ -675,8 +675,8 @@
       "last_name": "FERRER PLANAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22016,
       "sant_julia": null
     },
     {
@@ -687,8 +687,8 @@
       "last_name": "MORERA CASAMITJANA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22090,
       "sant_julia": null
     },
     {
@@ -699,8 +699,8 @@
       "last_name": "RIBAS EXPOSITO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22110,
       "sant_julia": null
     },
     {
@@ -711,8 +711,8 @@
       "last_name": "MARTI MOLIST",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22113,
       "sant_julia": null
     },
     {
@@ -723,8 +723,8 @@
       "last_name": "MOLIST CODINACHS",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22128,
       "sant_julia": null
     },
     {
@@ -735,8 +735,8 @@
       "last_name": "ESTRELLA SALAGRAN",
       "gender": null,
       "club": "LLUNA PLENA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22130,
       "sant_julia": null
     },
     {
@@ -747,8 +747,8 @@
       "last_name": "SIRISI CASANOVAS",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22238,
       "sant_julia": null
     },
     {
@@ -759,8 +759,8 @@
       "last_name": "MARTINEZ LAHOZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22276,
       "sant_julia": null
     },
     {
@@ -771,8 +771,8 @@
       "last_name": "GARCIA PERIS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22286,
       "sant_julia": null
     },
     {
@@ -783,8 +783,8 @@
       "last_name": "SERRA ROMEU",
       "gender": null,
       "club": "BB TRIATLO L'AMETLLA DEL VALLÈS",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22500,
       "sant_julia": null
     },
     {
@@ -795,8 +795,8 @@
       "last_name": "DANES VILARDELL",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22511,
       "sant_julia": null
     },
     {
@@ -807,8 +807,8 @@
       "last_name": "FUENTE CORRETGER",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22529,
       "sant_julia": null
     },
     {
@@ -819,8 +819,8 @@
       "last_name": "LLOPART BELLOC",
       "gender": null,
       "club": "CLUB ATLÈTIC IGUALADA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22577,
       "sant_julia": null
     },
     {
@@ -831,8 +831,8 @@
       "last_name": "ARAGAY BENERIA",
       "gender": null,
       "club": "CENTRE EXCTA. GARRIGUENC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22623,
       "sant_julia": null
     },
     {
@@ -843,8 +843,8 @@
       "last_name": "PASCUAL CASTELLS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22710,
       "sant_julia": null
     },
     {
@@ -855,8 +855,8 @@
       "last_name": "REIG TUNEU",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22713,
       "sant_julia": null
     },
     {
@@ -867,8 +867,8 @@
       "last_name": "VIDAL VALLES",
       "gender": null,
       "club": "UNIÓ EXCTA. VIC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22808,
       "sant_julia": null
     },
     {
@@ -879,8 +879,8 @@
       "last_name": "AUTET GUBIERAS",
       "gender": null,
       "club": "UNIÓ EXCTA. VIC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22812,
       "sant_julia": null
     },
     {
@@ -891,8 +891,8 @@
       "last_name": "FABRE HEREDIA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22818,
       "sant_julia": null
     },
     {
@@ -903,8 +903,8 @@
       "last_name": "MARTINEZ DE FUENTES",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22820,
       "sant_julia": null
     },
     {
@@ -915,8 +915,8 @@
       "last_name": "MUMBRU BASSAS",
       "gender": null,
       "club": "S'HA MATAO PACO",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22826,
       "sant_julia": null
     },
     {
@@ -927,8 +927,8 @@
       "last_name": "VILA MARTÍNEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22879,
       "sant_julia": null
     },
     {
@@ -939,8 +939,8 @@
       "last_name": "RAYA JIMENEZ",
       "gender": null,
       "club": "CLUB FALCONS SABADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22892,
       "sant_julia": null
     },
     {
@@ -951,8 +951,8 @@
       "last_name": "VAZQUEZ PRATDESABA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22934,
       "sant_julia": null
     },
     {
@@ -963,8 +963,8 @@
       "last_name": "VALLDEORIOLA CASAS",
       "gender": null,
       "club": "EUVIC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22938,
       "sant_julia": null
     },
     {
@@ -975,8 +975,8 @@
       "last_name": "CIVIT VIDAL",
       "gender": null,
       "club": "C.A. SANTA COLOMA DE QUERALT",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22951,
       "sant_julia": null
     },
     {
@@ -987,8 +987,8 @@
       "last_name": "PLADEVALL TERRICABRAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22958,
       "sant_julia": null
     },
     {
@@ -999,8 +999,8 @@
       "last_name": "BEGARA SERRANO",
       "gender": null,
       "club": "NOUS ITINERARIS",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 22978,
       "sant_julia": null
     },
     {
@@ -1011,8 +1011,8 @@
       "last_name": "BURGAYA SALA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23025,
       "sant_julia": null
     },
     {
@@ -1023,8 +1023,8 @@
       "last_name": "LLARCH GALAN",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23040,
       "sant_julia": null
     },
     {
@@ -1035,8 +1035,8 @@
       "last_name": "FREIXANET GENIS",
       "gender": null,
       "club": "BIAPUM",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23049,
       "sant_julia": null
     },
     {
@@ -1047,8 +1047,8 @@
       "last_name": "MAS VALENCIA",
       "gender": null,
       "club": "CLUB ATLÈTIC TORELLÓ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23059,
       "sant_julia": null
     },
     {
@@ -1059,8 +1059,8 @@
       "last_name": "RICART ROTLLANT",
       "gender": null,
       "club": "G.E.C.A.",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23101,
       "sant_julia": null
     },
     {
@@ -1071,8 +1071,8 @@
       "last_name": "BARTRINA SANGLAS",
       "gender": null,
       "club": "CENTRE EXCTA. SERRAGRENYADA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23121,
       "sant_julia": null
     },
     {
@@ -1083,8 +1083,8 @@
       "last_name": "VILLEN ROSELL",
       "gender": null,
       "club": "CENTRE EXCTA. TORELLÓ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23126,
       "sant_julia": null
     },
     {
@@ -1095,8 +1095,8 @@
       "last_name": "BARTRINA SANGLAS",
       "gender": null,
       "club": "CENTRE EXCTA. TORELLÓ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23131,
       "sant_julia": null
     },
     {
@@ -1107,8 +1107,8 @@
       "last_name": "COROMINAS ROURA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23150,
       "sant_julia": null
     },
     {
@@ -1119,8 +1119,8 @@
       "last_name": "COMELLAS ORTIZ",
       "gender": null,
       "club": "CENTRE EXCTA. TORELLÓ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23159,
       "sant_julia": null
     },
     {
@@ -1131,8 +1131,8 @@
       "last_name": "RIFA VILASECA",
       "gender": null,
       "club": "GRUP EXCTA. MANLLEU",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23167,
       "sant_julia": null
     },
     {
@@ -1143,8 +1143,8 @@
       "last_name": "BARNIOL SOY",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23193,
       "sant_julia": null
     },
     {
@@ -1155,8 +1155,8 @@
       "last_name": "AZNAL MOZAS",
       "gender": null,
       "club": "TRITRAINING",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23196,
       "sant_julia": null
     },
     {
@@ -1167,8 +1167,8 @@
       "last_name": "ADMETLLA SALVATELLA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23225,
       "sant_julia": null
     },
     {
@@ -1179,8 +1179,8 @@
       "last_name": "CATA CONTRERAS",
       "gender": null,
       "club": "UNIÓ EXCTA. DE SABADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23369,
       "sant_julia": null
     },
     {
@@ -1191,8 +1191,8 @@
       "last_name": "CATA CONTRERAS",
       "gender": null,
       "club": "UNIÓ EXCTA. DE SABADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23384,
       "sant_julia": null
     },
     {
@@ -1203,8 +1203,8 @@
       "last_name": "JARAMILLO CALDERON",
       "gender": null,
       "club": "SKADIOÉ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23503,
       "sant_julia": null
     },
     {
@@ -1215,8 +1215,8 @@
       "last_name": "MUÑOZ MUÑOZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23620,
       "sant_julia": null
     },
     {
@@ -1227,8 +1227,8 @@
       "last_name": "ZURITA GONZALEZ",
       "gender": null,
       "club": "CLUB EXCTA. INDEPENDENT DE CATALUNYA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23633,
       "sant_julia": null
     },
     {
@@ -1239,8 +1239,8 @@
       "last_name": "SALA ROVIRA",
       "gender": null,
       "club": "CLUB EXCTA. VIA FORA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23710,
       "sant_julia": null
     },
     {
@@ -1251,8 +1251,8 @@
       "last_name": "GARRIDO MARTINEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23715,
       "sant_julia": null
     },
     {
@@ -1263,8 +1263,8 @@
       "last_name": "ESCOFET ROIG",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23720,
       "sant_julia": null
     },
     {
@@ -1275,8 +1275,8 @@
       "last_name": "CABALLERO BRACERO",
       "gender": null,
       "club": "CENTRE EXCTA. DE CASTELLAR",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23739,
       "sant_julia": null
     },
     {
@@ -1287,8 +1287,8 @@
       "last_name": "BLANCH FORS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23829,
       "sant_julia": null
     },
     {
@@ -1299,8 +1299,8 @@
       "last_name": "SALA ANGORDANS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23881,
       "sant_julia": null
     },
     {
@@ -1311,8 +1311,8 @@
       "last_name": "OLLE POUS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 23970,
       "sant_julia": null
     },
     {
@@ -1323,8 +1323,8 @@
       "last_name": "VISTOS FAJA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24133,
       "sant_julia": null
     },
     {
@@ -1335,8 +1335,8 @@
       "last_name": "PUIG ESTEVE",
       "gender": null,
       "club": "LA BALDUFA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24147,
       "sant_julia": null
     },
     {
@@ -1347,8 +1347,8 @@
       "last_name": "MADRID ALEJOS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24156,
       "sant_julia": null
     },
     {
@@ -1359,8 +1359,8 @@
       "last_name": "FUENTES PALOMAR",
       "gender": null,
       "club": "CLUB OLÍMPIC MANLLEU",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24212,
       "sant_julia": null
     },
     {
@@ -1371,8 +1371,8 @@
       "last_name": "VERGES MUNTADAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24297,
       "sant_julia": null
     },
     {
@@ -1383,8 +1383,8 @@
       "last_name": "JULIAN VILANOVA",
       "gender": null,
       "club": "LA BALDUFA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24418,
       "sant_julia": null
     },
     {
@@ -1395,8 +1395,8 @@
       "last_name": "CARNE RAMIRO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24458,
       "sant_julia": null
     },
     {
@@ -1407,8 +1407,8 @@
       "last_name": "COMAJOAN MAYLLOLA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24458,
       "sant_julia": null
     },
     {
@@ -1419,8 +1419,8 @@
       "last_name": "GAVALDA GUTIERREZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24599,
       "sant_julia": null
     },
     {
@@ -1431,8 +1431,8 @@
       "last_name": "ROVIRA SOLA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24602,
       "sant_julia": null
     },
     {
@@ -1443,8 +1443,8 @@
       "last_name": "FAJULA ROVIRA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24634,
       "sant_julia": null
     },
     {
@@ -1455,8 +1455,8 @@
       "last_name": "RUIZ LOPEZ",
       "gender": null,
       "club": "OLÍMPIC MANLLEU",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24642,
       "sant_julia": null
     },
     {
@@ -1467,8 +1467,8 @@
       "last_name": "FLORES CUELLO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24714,
       "sant_julia": null
     },
     {
@@ -1479,8 +1479,8 @@
       "last_name": "CANTIZANO BALDO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24727,
       "sant_julia": null
     },
     {
@@ -1491,8 +1491,8 @@
       "last_name": "CONAN",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24754,
       "sant_julia": null
     },
     {
@@ -1503,8 +1503,8 @@
       "last_name": "JARAMILLO CALDERON",
       "gender": null,
       "club": "CENTRE EXCTA. TONA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24774,
       "sant_julia": null
     },
     {
@@ -1515,8 +1515,8 @@
       "last_name": "GODAYOL PRADA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24853,
       "sant_julia": null
     },
     {
@@ -1527,8 +1527,8 @@
       "last_name": "ROMERO LOPEZ",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24863,
       "sant_julia": null
     },
     {
@@ -1539,8 +1539,8 @@
       "last_name": "MASO SERRA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24864,
       "sant_julia": null
     },
     {
@@ -1551,8 +1551,8 @@
       "last_name": "DULCET GENARO",
       "gender": null,
       "club": "CENTRE EXCTA. DE TERRASSA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24875,
       "sant_julia": null
     },
     {
@@ -1563,8 +1563,8 @@
       "last_name": "CAMPRUBI FONT",
       "gender": null,
       "club": "CENTRE EXCTA. TORELLÓ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24893,
       "sant_julia": null
     },
     {
@@ -1575,8 +1575,8 @@
       "last_name": "ROS BIADA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24905,
       "sant_julia": null
     },
     {
@@ -1587,8 +1587,8 @@
       "last_name": "VERDAGUER DOT",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24913,
       "sant_julia": null
     },
     {
@@ -1599,8 +1599,8 @@
       "last_name": "VERDAGUER MAGEM",
       "gender": null,
       "club": "CENTRE EXCTA. SERRAGRENYADA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24923,
       "sant_julia": null
     },
     {
@@ -1611,8 +1611,8 @@
       "last_name": "MARTINEZ BLANCO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24941,
       "sant_julia": null
     },
     {
@@ -1623,8 +1623,8 @@
       "last_name": "ARANDA SANCHEZ",
       "gender": null,
       "club": "CENTRE EXCTA. TORELLÓ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24949,
       "sant_julia": null
     },
     {
@@ -1635,8 +1635,8 @@
       "last_name": "LLORENTE CASTILLO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24958,
       "sant_julia": null
     },
     {
@@ -1647,8 +1647,8 @@
       "last_name": "PUJOL COSTA",
       "gender": null,
       "club": "CENTRE EXCTA. TORELLÓ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 24973,
       "sant_julia": null
     },
     {
@@ -1659,8 +1659,8 @@
       "last_name": "CABRERA ORTEGA",
       "gender": null,
       "club": "CENTRE EXCTA. COMARCA DE BAGES",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 25096,
       "sant_julia": null
     },
     {
@@ -1671,8 +1671,8 @@
       "last_name": "CASINO LORITE",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 25152,
       "sant_julia": null
     },
     {
@@ -1683,8 +1683,8 @@
       "last_name": "NOGUE MASNOU",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 25232,
       "sant_julia": null
     },
     {
@@ -1695,8 +1695,8 @@
       "last_name": "NORMAND",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 25270,
       "sant_julia": null
     },
     {
@@ -1707,8 +1707,8 @@
       "last_name": "ILLAN FELIU",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 25404,
       "sant_julia": null
     },
     {
@@ -1719,8 +1719,8 @@
       "last_name": "PUJOL MOLLA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 25609,
       "sant_julia": null
     },
     {
@@ -1731,8 +1731,8 @@
       "last_name": "POU SANE",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 25612,
       "sant_julia": null
     },
     {
@@ -1743,8 +1743,8 @@
       "last_name": "FERNANDEZ VILAR",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 25659,
       "sant_julia": null
     },
     {
@@ -1755,8 +1755,8 @@
       "last_name": "FERNANDEZ VILAR",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 25664,
       "sant_julia": null
     },
     {
@@ -1767,8 +1767,8 @@
       "last_name": "POVEDANO RIVERA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 25780,
       "sant_julia": null
     },
     {
@@ -1779,8 +1779,8 @@
       "last_name": "SABATA AMBLAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 25805,
       "sant_julia": null
     },
     {
@@ -1791,8 +1791,8 @@
       "last_name": "PORRAS JIMENEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 25923,
       "sant_julia": null
     },
     {
@@ -1803,8 +1803,8 @@
       "last_name": "FRADERA SOSPEDRA",
       "gender": null,
       "club": "CENTRE EXCTA. GARRIGUENC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 25948,
       "sant_julia": null
     },
     {
@@ -1815,8 +1815,8 @@
       "last_name": "PORRAS JIMENEZ",
       "gender": null,
       "club": "CENTRE EXCTA. PREMIÀ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 25950,
       "sant_julia": null
     },
     {
@@ -1827,8 +1827,8 @@
       "last_name": "GONZALEZ SEVILLANO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 25971,
       "sant_julia": null
     },
     {
@@ -1839,8 +1839,8 @@
       "last_name": "PICORNELL GRENZNER",
       "gender": null,
       "club": "CEC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 25980,
       "sant_julia": null
     },
     {
@@ -1851,8 +1851,8 @@
       "last_name": "DALAMAU VIDAL",
       "gender": null,
       "club": "CENTRE EXCTA. DE CASTELLAR",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 25989,
       "sant_julia": null
     },
     {
@@ -1863,8 +1863,8 @@
       "last_name": "BALLESTER MATEOS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 25990,
       "sant_julia": null
     },
     {
@@ -1875,8 +1875,8 @@
       "last_name": "MARTI GALEOTE",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 26078,
       "sant_julia": null
     },
     {
@@ -1887,8 +1887,8 @@
       "last_name": "AGUILAR SERRA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 26209,
       "sant_julia": null
     },
     {
@@ -1899,8 +1899,8 @@
       "last_name": "PRAT AGULAR",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 26218,
       "sant_julia": null
     },
     {
@@ -1911,8 +1911,8 @@
       "last_name": "SELLES ROCA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 26302,
       "sant_julia": null
     },
     {
@@ -1923,8 +1923,8 @@
       "last_name": "GURRI CODINA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 26306,
       "sant_julia": null
     },
     {
@@ -1935,8 +1935,8 @@
       "last_name": "PLANELL ESTANY",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 26324,
       "sant_julia": null
     },
     {
@@ -1947,8 +1947,8 @@
       "last_name": "COMELLAS BESA",
       "gender": null,
       "club": "CENTRE EXCTA. DE NAVÀS",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 26329,
       "sant_julia": null
     },
     {
@@ -1959,8 +1959,8 @@
       "last_name": "BARRERA COROMINAS",
       "gender": null,
       "club": "DESMUNTAMARGES NAVÀS",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 26336,
       "sant_julia": null
     },
     {
@@ -1971,8 +1971,8 @@
       "last_name": "OLIVA TRAVE",
       "gender": null,
       "club": "NAVÀS VERTICAL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 26351,
       "sant_julia": null
     },
     {
@@ -1983,8 +1983,8 @@
       "last_name": "VILA VILAPLANA",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 26366,
       "sant_julia": null
     },
     {
@@ -1995,8 +1995,8 @@
       "last_name": "COSTA RIERA",
       "gender": null,
       "club": "UNIÓ EXCTA. VIC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 26372,
       "sant_julia": null
     },
     {
@@ -2007,8 +2007,8 @@
       "last_name": "SOLER ARAGONES",
       "gender": null,
       "club": "C.A. LES TORTUGUES",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 26376,
       "sant_julia": null
     },
     {
@@ -2019,8 +2019,8 @@
       "last_name": "SEÑOR GONZALEZ",
       "gender": null,
       "club": "BCN DRAGONS",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 26452,
       "sant_julia": null
     },
     {
@@ -2031,8 +2031,8 @@
       "last_name": "GOMEZ BASTUS",
       "gender": null,
       "club": "BCN DRAGONS",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 26454,
       "sant_julia": null
     },
     {
@@ -2043,8 +2043,8 @@
       "last_name": "DAVID DE SAUZEA RUSCALLEDA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 26510,
       "sant_julia": null
     },
     {
@@ -2055,8 +2055,8 @@
       "last_name": "PICAS SUÑER",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 26542,
       "sant_julia": null
     },
     {
@@ -2067,8 +2067,8 @@
       "last_name": "JUNYENT IGNACIO",
       "gender": null,
       "club": "FOMENT ARQUEOLÒGIC EXCTA. SALLENTÍ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 26552,
       "sant_julia": null
     },
     {
@@ -2079,8 +2079,8 @@
       "last_name": "GONZALEZ CORTES",
       "gender": null,
       "club": "CENTRE EXCTA. DE CASTELLAR",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 26596,
       "sant_julia": null
     },
     {
@@ -2091,8 +2091,8 @@
       "last_name": "CODINA CANADELL",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 26698,
       "sant_julia": null
     },
     {
@@ -2103,8 +2103,8 @@
       "last_name": "AZNAL MOZAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 26890,
       "sant_julia": null
     },
     {
@@ -2115,8 +2115,8 @@
       "last_name": "CASTRO SERRANO",
       "gender": null,
       "club": "ARGENTINA-PERÚ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 26950,
       "sant_julia": null
     },
     {
@@ -2127,8 +2127,8 @@
       "last_name": "VILA ROYO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 26958,
       "sant_julia": null
     },
     {
@@ -2139,8 +2139,8 @@
       "last_name": "LIMERES CORNELLA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 26973,
       "sant_julia": null
     },
     {
@@ -2151,8 +2151,8 @@
       "last_name": "PEREZ MOLINA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27029,
       "sant_julia": null
     },
     {
@@ -2163,8 +2163,8 @@
       "last_name": "CASALS SERRA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27030,
       "sant_julia": null
     },
     {
@@ -2175,8 +2175,8 @@
       "last_name": "MARTOS MARTOS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27060,
       "sant_julia": null
     },
     {
@@ -2187,8 +2187,8 @@
       "last_name": "BALLUS FARRES",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27306,
       "sant_julia": null
     },
     {
@@ -2199,8 +2199,8 @@
       "last_name": "SURIÑACH FABREGAS",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27313,
       "sant_julia": null
     },
     {
@@ -2211,8 +2211,8 @@
       "last_name": "GONZALEZ SADURNI",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27322,
       "sant_julia": null
     },
     {
@@ -2223,8 +2223,8 @@
       "last_name": "MALAVE GUIX",
       "gender": null,
       "club": "OLÍMPIC MANLLEU",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27346,
       "sant_julia": null
     },
     {
@@ -2235,8 +2235,8 @@
       "last_name": "GALAN ALEU",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27405,
       "sant_julia": null
     },
     {
@@ -2247,8 +2247,8 @@
       "last_name": "TEIXIDOR PUJOLS",
       "gender": null,
       "club": "ASS.ESP. MOUNTAIN RUNNERS DEL BERGUEDÀ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27410,
       "sant_julia": null
     },
     {
@@ -2259,8 +2259,8 @@
       "last_name": "MOLIST PUJADAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27478,
       "sant_julia": null
     },
     {
@@ -2271,8 +2271,8 @@
       "last_name": "COLLELL COMAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27526,
       "sant_julia": null
     },
     {
@@ -2283,8 +2283,8 @@
       "last_name": "PAEZ RAMIREZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27543,
       "sant_julia": null
     },
     {
@@ -2295,8 +2295,8 @@
       "last_name": "PEIPOCH SERRAT",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27551,
       "sant_julia": null
     },
     {
@@ -2307,8 +2307,8 @@
       "last_name": "JORDA PLA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27564,
       "sant_julia": null
     },
     {
@@ -2319,8 +2319,8 @@
       "last_name": "DAVI TOMAS",
       "gender": null,
       "club": "ASS.EXCTA. LILLET",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27566,
       "sant_julia": null
     },
     {
@@ -2331,8 +2331,8 @@
       "last_name": "VALLDAURA GUITART",
       "gender": null,
       "club": "CENTRE EXCTA. TORELLÓ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27612,
       "sant_julia": null
     },
     {
@@ -2343,8 +2343,8 @@
       "last_name": "CURRIUS COSTA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27617,
       "sant_julia": null
     },
     {
@@ -2355,8 +2355,8 @@
       "last_name": "VALBUENA RANCHAL",
       "gender": null,
       "club": "UNIÓ EXCTA. VIC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27630,
       "sant_julia": null
     },
     {
@@ -2367,8 +2367,8 @@
       "last_name": "JUNCADELLA COLMENERO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27632,
       "sant_julia": null
     },
     {
@@ -2379,8 +2379,8 @@
       "last_name": "PADROS FERRERO",
       "gender": null,
       "club": "ASS.ESP. DIEDRE",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27644,
       "sant_julia": null
     },
     {
@@ -2391,8 +2391,8 @@
       "last_name": "FORNS DANES",
       "gender": null,
       "club": "CLUB EXCTA. RIPOLL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27752,
       "sant_julia": null
     },
     {
@@ -2403,8 +2403,8 @@
       "last_name": "VALLDAURA GIRAVENT",
       "gender": null,
       "club": "CENTRE EXCTA. TORELLÓ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27798,
       "sant_julia": null
     },
     {
@@ -2415,8 +2415,8 @@
       "last_name": "GUITART MALAGARRIGA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27805,
       "sant_julia": null
     },
     {
@@ -2427,8 +2427,8 @@
       "last_name": "RADORTA CROUS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27824,
       "sant_julia": null
     },
     {
@@ -2439,8 +2439,8 @@
       "last_name": "JORDA VILA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27889,
       "sant_julia": null
     },
     {
@@ -2451,8 +2451,8 @@
       "last_name": "ESCALERA SAPERAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27943,
       "sant_julia": null
     },
     {
@@ -2463,8 +2463,8 @@
       "last_name": "SALA POVEDANO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 27964,
       "sant_julia": null
     },
     {
@@ -2475,8 +2475,8 @@
       "last_name": "BRUTAU RICART",
       "gender": null,
       "club": "CLUB ESPARREGUERA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28019,
       "sant_julia": null
     },
     {
@@ -2487,8 +2487,8 @@
       "last_name": "RODRIGUEZ JIMENEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28426,
       "sant_julia": null
     },
     {
@@ -2499,8 +2499,8 @@
       "last_name": "COT ROS",
       "gender": null,
       "club": "MNW FINISHERS DIVISION",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28449,
       "sant_julia": null
     },
     {
@@ -2511,8 +2511,8 @@
       "last_name": "BADIA ANGUERA",
       "gender": null,
       "club": "CENTRE EXCTA. DE LA SEGARRA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28465,
       "sant_julia": null
     },
     {
@@ -2523,8 +2523,8 @@
       "last_name": "ARJONA VILLAR",
       "gender": null,
       "club": "CENTRE EXCTA. HOSTALETS DE BALENYÀ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28470,
       "sant_julia": null
     },
     {
@@ -2535,8 +2535,8 @@
       "last_name": "MARTINEZ FARRE",
       "gender": null,
       "club": "CENTRE EXCTA. BORGES GARRIGUES",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28480,
       "sant_julia": null
     },
     {
@@ -2547,8 +2547,8 @@
       "last_name": "VENDRELL MARIN",
       "gender": null,
       "club": "CENTRE EXCTA. DE CASTELLAR",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28490,
       "sant_julia": null
     },
     {
@@ -2559,8 +2559,8 @@
       "last_name": "SANCHEZ CARRION",
       "gender": null,
       "club": "CENTRE EXCTA. DE CASTELLAR",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28495,
       "sant_julia": null
     },
     {
@@ -2571,8 +2571,8 @@
       "last_name": "GARRIDO DOMINGUEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28497,
       "sant_julia": null
     },
     {
@@ -2583,8 +2583,8 @@
       "last_name": "MORALES CASANUEVA",
       "gender": null,
       "club": "CENTRE EXCTA. DE CASTELLAR",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28508,
       "sant_julia": null
     },
     {
@@ -2595,8 +2595,8 @@
       "last_name": "GUERRERO MONTERO",
       "gender": null,
       "club": "SALTAMARGES",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28562,
       "sant_julia": null
     },
     {
@@ -2607,8 +2607,8 @@
       "last_name": "MAYORGA CUEVAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28616,
       "sant_julia": null
     },
     {
@@ -2619,8 +2619,8 @@
       "last_name": "PRAT GARCIA",
       "gender": null,
       "club": "BIBLIOTECA 4",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28631,
       "sant_julia": null
     },
     {
@@ -2631,8 +2631,8 @@
       "last_name": "CAÑAS BRUGUERA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28638,
       "sant_julia": null
     },
     {
@@ -2643,8 +2643,8 @@
       "last_name": "CASADEVALL FONT",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28639,
       "sant_julia": null
     },
     {
@@ -2655,8 +2655,8 @@
       "last_name": "EXPOSITO BUDIA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28644,
       "sant_julia": null
     },
     {
@@ -2667,8 +2667,8 @@
       "last_name": "COLOMER ALIER",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28647,
       "sant_julia": null
     },
     {
@@ -2679,8 +2679,8 @@
       "last_name": "LOPEZ FRANCO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28654,
       "sant_julia": null
     },
     {
@@ -2691,8 +2691,8 @@
       "last_name": "CANO RIERA",
       "gender": null,
       "club": "CLUB EXCTA. INDEPENDENT DE CATALUNYA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28663,
       "sant_julia": null
     },
     {
@@ -2703,8 +2703,8 @@
       "last_name": "OLIVET RIVERA",
       "gender": null,
       "club": "NADAPEDALEACORRE",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28683,
       "sant_julia": null
     },
     {
@@ -2715,8 +2715,8 @@
       "last_name": "PONS PUJOL",
       "gender": null,
       "club": "UNIÓ EXCTA. DE CATALUNYA BARCELONA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28687,
       "sant_julia": null
     },
     {
@@ -2727,8 +2727,8 @@
       "last_name": "RIGOL TRIBO",
       "gender": null,
       "club": "4000 PEUS ASS.EXCTA. COLLBATÓ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28702,
       "sant_julia": null
     },
     {
@@ -2739,8 +2739,8 @@
       "last_name": "ARNAU MAS",
       "gender": null,
       "club": "4000 PEUS ASS.EXCTA. COLLBATÓ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28707,
       "sant_julia": null
     },
     {
@@ -2751,8 +2751,8 @@
       "last_name": "CAMPRECIOS BLASI",
       "gender": null,
       "club": "CLUB EXCTA. MADTEAM",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28819,
       "sant_julia": null
     },
     {
@@ -2763,8 +2763,8 @@
       "last_name": "MARTI TEIXIDO",
       "gender": null,
       "club": "AGRUP.CIENTIFICO-EXCTA. MATARÓ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28824,
       "sant_julia": null
     },
     {
@@ -2775,8 +2775,8 @@
       "last_name": "COSTA ORRIOLS",
       "gender": null,
       "club": "GRUP EXCTA. MANLLEU",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28953,
       "sant_julia": null
     },
     {
@@ -2787,8 +2787,8 @@
       "last_name": "VILACIS BAURIER",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28956,
       "sant_julia": null
     },
     {
@@ -2799,8 +2799,8 @@
       "last_name": "SOLA HIDALGO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28961,
       "sant_julia": null
     },
     {
@@ -2811,8 +2811,8 @@
       "last_name": "PUIGSECH BENET",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28969,
       "sant_julia": null
     },
     {
@@ -2823,8 +2823,8 @@
       "last_name": "MOLERO SADURNI",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28972,
       "sant_julia": null
     },
     {
@@ -2835,8 +2835,8 @@
       "last_name": "VIVES FONT",
       "gender": null,
       "club": "CENTRE EXCTA. DE TERRASSA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 28975,
       "sant_julia": null
     },
     {
@@ -2847,8 +2847,8 @@
       "last_name": "BIGAS CASAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29005,
       "sant_julia": null
     },
     {
@@ -2859,8 +2859,8 @@
       "last_name": "RODRIGUEZ SERRANO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29079,
       "sant_julia": null
     },
     {
@@ -2871,8 +2871,8 @@
       "last_name": "BOSCH DE PEDRO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29098,
       "sant_julia": null
     },
     {
@@ -2883,8 +2883,8 @@
       "last_name": "GONZALO VILA",
       "gender": null,
       "club": "BADABADOC COMUNICACIÓ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29148,
       "sant_julia": null
     },
     {
@@ -2895,8 +2895,8 @@
       "last_name": "COLL VILA",
       "gender": null,
       "club": "UNIÓ EXCURSIONISTA SEVA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29174,
       "sant_julia": null
     },
     {
@@ -2907,8 +2907,8 @@
       "last_name": "DAMUNT MUIXI",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29341,
       "sant_julia": null
     },
     {
@@ -2919,8 +2919,8 @@
       "last_name": "ALVAREZ DE PUIG-SAMPER",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29377,
       "sant_julia": null
     },
     {
@@ -2931,8 +2931,8 @@
       "last_name": "SOLANICH SUCARRATS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29416,
       "sant_julia": null
     },
     {
@@ -2943,8 +2943,8 @@
       "last_name": "VERNET SUCARRATS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29421,
       "sant_julia": null
     },
     {
@@ -2955,8 +2955,8 @@
       "last_name": "FURRIOLS SOLA",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29513,
       "sant_julia": null
     },
     {
@@ -2967,8 +2967,8 @@
       "last_name": "COSTA FURRIOLS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29536,
       "sant_julia": null
     },
     {
@@ -2979,8 +2979,8 @@
       "last_name": "BOSCH RAURELL",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29553,
       "sant_julia": null
     },
     {
@@ -2991,8 +2991,8 @@
       "last_name": "OFERIL AGUADO",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29558,
       "sant_julia": null
     },
     {
@@ -3003,8 +3003,8 @@
       "last_name": "FERNANDEZ BENITEZ",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29573,
       "sant_julia": null
     },
     {
@@ -3015,8 +3015,8 @@
       "last_name": "CAMPS FONTARNAU",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29641,
       "sant_julia": null
     },
     {
@@ -3027,8 +3027,8 @@
       "last_name": "ROCA PURSALS",
       "gender": null,
       "club": "CENTRE ALPÍ GIRONELLA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29642,
       "sant_julia": null
     },
     {
@@ -3039,8 +3039,8 @@
       "last_name": "PALLAROLS BROSSA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29663,
       "sant_julia": null
     },
     {
@@ -3051,8 +3051,8 @@
       "last_name": "PADROS SALLES",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29669,
       "sant_julia": null
     },
     {
@@ -3063,8 +3063,8 @@
       "last_name": "BARO BONET",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29731,
       "sant_julia": null
     },
     {
@@ -3075,8 +3075,8 @@
       "last_name": "CUCH TOBIAS",
       "gender": null,
       "club": "TRIBIKEFORNERS",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29733,
       "sant_julia": null
     },
     {
@@ -3087,8 +3087,8 @@
       "last_name": "MARTINEZ PUIG",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29737,
       "sant_julia": null
     },
     {
@@ -3099,8 +3099,8 @@
       "last_name": "HOMS PUIGDESENS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29742,
       "sant_julia": null
     },
     {
@@ -3111,8 +3111,8 @@
       "last_name": "ICART MIRALLES",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29744,
       "sant_julia": null
     },
     {
@@ -3123,8 +3123,8 @@
       "last_name": "SUBIRA CASTELLA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29751,
       "sant_julia": null
     },
     {
@@ -3135,8 +3135,8 @@
       "last_name": "ROVIRA PORTET",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29752,
       "sant_julia": null
     },
     {
@@ -3147,8 +3147,8 @@
       "last_name": "RODRIGUEZ ARCARONS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29753,
       "sant_julia": null
     },
     {
@@ -3159,8 +3159,8 @@
       "last_name": "PARRILA MARTINEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29754,
       "sant_julia": null
     },
     {
@@ -3171,8 +3171,8 @@
       "last_name": "GIRO GUTIERREZ",
       "gender": null,
       "club": "CLUB BTT TRINXACADENES",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29756,
       "sant_julia": null
     },
     {
@@ -3183,8 +3183,8 @@
       "last_name": "BRUCH PAGESPETIT",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29788,
       "sant_julia": null
     },
     {
@@ -3195,8 +3195,8 @@
       "last_name": "XICOLA RIULAS",
       "gender": null,
       "club": "CLUB MUNTANYENC MOLLET",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29793,
       "sant_julia": null
     },
     {
@@ -3207,8 +3207,8 @@
       "last_name": "GIL RAMOS",
       "gender": null,
       "club": "CENTRE EXCTA. LLINARS DEL VALLÈS",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29811,
       "sant_julia": null
     },
     {
@@ -3219,8 +3219,8 @@
       "last_name": "RODRIGUEZ PEREZ",
       "gender": null,
       "club": "CENTRE EXCTA. LLINARS DEL VALLÈS",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29829,
       "sant_julia": null
     },
     {
@@ -3231,8 +3231,8 @@
       "last_name": "MAJORAL GINESTA",
       "gender": null,
       "club": "CENTRE EXCTA. LLINARS DEL VALLÈS",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29830,
       "sant_julia": null
     },
     {
@@ -3243,8 +3243,8 @@
       "last_name": "CABALLERO GRANADO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 29831,
       "sant_julia": null
     },
     {
@@ -3255,8 +3255,8 @@
       "last_name": "ALONSO GIRALDE",
       "gender": null,
       "club": "AREC TERRASSA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30045,
       "sant_julia": null
     },
     {
@@ -3267,8 +3267,8 @@
       "last_name": "CORDERO MARTINEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30047,
       "sant_julia": null
     },
     {
@@ -3279,8 +3279,8 @@
       "last_name": "CORDERO SORIA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30058,
       "sant_julia": null
     },
     {
@@ -3291,8 +3291,8 @@
       "last_name": "MOLERO ANDRES",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30066,
       "sant_julia": null
     },
     {
@@ -3303,8 +3303,8 @@
       "last_name": "MOIX CAMATS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30068,
       "sant_julia": null
     },
     {
@@ -3315,8 +3315,8 @@
       "last_name": "PLARROMANI VILA",
       "gender": null,
       "club": "ASS.ESP. MOUNTAIN RUNNERS DEL BERGUEDÀ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30077,
       "sant_julia": null
     },
     {
@@ -3327,8 +3327,8 @@
       "last_name": "FAURA PEDRALS",
       "gender": null,
       "club": "UNIÓ EXCTA. DE CATALUNYA BAGÀ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30081,
       "sant_julia": null
     },
     {
@@ -3339,8 +3339,8 @@
       "last_name": "TARRES FRUITOS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30162,
       "sant_julia": null
     },
     {
@@ -3351,8 +3351,8 @@
       "last_name": "CARRERAS VILALTA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30197,
       "sant_julia": null
     },
     {
@@ -3363,8 +3363,8 @@
       "last_name": "CARRERA DACHS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30310,
       "sant_julia": null
     },
     {
@@ -3375,8 +3375,8 @@
       "last_name": "CARRERA DACHS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30313,
       "sant_julia": null
     },
     {
@@ -3387,8 +3387,8 @@
       "last_name": "CANADELL GUMI",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30328,
       "sant_julia": null
     },
     {
@@ -3399,8 +3399,8 @@
       "last_name": "ROSELL IBORRA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30348,
       "sant_julia": null
     },
     {
@@ -3411,8 +3411,8 @@
       "last_name": "DIAZ ORTEGA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30364,
       "sant_julia": null
     },
     {
@@ -3423,8 +3423,8 @@
       "last_name": "PUIG MARTIN",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30381,
       "sant_julia": null
     },
     {
@@ -3435,8 +3435,8 @@
       "last_name": "VILADECANS RIERA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30403,
       "sant_julia": null
     },
     {
@@ -3447,8 +3447,8 @@
       "last_name": "HAUSMANN COLOMER",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30413,
       "sant_julia": null
     },
     {
@@ -3459,8 +3459,8 @@
       "last_name": "BALLUS SERRA",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30446,
       "sant_julia": null
     },
     {
@@ -3471,8 +3471,8 @@
       "last_name": "ROSELL MARTI",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30446,
       "sant_julia": null
     },
     {
@@ -3483,8 +3483,8 @@
       "last_name": "VILARDELL ROMEU",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30452,
       "sant_julia": null
     },
     {
@@ -3495,8 +3495,8 @@
       "last_name": "BENITO ABAD",
       "gender": null,
       "club": "UNIÓ EXCTA. DE SABADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30485,
       "sant_julia": null
     },
     {
@@ -3507,8 +3507,8 @@
       "last_name": "CAPDEVILA MAS",
       "gender": null,
       "club": "C.A. VIC - UNIÓ EXCURS. VIC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30533,
       "sant_julia": null
     },
     {
@@ -3519,8 +3519,8 @@
       "last_name": "CAMPS CASANOVAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30538,
       "sant_julia": null
     },
     {
@@ -3531,8 +3531,8 @@
       "last_name": "SAEZ MONLEON",
       "gender": null,
       "club": "ASS.ESP. DIEDRE",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30539,
       "sant_julia": null
     },
     {
@@ -3543,8 +3543,8 @@
       "last_name": "RIVAS LOPEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30543,
       "sant_julia": null
     },
     {
@@ -3555,8 +3555,8 @@
       "last_name": "SUBIRANA SANTANACH",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30557,
       "sant_julia": null
     },
     {
@@ -3567,8 +3567,8 @@
       "last_name": "ALONSO ALVAREZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30648,
       "sant_julia": null
     },
     {
@@ -3579,8 +3579,8 @@
       "last_name": "VINADER SANCHEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30666,
       "sant_julia": null
     },
     {
@@ -3591,8 +3591,8 @@
       "last_name": "CASANOVAS CASAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30667,
       "sant_julia": null
     },
     {
@@ -3603,8 +3603,8 @@
       "last_name": "FONT SERRA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30667,
       "sant_julia": null
     },
     {
@@ -3615,8 +3615,8 @@
       "last_name": "CASANOVAS NOGUER",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30676,
       "sant_julia": null
     },
     {
@@ -3627,8 +3627,8 @@
       "last_name": "CAMPS TONA",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30677,
       "sant_julia": null
     },
     {
@@ -3639,8 +3639,8 @@
       "last_name": "ROSELL IBORRA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30763,
       "sant_julia": null
     },
     {
@@ -3651,8 +3651,8 @@
       "last_name": "ALVAREZ DE PUIG-SAMPER",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30810,
       "sant_julia": null
     },
     {
@@ -3663,8 +3663,8 @@
       "last_name": "CAMACHO NARANJO",
       "gender": null,
       "club": "UNIÓ EXCTA. VIC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30839,
       "sant_julia": null
     },
     {
@@ -3675,8 +3675,8 @@
       "last_name": "FONT GARRIDO",
       "gender": null,
       "club": "UNIÓ EXCTA. PRATS",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30842,
       "sant_julia": null
     },
     {
@@ -3687,8 +3687,8 @@
       "last_name": "MORENO ALONSO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 30850,
       "sant_julia": null
     },
     {
@@ -3699,8 +3699,8 @@
       "last_name": "VIGO MACIA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31034,
       "sant_julia": null
     },
     {
@@ -3711,8 +3711,8 @@
       "last_name": "MEDIR BENITO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31048,
       "sant_julia": null
     },
     {
@@ -3723,8 +3723,8 @@
       "last_name": "FONT BERDONES",
       "gender": null,
       "club": "CENTRE EXCTA. D'ABRERA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31128,
       "sant_julia": null
     },
     {
@@ -3735,8 +3735,8 @@
       "last_name": "CASAJUANA CUETO",
       "gender": null,
       "club": "CENTRE EXCTA. D'ABRERA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31134,
       "sant_julia": null
     },
     {
@@ -3747,8 +3747,8 @@
       "last_name": "MORCILLO VIVET",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31157,
       "sant_julia": null
     },
     {
@@ -3759,8 +3759,8 @@
       "last_name": "DOMINGUEZ FERRER",
       "gender": null,
       "club": "UNIÓ EXCTA. DE SABADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31172,
       "sant_julia": null
     },
     {
@@ -3771,8 +3771,8 @@
       "last_name": "DURAN CLADELLAS",
       "gender": null,
       "club": "UNIÓ EXCTA. DE SABADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31182,
       "sant_julia": null
     },
     {
@@ -3783,8 +3783,8 @@
       "last_name": "VELASCO MARTINEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31317,
       "sant_julia": null
     },
     {
@@ -3795,8 +3795,8 @@
       "last_name": "GARCIA MOLINS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31332,
       "sant_julia": null
     },
     {
@@ -3807,8 +3807,8 @@
       "last_name": "ERRA ZUBIRI",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31340,
       "sant_julia": null
     },
     {
@@ -3819,8 +3819,8 @@
       "last_name": "TRAGAN PUJOL",
       "gender": null,
       "club": "CLUB EXCTA. MADTEAM",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31346,
       "sant_julia": null
     },
     {
@@ -3831,8 +3831,8 @@
       "last_name": "SEGURA PORRET",
       "gender": null,
       "club": "CENTRE EXCTA. RIPOLLET",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31356,
       "sant_julia": null
     },
     {
@@ -3843,8 +3843,8 @@
       "last_name": "GARRIGA COSTA",
       "gender": null,
       "club": "CENTRE EXCTA. RIPOLLET",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31372,
       "sant_julia": null
     },
     {
@@ -3855,8 +3855,8 @@
       "last_name": "CANELA ALMIRALL",
       "gender": null,
       "club": "CLUB EXCTA. CIMA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31426,
       "sant_julia": null
     },
     {
@@ -3867,8 +3867,8 @@
       "last_name": "MARTIN GONZALEZ",
       "gender": null,
       "club": "CALIFORNIA SPORTS",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31434,
       "sant_julia": null
     },
     {
@@ -3879,8 +3879,8 @@
       "last_name": "CAMPOS CARRE",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31455,
       "sant_julia": null
     },
     {
@@ -3891,8 +3891,8 @@
       "last_name": "COLOMO ESCRIBANO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31522,
       "sant_julia": null
     },
     {
@@ -3903,8 +3903,8 @@
       "last_name": "TERNS BARJUAN",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31527,
       "sant_julia": null
     },
     {
@@ -3915,8 +3915,8 @@
       "last_name": "MAGAÑA MAURIÑO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31624,
       "sant_julia": null
     },
     {
@@ -3927,8 +3927,8 @@
       "last_name": "MUÑOZ CIRICI",
       "gender": null,
       "club": "CAS",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31637,
       "sant_julia": null
     },
     {
@@ -3939,8 +3939,8 @@
       "last_name": "LLORENSI TORRENT",
       "gender": null,
       "club": "CARS",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31655,
       "sant_julia": null
     },
     {
@@ -3951,8 +3951,8 @@
       "last_name": "SELLARES CASAS",
       "gender": null,
       "club": "CENTRE EXCTA. DE CASTELLAR",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31676,
       "sant_julia": null
     },
     {
@@ -3963,8 +3963,8 @@
       "last_name": "LAENCINA VERDAGUER",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31750,
       "sant_julia": null
     },
     {
@@ -3975,8 +3975,8 @@
       "last_name": "IZERN BASSOLS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31762,
       "sant_julia": null
     },
     {
@@ -3987,8 +3987,8 @@
       "last_name": "MARCOS BALLESTER",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31850,
       "sant_julia": null
     },
     {
@@ -3999,8 +3999,8 @@
       "last_name": "VILA SUÑE",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31854,
       "sant_julia": null
     },
     {
@@ -4011,8 +4011,8 @@
       "last_name": "GIMFERRER CASANOVAS",
       "gender": null,
       "club": "CLUB EXCTA. INDEPENDENT DE CATALUNYA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31939,
       "sant_julia": null
     },
     {
@@ -4023,8 +4023,8 @@
       "last_name": "GIMFERRER CASANOVAS",
       "gender": null,
       "club": "CLUB EXCTA. INDEPENDENT DE CATALUNYA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 31939,
       "sant_julia": null
     },
     {
@@ -4035,8 +4035,8 @@
       "last_name": "DACHS PENA",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 32049,
       "sant_julia": null
     },
     {
@@ -4047,8 +4047,8 @@
       "last_name": "VILLAR MORATALLA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 32072,
       "sant_julia": null
     },
     {
@@ -4059,8 +4059,8 @@
       "last_name": "CATALA ESTARELLES",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 32141,
       "sant_julia": null
     },
     {
@@ -4071,8 +4071,8 @@
       "last_name": "CABANAS COLLELL",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 32359,
       "sant_julia": null
     },
     {
@@ -4083,8 +4083,8 @@
       "last_name": "BORROS PLANS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 32365,
       "sant_julia": null
     },
     {
@@ -4095,8 +4095,8 @@
       "last_name": "PALOMERAS PARELLA",
       "gender": null,
       "club": "EL CARGOLET",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 32377,
       "sant_julia": null
     },
     {
@@ -4107,8 +4107,8 @@
       "last_name": "CASSANY POU",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 32391,
       "sant_julia": null
     },
     {
@@ -4119,8 +4119,8 @@
       "last_name": "AUSIO MASRAMON",
       "gender": null,
       "club": "CENTRE EXCTA. TONA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 32413,
       "sant_julia": null
     },
     {
@@ -4131,8 +4131,8 @@
       "last_name": "BODRO GIRALT",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 32419,
       "sant_julia": null
     },
     {
@@ -4143,8 +4143,8 @@
       "last_name": "SOLEY CORDERAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 32421,
       "sant_julia": null
     },
     {
@@ -4155,8 +4155,8 @@
       "last_name": "FERRER SERRANO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 32445,
       "sant_julia": null
     },
     {
@@ -4167,8 +4167,8 @@
       "last_name": "REINA SORS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 32448,
       "sant_julia": null
     },
     {
@@ -4179,8 +4179,8 @@
       "last_name": "SALA MASO",
       "gender": null,
       "club": "UNIÓ EXCTA. SANT JOAN DE LES ABADESSES",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 32472,
       "sant_julia": null
     },
     {
@@ -4191,8 +4191,8 @@
       "last_name": "DANES MORET",
       "gender": null,
       "club": "UNIÓ EXCTA. SANT JOAN DE LES ABADESSES",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 32477,
       "sant_julia": null
     },
     {
@@ -4203,8 +4203,8 @@
       "last_name": "GUARDIA OLIVERAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 32523,
       "sant_julia": null
     },
     {
@@ -4215,8 +4215,8 @@
       "last_name": "GUARDIA FABREGAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 32536,
       "sant_julia": null
     },
     {
@@ -4227,8 +4227,8 @@
       "last_name": "TENAS BENET",
       "gender": null,
       "club": "CENTRE EXCTA. TORELLÓ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 32696,
       "sant_julia": null
     },
     {
@@ -4239,8 +4239,8 @@
       "last_name": "VALLS OFERIL",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 32755,
       "sant_julia": null
     },
     {
@@ -4251,8 +4251,8 @@
       "last_name": "VERDAGUER PORTET",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 32758,
       "sant_julia": null
     },
     {
@@ -4263,8 +4263,8 @@
       "last_name": "PUJOL VIDAL",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 32767,
       "sant_julia": null
     },
     {
@@ -4275,8 +4275,8 @@
       "last_name": "FERRER SERRANO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 32817,
       "sant_julia": null
     },
     {
@@ -4287,8 +4287,8 @@
       "last_name": "POL TORRAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 32852,
       "sant_julia": null
     },
     {
@@ -4299,8 +4299,8 @@
       "last_name": "CAROL MORERA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 32852,
       "sant_julia": null
     },
     {
@@ -4311,8 +4311,8 @@
       "last_name": "BARCELO PUJOL",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 32855,
       "sant_julia": null
     },
     {
@@ -4323,8 +4323,8 @@
       "last_name": "MULA MONTSENY",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 32998,
       "sant_julia": null
     },
     {
@@ -4335,8 +4335,8 @@
       "last_name": "ROVIRA HOMS",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33002,
       "sant_julia": null
     },
     {
@@ -4347,8 +4347,8 @@
       "last_name": "BAYES ESPINET",
       "gender": null,
       "club": "CLUB EXCTA. CALLDETENES",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33010,
       "sant_julia": null
     },
     {
@@ -4359,8 +4359,8 @@
       "last_name": "DEL OLMO CASELLAS",
       "gender": null,
       "club": "CLUB EXCTA. CALLDETENES",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33011,
       "sant_julia": null
     },
     {
@@ -4371,8 +4371,8 @@
       "last_name": "FURRIOLS SOLA",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33033,
       "sant_julia": null
     },
     {
@@ -4383,8 +4383,8 @@
       "last_name": "BOFILL MARGINET",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33084,
       "sant_julia": null
     },
     {
@@ -4395,8 +4395,8 @@
       "last_name": "COSTA CAMPA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33113,
       "sant_julia": null
     },
     {
@@ -4407,8 +4407,8 @@
       "last_name": "COLOMER BOSCH",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33216,
       "sant_julia": null
     },
     {
@@ -4419,8 +4419,8 @@
       "last_name": "LORENTE GONZALEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33221,
       "sant_julia": null
     },
     {
@@ -4431,8 +4431,8 @@
       "last_name": "CASAS CASTAÑE",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33240,
       "sant_julia": null
     },
     {
@@ -4443,8 +4443,8 @@
       "last_name": "LATORREL LARA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33246,
       "sant_julia": null
     },
     {
@@ -4455,8 +4455,8 @@
       "last_name": "CARVAJAL ORDAZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33248,
       "sant_julia": null
     },
     {
@@ -4467,8 +4467,8 @@
       "last_name": "ALBERCH VERDAGUER",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33251,
       "sant_julia": null
     },
     {
@@ -4479,8 +4479,8 @@
       "last_name": "ROTA BENITO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33278,
       "sant_julia": null
     },
     {
@@ -4491,8 +4491,8 @@
       "last_name": "PEREA TEIXIDOR",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33298,
       "sant_julia": null
     },
     {
@@ -4503,8 +4503,8 @@
       "last_name": "CARBONELL MORERA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33300,
       "sant_julia": null
     },
     {
@@ -4515,8 +4515,8 @@
       "last_name": "MAIDEU PLANELLA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33422,
       "sant_julia": null
     },
     {
@@ -4527,8 +4527,8 @@
       "last_name": "MAIDEU PLANELLA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33429,
       "sant_julia": null
     },
     {
@@ -4539,8 +4539,8 @@
       "last_name": "VILARDELL RIFA",
       "gender": null,
       "club": "CENTRE EXCTA. LA GARRIGA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33433,
       "sant_julia": null
     },
     {
@@ -4551,8 +4551,8 @@
       "last_name": "GALLEGO SARAÑANA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33455,
       "sant_julia": null
     },
     {
@@ -4563,8 +4563,8 @@
       "last_name": "VIVAS LLOPART",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33461,
       "sant_julia": null
     },
     {
@@ -4575,8 +4575,8 @@
       "last_name": "GARCIA GOMEZ",
       "gender": null,
       "club": "SOLO RUNNERS",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33472,
       "sant_julia": null
     },
     {
@@ -4587,8 +4587,8 @@
       "last_name": "PASCUAL SALA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33519,
       "sant_julia": null
     },
     {
@@ -4599,8 +4599,8 @@
       "last_name": "PERAIRE SOLER",
       "gender": null,
       "club": "UNIÓ EXCTA. PRATS",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33601,
       "sant_julia": null
     },
     {
@@ -4611,8 +4611,8 @@
       "last_name": "MOLINA ARENAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33619,
       "sant_julia": null
     },
     {
@@ -4623,8 +4623,8 @@
       "last_name": "MAS CORRETGE",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33659,
       "sant_julia": null
     },
     {
@@ -4635,8 +4635,8 @@
       "last_name": "SERRATOSA ESTRADA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33661,
       "sant_julia": null
     },
     {
@@ -4647,8 +4647,8 @@
       "last_name": "COSTAS BARRERA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33662,
       "sant_julia": null
     },
     {
@@ -4659,8 +4659,8 @@
       "last_name": "CUENCA CAYUELAS",
       "gender": null,
       "club": "CLUB EXCTA. INDEPENDENT DE CATALUNYA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33692,
       "sant_julia": null
     },
     {
@@ -4671,8 +4671,8 @@
       "last_name": "GINESTA LLAGOSTERA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33749,
       "sant_julia": null
     },
     {
@@ -4683,8 +4683,8 @@
       "last_name": "SANTAMARIA TARTER",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33783,
       "sant_julia": null
     },
     {
@@ -4695,8 +4695,8 @@
       "last_name": "CRUSAT ENRICH",
       "gender": null,
       "club": "4000 PEUS ASS.EXCTA. COLLBATÓ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33863,
       "sant_julia": null
     },
     {
@@ -4707,8 +4707,8 @@
       "last_name": "PERIS DURAN",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33913,
       "sant_julia": null
     },
     {
@@ -4719,8 +4719,8 @@
       "last_name": "CODONY BOVER",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33914,
       "sant_julia": null
     },
     {
@@ -4731,8 +4731,8 @@
       "last_name": "MIR PEREZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 33970,
       "sant_julia": null
     },
     {
@@ -4743,8 +4743,8 @@
       "last_name": "ORTEGA CERDA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34016,
       "sant_julia": null
     },
     {
@@ -4755,8 +4755,8 @@
       "last_name": "ALIER CAPDEVILA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34028,
       "sant_julia": null
     },
     {
@@ -4767,8 +4767,8 @@
       "last_name": "GUILLEN SANCHEZ",
       "gender": null,
       "club": "AGRUP.CIENTIFICO-EXCTA. MATARÓ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34033,
       "sant_julia": null
     },
     {
@@ -4779,8 +4779,8 @@
       "last_name": "CONTEL CABAÑAS",
       "gender": null,
       "club": "CLUB EXCTA. DE GRÀCIA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34054,
       "sant_julia": null
     },
     {
@@ -4791,8 +4791,8 @@
       "last_name": "MANUEL MACEDO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34055,
       "sant_julia": null
     },
     {
@@ -4803,8 +4803,8 @@
       "last_name": "SAMPEDRO PEREZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34061,
       "sant_julia": null
     },
     {
@@ -4815,8 +4815,8 @@
       "last_name": "BERGA CORTADELLA",
       "gender": null,
       "club": "CENTRE EXCTA. TORRELLENC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34071,
       "sant_julia": null
     },
     {
@@ -4827,8 +4827,8 @@
       "last_name": "RULL ESPLUGAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34077,
       "sant_julia": null
     },
     {
@@ -4839,8 +4839,8 @@
       "last_name": "ESPERALBA ESQUERRA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34078,
       "sant_julia": null
     },
     {
@@ -4851,8 +4851,8 @@
       "last_name": "GARCIA RODRIGUEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34078,
       "sant_julia": null
     },
     {
@@ -4863,8 +4863,8 @@
       "last_name": "LOZANO GARCIA",
       "gender": null,
       "club": "CENTRE EXCTA. DE LA SEGARRA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34078,
       "sant_julia": null
     },
     {
@@ -4875,8 +4875,8 @@
       "last_name": "RIBA AMAT",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34084,
       "sant_julia": null
     },
     {
@@ -4887,8 +4887,8 @@
       "last_name": "FUENTES PRAT",
       "gender": null,
       "club": "SEAS SANT JUST",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34096,
       "sant_julia": null
     },
     {
@@ -4899,8 +4899,8 @@
       "last_name": "TRENCHS PICO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34109,
       "sant_julia": null
     },
     {
@@ -4911,8 +4911,8 @@
       "last_name": "SALA CASTANY",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34177,
       "sant_julia": null
     },
     {
@@ -4923,8 +4923,8 @@
       "last_name": "PRESEGUE MORCILLO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34181,
       "sant_julia": null
     },
     {
@@ -4935,8 +4935,8 @@
       "last_name": "SALA PLADEVALL",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34191,
       "sant_julia": null
     },
     {
@@ -4947,8 +4947,8 @@
       "last_name": "AMAGAT GUIRADO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34239,
       "sant_julia": null
     },
     {
@@ -4959,8 +4959,8 @@
       "last_name": "ARNAU BOSCH",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34243,
       "sant_julia": null
     },
     {
@@ -4971,8 +4971,8 @@
       "last_name": "JULIA LEON",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34391,
       "sant_julia": null
     },
     {
@@ -4983,8 +4983,8 @@
       "last_name": "LLORENS BERENGUERA",
       "gender": null,
       "club": "UNIÓ EXCTA. DE SABADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34399,
       "sant_julia": null
     },
     {
@@ -4995,8 +4995,8 @@
       "last_name": "BELTRAN LOPEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34447,
       "sant_julia": null
     },
     {
@@ -5007,8 +5007,8 @@
       "last_name": "FIGUEROLA NOVO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34452,
       "sant_julia": null
     },
     {
@@ -5019,8 +5019,8 @@
       "last_name": "VILLAS CASADO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34452,
       "sant_julia": null
     },
     {
@@ -5031,8 +5031,8 @@
       "last_name": "DAMAS TIRADO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34504,
       "sant_julia": null
     },
     {
@@ -5043,8 +5043,8 @@
       "last_name": "BUENO BAILEN",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34515,
       "sant_julia": null
     },
     {
@@ -5055,8 +5055,8 @@
       "last_name": "SANCHEZ FERNANDEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34560,
       "sant_julia": null
     },
     {
@@ -5067,8 +5067,8 @@
       "last_name": "DE LA CRUZ UBACH",
       "gender": null,
       "club": "UNIÓ EXCTA. LLANÇANENCA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34627,
       "sant_julia": null
     },
     {
@@ -5079,8 +5079,8 @@
       "last_name": "REDON MARTINEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34628,
       "sant_julia": null
     },
     {
@@ -5091,8 +5091,8 @@
       "last_name": "PORTA CONTRERAS",
       "gender": null,
       "club": "UNIÓ EXCTA. LLANÇANENCA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34636,
       "sant_julia": null
     },
     {
@@ -5103,8 +5103,8 @@
       "last_name": "IÑIGUEZ PAPELL",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34641,
       "sant_julia": null
     },
     {
@@ -5115,8 +5115,8 @@
       "last_name": "CASAS SERRANO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34665,
       "sant_julia": null
     },
     {
@@ -5127,8 +5127,8 @@
       "last_name": "ALBA FERNANDEZ",
       "gender": null,
       "club": "CLUB EXCTA. INDEPENDENT DE CATALUNYA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34666,
       "sant_julia": null
     },
     {
@@ -5139,8 +5139,8 @@
       "last_name": "FAGES BLANCAFORT",
       "gender": null,
       "club": "CEAC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34692,
       "sant_julia": null
     },
     {
@@ -5151,8 +5151,8 @@
       "last_name": "BERTROLI MOTA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34698,
       "sant_julia": null
     },
     {
@@ -5163,8 +5163,8 @@
       "last_name": "ATENCIA PUIGDOMENECH",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34701,
       "sant_julia": null
     },
     {
@@ -5175,8 +5175,8 @@
       "last_name": "PLA TARRES",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34724,
       "sant_julia": null
     },
     {
@@ -5187,8 +5187,8 @@
       "last_name": "CASTILLO MARTINEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34732,
       "sant_julia": null
     },
     {
@@ -5199,8 +5199,8 @@
       "last_name": "CAMPS PRATS",
       "gender": null,
       "club": "EL CIM, CENTRE EXCTA.MONTCADA I REIXAC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34737,
       "sant_julia": null
     },
     {
@@ -5211,8 +5211,8 @@
       "last_name": "JIMENEZ MORENO",
       "gender": null,
       "club": "PUIG CASTELLA  DE SANTA COLOMA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34776,
       "sant_julia": null
     },
     {
@@ -5223,8 +5223,8 @@
       "last_name": "ESQUINAS SANCHEZ-PACHECO",
       "gender": null,
       "club": "UNIÓ EXCTA. DE SABADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34785,
       "sant_julia": null
     },
     {
@@ -5235,8 +5235,8 @@
       "last_name": "MUÑOZ CIRICI",
       "gender": null,
       "club": "CLUB EXCTA. MADTEAM",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34786,
       "sant_julia": null
     },
     {
@@ -5247,8 +5247,8 @@
       "last_name": "CASANOVAS CASTELL",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34792,
       "sant_julia": null
     },
     {
@@ -5259,8 +5259,8 @@
       "last_name": "UREÑA CORTIJO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34793,
       "sant_julia": null
     },
     {
@@ -5271,8 +5271,8 @@
       "last_name": "SEGOVIA VAZQUEZ",
       "gender": null,
       "club": "CLUB EXCTA. CAMPDEVÀNOL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34794,
       "sant_julia": null
     },
     {
@@ -5283,8 +5283,8 @@
       "last_name": "PEDRERO MANZANERA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34815,
       "sant_julia": null
     },
     {
@@ -5295,8 +5295,8 @@
       "last_name": "RIPOLL CAPILLA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34830,
       "sant_julia": null
     },
     {
@@ -5307,8 +5307,8 @@
       "last_name": "LONGAN TORRALBAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34831,
       "sant_julia": null
     },
     {
@@ -5319,8 +5319,8 @@
       "last_name": "VALVERDE BOSCH",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34834,
       "sant_julia": null
     },
     {
@@ -5331,8 +5331,8 @@
       "last_name": "MARTIN URBINA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34835,
       "sant_julia": null
     },
     {
@@ -5343,8 +5343,8 @@
       "last_name": "SUNYER PUJOL",
       "gender": null,
       "club": "CESQV",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34901,
       "sant_julia": null
     },
     {
@@ -5355,8 +5355,8 @@
       "last_name": "GARCIA MADERO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34938,
       "sant_julia": null
     },
     {
@@ -5367,8 +5367,8 @@
       "last_name": "GAMIZ GONZALEZ",
       "gender": null,
       "club": "C.E.S.C.",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34968,
       "sant_julia": null
     },
     {
@@ -5379,8 +5379,8 @@
       "last_name": "PAGES LAVANDERO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 34997,
       "sant_julia": null
     },
     {
@@ -5391,8 +5391,8 @@
       "last_name": "MOLIST COLOMO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35003,
       "sant_julia": null
     },
     {
@@ -5403,8 +5403,8 @@
       "last_name": "CABANAS LLORENS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35022,
       "sant_julia": null
     },
     {
@@ -5415,8 +5415,8 @@
       "last_name": "SANCHEZ COLL",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35040,
       "sant_julia": null
     },
     {
@@ -5427,8 +5427,8 @@
       "last_name": "ROS ALOS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35042,
       "sant_julia": null
     },
     {
@@ -5439,8 +5439,8 @@
       "last_name": "MAS IGLESIAS",
       "gender": null,
       "club": "CENTRE EXCTA. LA GARRIGA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35053,
       "sant_julia": null
     },
     {
@@ -5451,8 +5451,8 @@
       "last_name": "DEL POZO ESTOP",
       "gender": null,
       "club": "UNIÓ EXCTA. MATADEPERA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35057,
       "sant_julia": null
     },
     {
@@ -5463,8 +5463,8 @@
       "last_name": "ABEIJON MARTINEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35058,
       "sant_julia": null
     },
     {
@@ -5475,8 +5475,8 @@
       "last_name": "RIBAS BARTOLOME",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35066,
       "sant_julia": null
     },
     {
@@ -5487,8 +5487,8 @@
       "last_name": "LLONCH PUIG",
       "gender": null,
       "club": "CLUB TRIATLÓ SABADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35081,
       "sant_julia": null
     },
     {
@@ -5499,8 +5499,8 @@
       "last_name": "FERNANDEZ DORADO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35100,
       "sant_julia": null
     },
     {
@@ -5511,8 +5511,8 @@
       "last_name": "FERNANDEZ DORADO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35108,
       "sant_julia": null
     },
     {
@@ -5523,8 +5523,8 @@
       "last_name": "FERNANDEZ DORADO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35108,
       "sant_julia": null
     },
     {
@@ -5535,8 +5535,8 @@
       "last_name": "FONT POUS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35112,
       "sant_julia": null
     },
     {
@@ -5547,8 +5547,8 @@
       "last_name": "SANCHEZ CALDERA",
       "gender": null,
       "club": "A.D. FINES MARTORELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35122,
       "sant_julia": null
     },
     {
@@ -5559,8 +5559,8 @@
       "last_name": "GONZALEZ ANGUITA",
       "gender": null,
       "club": "A.D. FINES MARTORELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35124,
       "sant_julia": null
     },
     {
@@ -5571,8 +5571,8 @@
       "last_name": "CASANY MAIDEU",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35151,
       "sant_julia": null
     },
     {
@@ -5583,8 +5583,8 @@
       "last_name": "VERDUGO ARANDA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35170,
       "sant_julia": null
     },
     {
@@ -5595,8 +5595,8 @@
       "last_name": "BERDALA CIRERA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35216,
       "sant_julia": null
     },
     {
@@ -5607,8 +5607,8 @@
       "last_name": "ARROYO RUIZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35241,
       "sant_julia": null
     },
     {
@@ -5619,8 +5619,8 @@
       "last_name": "ARROYO RUIZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35259,
       "sant_julia": null
     },
     {
@@ -5631,8 +5631,8 @@
       "last_name": "GARRIDO RIFA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35270,
       "sant_julia": null
     },
     {
@@ -5643,8 +5643,8 @@
       "last_name": "ARROYO RUIZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35279,
       "sant_julia": null
     },
     {
@@ -5655,8 +5655,8 @@
       "last_name": "OBAMA MINGUEZ",
       "gender": null,
       "club": "CENTRE EXCTA. TONA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35283,
       "sant_julia": null
     },
     {
@@ -5667,8 +5667,8 @@
       "last_name": "PAGES SALVANS",
       "gender": null,
       "club": "CLUB EXCTA. SEVA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35295,
       "sant_julia": null
     },
     {
@@ -5679,8 +5679,8 @@
       "last_name": "CRESPI COMA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35382,
       "sant_julia": null
     },
     {
@@ -5691,8 +5691,8 @@
       "last_name": "PUIGDOMENECH NOGUER",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35392,
       "sant_julia": null
     },
     {
@@ -5703,8 +5703,8 @@
       "last_name": "PARES DACHS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35400,
       "sant_julia": null
     },
     {
@@ -5715,8 +5715,8 @@
       "last_name": "CRIVILLERS SOLE",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35403,
       "sant_julia": null
     },
     {
@@ -5727,8 +5727,8 @@
       "last_name": "FATJO-VILAS MARCH",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35413,
       "sant_julia": null
     },
     {
@@ -5739,8 +5739,8 @@
       "last_name": "TUSELL MERINO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35605,
       "sant_julia": null
     },
     {
@@ -5751,8 +5751,8 @@
       "last_name": "PRAT BOFILL",
       "gender": null,
       "club": "SEAS SANT JUST",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35623,
       "sant_julia": null
     },
     {
@@ -5763,8 +5763,8 @@
       "last_name": "MARTIN MASSIP",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35633,
       "sant_julia": null
     },
     {
@@ -5775,8 +5775,8 @@
       "last_name": "LLIMARGAS BARJUAN",
       "gender": null,
       "club": "CENTRE EXCTA. GARRIGUENC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35666,
       "sant_julia": null
     },
     {
@@ -5787,8 +5787,8 @@
       "last_name": "MARCHAN HERNANDEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35693,
       "sant_julia": null
     },
     {
@@ -5799,8 +5799,8 @@
       "last_name": "LLIMARGAS BARJUAN",
       "gender": null,
       "club": "CENTRE EXCTA. GARRIGUENC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35694,
       "sant_julia": null
     },
     {
@@ -5811,8 +5811,8 @@
       "last_name": "MUÑOZ JUANOLA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35707,
       "sant_julia": null
     },
     {
@@ -5823,8 +5823,8 @@
       "last_name": "FERNANDEZ PRUDENCIO",
       "gender": null,
       "club": "ESPLUGA VIVA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35752,
       "sant_julia": null
     },
     {
@@ -5835,8 +5835,8 @@
       "last_name": "ABAD ILLAMOLA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35755,
       "sant_julia": null
     },
     {
@@ -5847,8 +5847,8 @@
       "last_name": "CODINA VILA",
       "gender": null,
       "club": "UNIÓ EXCTA. VIC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35758,
       "sant_julia": null
     },
     {
@@ -5859,8 +5859,8 @@
       "last_name": "MERINO MORRONDO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35782,
       "sant_julia": null
     },
     {
@@ -5871,8 +5871,8 @@
       "last_name": "GONZALEZ ROIG",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35826,
       "sant_julia": null
     },
     {
@@ -5883,8 +5883,8 @@
       "last_name": "VIDAL-RIBAS ESCUBOS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35835,
       "sant_julia": null
     },
     {
@@ -5895,8 +5895,8 @@
       "last_name": "VILCHEZ COBO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35893,
       "sant_julia": null
     },
     {
@@ -5907,8 +5907,8 @@
       "last_name": "VIVES BALMES",
       "gender": null,
       "club": "4000 PEUS ASS.EXCTA. COLLBATÓ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35894,
       "sant_julia": null
     },
     {
@@ -5919,8 +5919,8 @@
       "last_name": "LOPEZ MUÑOZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35903,
       "sant_julia": null
     },
     {
@@ -5931,8 +5931,8 @@
       "last_name": "PERNIA RUIZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35921,
       "sant_julia": null
     },
     {
@@ -5943,8 +5943,8 @@
       "last_name": "SERRA BARRIS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35953,
       "sant_julia": null
     },
     {
@@ -5955,8 +5955,8 @@
       "last_name": "COLOMER GAJA",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35957,
       "sant_julia": null
     },
     {
@@ -5967,8 +5967,8 @@
       "last_name": "HERNANDEZ GUERRERO",
       "gender": null,
       "club": "CENTRE EXCTA. TORELLÓ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35966,
       "sant_julia": null
     },
     {
@@ -5979,8 +5979,8 @@
       "last_name": "SOLDEVILA VILA",
       "gender": null,
       "club": "CENTRE EXCTA. TORELLÓ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 35996,
       "sant_julia": null
     },
     {
@@ -5991,8 +5991,8 @@
       "last_name": "GOMEZ GARCIA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36007,
       "sant_julia": null
     },
     {
@@ -6003,8 +6003,8 @@
       "last_name": "SUMOY GOMEZ",
       "gender": null,
       "club": "UNIÓ EXCTA. DE CATALUNYA CORNELLÀ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36010,
       "sant_julia": null
     },
     {
@@ -6015,8 +6015,8 @@
       "last_name": "VERDAGUER OLIVER",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36015,
       "sant_julia": null
     },
     {
@@ -6027,8 +6027,8 @@
       "last_name": "SOLA TONEU",
       "gender": null,
       "club": "C.A. VIC - UNIÓ EXCURS. VIC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36022,
       "sant_julia": null
     },
     {
@@ -6039,8 +6039,8 @@
       "last_name": "BAULENAS SERRAT",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36024,
       "sant_julia": null
     },
     {
@@ -6051,8 +6051,8 @@
       "last_name": "CAMPINS CALVO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36047,
       "sant_julia": null
     },
     {
@@ -6063,8 +6063,8 @@
       "last_name": "DE LA FUENTE ALSINA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36052,
       "sant_julia": null
     },
     {
@@ -6075,8 +6075,8 @@
       "last_name": "CALVERA NAVARRO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36052,
       "sant_julia": null
     },
     {
@@ -6087,8 +6087,8 @@
       "last_name": "VIDAL DE FERRER",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36060,
       "sant_julia": null
     },
     {
@@ -6099,8 +6099,8 @@
       "last_name": "VENTURA PARES",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36078,
       "sant_julia": null
     },
     {
@@ -6111,8 +6111,8 @@
       "last_name": "MASSO URGELLES",
       "gender": null,
       "club": "CLUB EXCTA. GELIDA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36146,
       "sant_julia": null
     },
     {
@@ -6123,8 +6123,8 @@
       "last_name": "CABAÑA JURADO",
       "gender": null,
       "club": "CLUB EXCTA. ARESTA NORD",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36147,
       "sant_julia": null
     },
     {
@@ -6135,8 +6135,8 @@
       "last_name": "LORENTE RUBIO",
       "gender": null,
       "club": "CLUB EXCTA. ARESTA NORD",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36155,
       "sant_julia": null
     },
     {
@@ -6147,8 +6147,8 @@
       "last_name": "RUIZ QUEIZAN",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36164,
       "sant_julia": null
     },
     {
@@ -6159,8 +6159,8 @@
       "last_name": "PARICIO JARQUE",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36168,
       "sant_julia": null
     },
     {
@@ -6171,8 +6171,8 @@
       "last_name": "MUÑOZ DE LA NAVA NAHARRO",
       "gender": null,
       "club": "ASS.ESP. INTEMPÈRIE",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36175,
       "sant_julia": null
     },
     {
@@ -6183,8 +6183,8 @@
       "last_name": "BAURIER CASANOVAS",
       "gender": null,
       "club": "4000 PEUS ASS.EXCTA. COLLBATÓ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36197,
       "sant_julia": null
     },
     {
@@ -6195,8 +6195,8 @@
       "last_name": "GARCIA GARCIA",
       "gender": null,
       "club": "CENTRE EXCTA. MOLINS DE REI",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36224,
       "sant_julia": null
     },
     {
@@ -6207,8 +6207,8 @@
       "last_name": "MESAS JIMENEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36246,
       "sant_julia": null
     },
     {
@@ -6219,8 +6219,8 @@
       "last_name": "ROVIRA FERRER",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36381,
       "sant_julia": null
     },
     {
@@ -6231,8 +6231,8 @@
       "last_name": "SAGARRA ALTES",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36389,
       "sant_julia": null
     },
     {
@@ -6243,8 +6243,8 @@
       "last_name": "GONZALEZ ALBESA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36413,
       "sant_julia": null
     },
     {
@@ -6255,8 +6255,8 @@
       "last_name": "VILA GONZALO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36415,
       "sant_julia": null
     },
     {
@@ -6267,8 +6267,8 @@
       "last_name": "GOMEZ GILI",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36419,
       "sant_julia": null
     },
     {
@@ -6279,8 +6279,8 @@
       "last_name": "JIMENEZ CINCA",
       "gender": null,
       "club": "CLUB EXCTA. SANT VICENÇ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36499,
       "sant_julia": null
     },
     {
@@ -6291,8 +6291,8 @@
       "last_name": "ZURITA ESTRADA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36512,
       "sant_julia": null
     },
     {
@@ -6303,8 +6303,8 @@
       "last_name": "MORALES PALLARES",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36526,
       "sant_julia": null
     },
     {
@@ -6315,8 +6315,8 @@
       "last_name": "BARCELO VIEDMA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36529,
       "sant_julia": null
     },
     {
@@ -6327,8 +6327,8 @@
       "last_name": "MONTERO GOMEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36530,
       "sant_julia": null
     },
     {
@@ -6339,8 +6339,8 @@
       "last_name": "AGUILERA ALES",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36536,
       "sant_julia": null
     },
     {
@@ -6351,8 +6351,8 @@
       "last_name": "GILBERT BARBA",
       "gender": null,
       "club": "UNIÓ EXCTA. DE SABADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36538,
       "sant_julia": null
     },
     {
@@ -6363,8 +6363,8 @@
       "last_name": "ROQUE COSTA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36601,
       "sant_julia": null
     },
     {
@@ -6375,8 +6375,8 @@
       "last_name": "MARIN PEINADO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36650,
       "sant_julia": null
     },
     {
@@ -6387,8 +6387,8 @@
       "last_name": "ADILLON ROCAMORA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36655,
       "sant_julia": null
     },
     {
@@ -6399,8 +6399,8 @@
       "last_name": "CUBERO FERRANDO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36666,
       "sant_julia": null
     },
     {
@@ -6411,8 +6411,8 @@
       "last_name": "EXPOSITO FERNANDEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36719,
       "sant_julia": null
     },
     {
@@ -6423,8 +6423,8 @@
       "last_name": "PASTOR PUYOL",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36720,
       "sant_julia": null
     },
     {
@@ -6435,8 +6435,8 @@
       "last_name": "TARRIDAS RUIZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36738,
       "sant_julia": null
     },
     {
@@ -6447,8 +6447,8 @@
       "last_name": "BORDAS PROSZYNSKA",
       "gender": null,
       "club": "CALELLA MARXA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36763,
       "sant_julia": null
     },
     {
@@ -6459,8 +6459,8 @@
       "last_name": "ALSINA COTS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36817,
       "sant_julia": null
     },
     {
@@ -6471,8 +6471,8 @@
       "last_name": "FRANCAS CUSTODI",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36833,
       "sant_julia": null
     },
     {
@@ -6483,8 +6483,8 @@
       "last_name": "ALSINA COTS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36843,
       "sant_julia": null
     },
     {
@@ -6495,8 +6495,8 @@
       "last_name": "PINTO RIU",
       "gender": null,
       "club": "CENTRE EXCTA. DE NAVÀS",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36859,
       "sant_julia": null
     },
     {
@@ -6507,8 +6507,8 @@
       "last_name": "ESCARRE FORNELL",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36893,
       "sant_julia": null
     },
     {
@@ -6519,8 +6519,8 @@
       "last_name": "AGUILAR CID",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36906,
       "sant_julia": null
     },
     {
@@ -6531,8 +6531,8 @@
       "last_name": "AGUILAR CID",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36910,
       "sant_julia": null
     },
     {
@@ -6543,8 +6543,8 @@
       "last_name": "AGUILAR CID",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36937,
       "sant_julia": null
     },
     {
@@ -6555,8 +6555,8 @@
       "last_name": "CONDE DAMIAN",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36942,
       "sant_julia": null
     },
     {
@@ -6567,8 +6567,8 @@
       "last_name": "SANCHEZ ALCALA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36943,
       "sant_julia": null
     },
     {
@@ -6579,8 +6579,8 @@
       "last_name": "COROMINAS FITO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36957,
       "sant_julia": null
     },
     {
@@ -6591,8 +6591,8 @@
       "last_name": "PUIGMAL RAMONEDA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36957,
       "sant_julia": null
     },
     {
@@ -6603,8 +6603,8 @@
       "last_name": "PARES RIERA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 36980,
       "sant_julia": null
     },
     {
@@ -6615,8 +6615,8 @@
       "last_name": "SABATE CALVO",
       "gender": null,
       "club": "AGRUP.EXCTA. PEDRAFORCA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37025,
       "sant_julia": null
     },
     {
@@ -6627,8 +6627,8 @@
       "last_name": "LORENZO BUSTOS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37027,
       "sant_julia": null
     },
     {
@@ -6639,8 +6639,8 @@
       "last_name": "PEREZ ALVAREZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37036,
       "sant_julia": null
     },
     {
@@ -6651,8 +6651,8 @@
       "last_name": "HEREDIA SERRANO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37042,
       "sant_julia": null
     },
     {
@@ -6663,8 +6663,8 @@
       "last_name": "JIMENEZ DELGADO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37072,
       "sant_julia": null
     },
     {
@@ -6675,8 +6675,8 @@
       "last_name": "MESTRES FARRE",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37103,
       "sant_julia": null
     },
     {
@@ -6687,8 +6687,8 @@
       "last_name": "LOPEZ DE LA ROSA",
       "gender": null,
       "club": "GET",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37130,
       "sant_julia": null
     },
     {
@@ -6699,8 +6699,8 @@
       "last_name": "HEREDIA DAZA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37135,
       "sant_julia": null
     },
     {
@@ -6711,8 +6711,8 @@
       "last_name": "MATAS FABREGA",
       "gender": null,
       "club": "GET",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37139,
       "sant_julia": null
     },
     {
@@ -6723,8 +6723,8 @@
       "last_name": "PUIGORIOL TRENZA",
       "gender": null,
       "club": "GET",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37147,
       "sant_julia": null
     },
     {
@@ -6735,8 +6735,8 @@
       "last_name": "MONISTROL PUJANTE",
       "gender": null,
       "club": "UNIÓ EXCTA. DE SABADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37245,
       "sant_julia": null
     },
     {
@@ -6747,8 +6747,8 @@
       "last_name": "RAMONEDA SALAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37260,
       "sant_julia": null
     },
     {
@@ -6759,8 +6759,8 @@
       "last_name": "FIGARO VOLTA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37272,
       "sant_julia": null
     },
     {
@@ -6771,8 +6771,8 @@
       "last_name": "GIRBAU PEDRAGOSA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37283,
       "sant_julia": null
     },
     {
@@ -6783,8 +6783,8 @@
       "last_name": "ROMERA GIMENEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37340,
       "sant_julia": null
     },
     {
@@ -6795,8 +6795,8 @@
       "last_name": "SALVANS BUXO",
       "gender": null,
       "club": "CLUB EXCTA. VIA FORA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37351,
       "sant_julia": null
     },
     {
@@ -6807,8 +6807,8 @@
       "last_name": "ANGLADA CREIXELL",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37404,
       "sant_julia": null
     },
     {
@@ -6819,8 +6819,8 @@
       "last_name": "VAZQUEZ MOYA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37511,
       "sant_julia": null
     },
     {
@@ -6831,8 +6831,8 @@
       "last_name": "MARTI VERDAGUER",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37515,
       "sant_julia": null
     },
     {
@@ -6843,8 +6843,8 @@
       "last_name": "GONZALEZ MARTINEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37528,
       "sant_julia": null
     },
     {
@@ -6855,8 +6855,8 @@
       "last_name": "FATJO-VILAS MARCH",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37534,
       "sant_julia": null
     },
     {
@@ -6867,8 +6867,8 @@
       "last_name": "BERMUDEZ PULIDO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37571,
       "sant_julia": null
     },
     {
@@ -6879,8 +6879,8 @@
       "last_name": "BRULLET COLL",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37577,
       "sant_julia": null
     },
     {
@@ -6891,8 +6891,8 @@
       "last_name": "PEREZ PEREZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37585,
       "sant_julia": null
     },
     {
@@ -6903,8 +6903,8 @@
       "last_name": "JERONIMO RODRIGUEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37585,
       "sant_julia": null
     },
     {
@@ -6915,8 +6915,8 @@
       "last_name": "OLIVE PICART",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37599,
       "sant_julia": null
     },
     {
@@ -6927,8 +6927,8 @@
       "last_name": "CIURANS PALACIOS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37607,
       "sant_julia": null
     },
     {
@@ -6939,8 +6939,8 @@
       "last_name": "OLIVE PICART",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37608,
       "sant_julia": null
     },
     {
@@ -6951,8 +6951,8 @@
       "last_name": "PUJOL TUBAU",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37613,
       "sant_julia": null
     },
     {
@@ -6963,8 +6963,8 @@
       "last_name": "GONZALEZ SEGURA",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37617,
       "sant_julia": null
     },
     {
@@ -6975,8 +6975,8 @@
       "last_name": "BLANCAFORT FABRE",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37631,
       "sant_julia": null
     },
     {
@@ -6987,8 +6987,8 @@
       "last_name": "RIFA CASTRO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37654,
       "sant_julia": null
     },
     {
@@ -6999,8 +6999,8 @@
       "last_name": "COLLELLDEMONT PUJADAS",
       "gender": null,
       "club": "GEM",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37657,
       "sant_julia": null
     },
     {
@@ -7011,8 +7011,8 @@
       "last_name": "PRINDIS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37695,
       "sant_julia": null
     },
     {
@@ -7023,8 +7023,8 @@
       "last_name": "VILARDELL SALLENT",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37708,
       "sant_julia": null
     },
     {
@@ -7035,8 +7035,8 @@
       "last_name": "MARTOS PEREZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37708,
       "sant_julia": null
     },
     {
@@ -7047,8 +7047,8 @@
       "last_name": "MONTGOMERY",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37718,
       "sant_julia": null
     },
     {
@@ -7059,8 +7059,8 @@
       "last_name": "CASADEVALL CASASAMPERA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37732,
       "sant_julia": null
     },
     {
@@ -7071,8 +7071,8 @@
       "last_name": "RIUS AGUILAR",
       "gender": null,
       "club": "ASS.SANT MARTI ESPORT (SE)",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37761,
       "sant_julia": null
     },
     {
@@ -7083,8 +7083,8 @@
       "last_name": "ORTIZ RUIZ",
       "gender": null,
       "club": "CENTRE EXCTA. D'ABRERA",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37783,
       "sant_julia": null
     },
     {
@@ -7095,8 +7095,8 @@
       "last_name": "FABRE MASANA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37801,
       "sant_julia": null
     },
     {
@@ -7107,8 +7107,8 @@
       "last_name": "GIMENEZ SANCHEZ",
       "gender": null,
       "club": "ASS.SANT MARTÍ ESPORT (SE)",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37807,
       "sant_julia": null
     },
     {
@@ -7119,8 +7119,8 @@
       "last_name": "TORRENT SOLDEVILA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37829,
       "sant_julia": null
     },
     {
@@ -7131,8 +7131,8 @@
       "last_name": "MARTINEZ MARTINEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37831,
       "sant_julia": null
     },
     {
@@ -7143,8 +7143,8 @@
       "last_name": "DATZIRA VILLANUEVA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37834,
       "sant_julia": null
     },
     {
@@ -7155,8 +7155,8 @@
       "last_name": "MARTOS PEREZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37854,
       "sant_julia": null
     },
     {
@@ -7167,8 +7167,8 @@
       "last_name": "SORIANO VALVERDE",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37861,
       "sant_julia": null
     },
     {
@@ -7179,8 +7179,8 @@
       "last_name": "MONLEON ROS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37898,
       "sant_julia": null
     },
     {
@@ -7191,8 +7191,8 @@
       "last_name": "SALGUERO SANCHEZ",
       "gender": null,
       "club": "CLUB ATLÈTIC PALAU-SOLITÀ I PLEGAMANS",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37911,
       "sant_julia": null
     },
     {
@@ -7203,8 +7203,8 @@
       "last_name": "SIMON PARALLUELO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37912,
       "sant_julia": null
     },
     {
@@ -7215,8 +7215,8 @@
       "last_name": "MOLINA FUENTES",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37920,
       "sant_julia": null
     },
     {
@@ -7227,8 +7227,8 @@
       "last_name": "CARBONELL BERMUDEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37930,
       "sant_julia": null
     },
     {
@@ -7239,8 +7239,8 @@
       "last_name": "LOPEZ CHACON",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37933,
       "sant_julia": null
     },
     {
@@ -7251,8 +7251,8 @@
       "last_name": "LUQUE LOPEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37942,
       "sant_julia": null
     },
     {
@@ -7263,8 +7263,8 @@
       "last_name": "VICENS LAPORTA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37943,
       "sant_julia": null
     },
     {
@@ -7275,8 +7275,8 @@
       "last_name": "ESTRADA CARRERA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37944,
       "sant_julia": null
     },
     {
@@ -7287,8 +7287,8 @@
       "last_name": "SANDE FUENTES",
       "gender": null,
       "club": "CLUB EXCTA. CALLDETENES",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37952,
       "sant_julia": null
     },
     {
@@ -7299,8 +7299,8 @@
       "last_name": "DOLORES RODRIGUEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37961,
       "sant_julia": null
     },
     {
@@ -7311,8 +7311,8 @@
       "last_name": "TEIXIDOR ROVIRO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 37961,
       "sant_julia": null
     },
     {
@@ -7323,8 +7323,8 @@
       "last_name": "ROVIRA SERRAT",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38128,
       "sant_julia": null
     },
     {
@@ -7335,8 +7335,8 @@
       "last_name": "BLANCAFORT GUELL",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38140,
       "sant_julia": null
     },
     {
@@ -7347,8 +7347,8 @@
       "last_name": "CORREA REAL",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38143,
       "sant_julia": null
     },
     {
@@ -7359,8 +7359,8 @@
       "last_name": "RUIZ TAMAYO",
       "gender": null,
       "club": "CENTRE EXCTA. SANT BOI",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38143,
       "sant_julia": null
     },
     {
@@ -7371,8 +7371,8 @@
       "last_name": "PETIT REBORDOSA",
       "gender": null,
       "club": "CEC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38179,
       "sant_julia": null
     },
     {
@@ -7383,8 +7383,8 @@
       "last_name": "RAMIREZ GARCIA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38209,
       "sant_julia": null
     },
     {
@@ -7395,8 +7395,8 @@
       "last_name": "PUIG GASSO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38226,
       "sant_julia": null
     },
     {
@@ -7407,8 +7407,8 @@
       "last_name": "ROMERO FERNANDEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38243,
       "sant_julia": null
     },
     {
@@ -7419,8 +7419,8 @@
       "last_name": "PEINADO SANCHEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38387,
       "sant_julia": null
     },
     {
@@ -7431,8 +7431,8 @@
       "last_name": "PUIG RODRIGUEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38390,
       "sant_julia": null
     },
     {
@@ -7443,8 +7443,8 @@
       "last_name": "ARGELAGUET DOLZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38477,
       "sant_julia": null
     },
     {
@@ -7455,8 +7455,8 @@
       "last_name": "SALA COMAS",
       "gender": null,
       "club": "G.E.C.A.",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38503,
       "sant_julia": null
     },
     {
@@ -7467,8 +7467,8 @@
       "last_name": "VERDAGUER BONAY",
       "gender": null,
       "club": "G.E.C.A.",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38506,
       "sant_julia": null
     },
     {
@@ -7479,8 +7479,8 @@
       "last_name": "CASADEVALL ESCAYOLA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38528,
       "sant_julia": null
     },
     {
@@ -7491,8 +7491,8 @@
       "last_name": "CASADEVALL ESCAYOLA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38534,
       "sant_julia": null
     },
     {
@@ -7503,8 +7503,8 @@
       "last_name": "MARTINEZ GURT",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38552,
       "sant_julia": null
     },
     {
@@ -7515,8 +7515,8 @@
       "last_name": "SANS SOCASAU",
       "gender": null,
       "club": "CENTRE EXCTA. GARRIGUENC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38553,
       "sant_julia": null
     },
     {
@@ -7527,8 +7527,8 @@
       "last_name": "CASANOVAS COSTA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38561,
       "sant_julia": null
     },
     {
@@ -7539,8 +7539,8 @@
       "last_name": "GONZALEZ ORTEGA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38665,
       "sant_julia": null
     },
     {
@@ -7551,8 +7551,8 @@
       "last_name": "FERRER RODRIGUEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38671,
       "sant_julia": null
     },
     {
@@ -7563,8 +7563,8 @@
       "last_name": "SANCHEZ GIMENEZ",
       "gender": null,
       "club": "CENTRE EXCTA. GARRIGUENC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38709,
       "sant_julia": null
     },
     {
@@ -7575,8 +7575,8 @@
       "last_name": "TORT IGLESIAS",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38730,
       "sant_julia": null
     },
     {
@@ -7587,8 +7587,8 @@
       "last_name": "COSTA ROVIRA",
       "gender": null,
       "club": "CENTRE EXCTA. TARADELL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38812,
       "sant_julia": null
     },
     {
@@ -7599,8 +7599,8 @@
       "last_name": "GARCIA BENEITO",
       "gender": null,
       "club": "CLUB EXCTA. RIPOLL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38850,
       "sant_julia": null
     },
     {
@@ -7611,8 +7611,8 @@
       "last_name": "COLL ROMERO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38864,
       "sant_julia": null
     },
     {
@@ -7623,8 +7623,8 @@
       "last_name": "RODRIGUEZ SANCHEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38868,
       "sant_julia": null
     },
     {
@@ -7635,8 +7635,8 @@
       "last_name": "TUBERT ANFRUNS",
       "gender": null,
       "club": "CLUB EXCTA. RIPOLL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38869,
       "sant_julia": null
     },
     {
@@ -7647,8 +7647,8 @@
       "last_name": "MEJIAS BUITRAGO",
       "gender": null,
       "club": "TROTAPLANAS",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38896,
       "sant_julia": null
     },
     {
@@ -7659,8 +7659,8 @@
       "last_name": "PUERTA FERRERO",
       "gender": null,
       "club": "TROTAPLANAS",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38898,
       "sant_julia": null
     },
     {
@@ -7671,8 +7671,8 @@
       "last_name": "FRANCAS CUSTODI",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38903,
       "sant_julia": null
     },
     {
@@ -7683,8 +7683,8 @@
       "last_name": "CUSTODI BERNADET",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38903,
       "sant_julia": null
     },
     {
@@ -7695,8 +7695,8 @@
       "last_name": "ROVIRA TORT",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38952,
       "sant_julia": null
     },
     {
@@ -7707,8 +7707,8 @@
       "last_name": "SAMPERA MAÑOSA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38997,
       "sant_julia": null
     },
     {
@@ -7719,8 +7719,8 @@
       "last_name": "FERNANDEZ PINEDA",
       "gender": null,
       "club": "CE PALAU DE PLEGAMANS",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 39016,
       "sant_julia": null
     },
     {
@@ -7731,8 +7731,8 @@
       "last_name": "ROYO SANTOS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 39028,
       "sant_julia": null
     },
     {
@@ -7743,8 +7743,8 @@
       "last_name": "RIU OTON",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 39107,
       "sant_julia": null
     },
     {
@@ -7755,8 +7755,8 @@
       "last_name": "RIOJA GARCIA",
       "gender": null,
       "club": "CENTRE EXCTA. GARRIGUENC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 39167,
       "sant_julia": null
     },
     {
@@ -7767,8 +7767,8 @@
       "last_name": "COLOMINA SANCHEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 39188,
       "sant_julia": null
     },
     {
@@ -7779,8 +7779,8 @@
       "last_name": "COLOMINA FERNANDEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 39213,
       "sant_julia": null
     },
     {
@@ -7791,8 +7791,8 @@
       "last_name": "CLOTET CASAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 39257,
       "sant_julia": null
     },
     {
@@ -7803,8 +7803,8 @@
       "last_name": "VINYALS CORMAND",
       "gender": null,
       "club": "CENTRE EXCTA. GARRIGUENC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 39273,
       "sant_julia": null
     },
     {
@@ -7815,8 +7815,8 @@
       "last_name": "CASADEVALL FRANQUESA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 39282,
       "sant_julia": null
     },
     {
@@ -7827,8 +7827,8 @@
       "last_name": "CASADEVALL GINESTET",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 39289,
       "sant_julia": null
     },
     {
@@ -7839,8 +7839,8 @@
       "last_name": "FORT CABEZOS",
       "gender": null,
       "club": "CLUB ESP. D'ACTIVITATS DE MUNTANYA PARETS-CAM",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 39296,
       "sant_julia": null
     },
     {
@@ -7851,8 +7851,8 @@
       "last_name": "TORRES CARRASCAL",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 39301,
       "sant_julia": null
     },
     {
@@ -7863,8 +7863,8 @@
       "last_name": "TORRES CARRASCAL",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 39303,
       "sant_julia": null
     },
     {
@@ -7875,8 +7875,8 @@
       "last_name": "ARTERO LOPEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 39316,
       "sant_julia": null
     },
     {
@@ -7887,8 +7887,8 @@
       "last_name": "TORRES MASRAMON",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 39326,
       "sant_julia": null
     },
     {
@@ -7899,8 +7899,8 @@
       "last_name": "MOLINS BARTRA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 39475,
       "sant_julia": null
     },
     {
@@ -7911,8 +7911,8 @@
       "last_name": "FERRARONS CORTES",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 39531,
       "sant_julia": null
     },
     {
@@ -7923,8 +7923,8 @@
       "last_name": "FONT CASANOVAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 39595,
       "sant_julia": null
     },
     {
@@ -7935,8 +7935,8 @@
       "last_name": "QUESADA BALLESTER",
       "gender": null,
       "club": "CENTRE EXCTA. PUIGCASTELLAR",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 39597,
       "sant_julia": null
     },
     {
@@ -7947,8 +7947,8 @@
       "last_name": "ZAPATA NOCHALES",
       "gender": null,
       "club": "CENTRE EXCTA. GARRIGUENC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 39756,
       "sant_julia": null
     },
     {
@@ -7959,8 +7959,8 @@
       "last_name": "CADENAS SALCEDO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 39784,
       "sant_julia": null
     },
     {
@@ -7971,8 +7971,8 @@
       "last_name": "BADIA AIXUT",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 40195,
       "sant_julia": null
     },
     {
@@ -7983,8 +7983,8 @@
       "last_name": "BLANCAFORT CABADO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 40223,
       "sant_julia": null
     },
     {
@@ -7995,8 +7995,8 @@
       "last_name": "SONNLEITNER SONNLEITNER",
       "gender": null,
       "club": "CENTRE EXCTA. GARRIGUENC",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 40559,
       "sant_julia": null
     },
     {
@@ -8007,8 +8007,8 @@
       "last_name": "CUMBRERA UREÑA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 40595,
       "sant_julia": null
     },
     {
@@ -8019,8 +8019,8 @@
       "last_name": "LUJAN RECIO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 40602,
       "sant_julia": null
     },
     {
@@ -8031,8 +8031,8 @@
       "last_name": "PUIGIVILA FEIXAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 40672,
       "sant_julia": null
     },
     {
@@ -8043,8 +8043,8 @@
       "last_name": "PUIGIVILA FEIXAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 40687,
       "sant_julia": null
     },
     {
@@ -8055,8 +8055,8 @@
       "last_name": "SERRABASA RAFART",
       "gender": null,
       "club": "CLUB EXCTA. CALLDETENES",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 40764,
       "sant_julia": null
     },
     {
@@ -8067,8 +8067,8 @@
       "last_name": "SERRABASA SELLABONA",
       "gender": null,
       "club": "CLUB EXCTA. CALLDETENES",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 40768,
       "sant_julia": null
     },
     {
@@ -8079,8 +8079,8 @@
       "last_name": "ARUMI NOVELLAS",
       "gender": null,
       "club": "CLUB EXCTA. CALLDETENES",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 40781,
       "sant_julia": null
     },
     {
@@ -8091,8 +8091,8 @@
       "last_name": "ARISA CLOTET",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 40805,
       "sant_julia": null
     },
     {
@@ -8103,8 +8103,8 @@
       "last_name": "COROMINA VILAREGUT",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 40812,
       "sant_julia": null
     },
     {
@@ -8115,8 +8115,8 @@
       "last_name": "ARMENGOL PORTELL",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 40822,
       "sant_julia": null
     },
     {
@@ -8127,8 +8127,8 @@
       "last_name": "PLATA SOCIATS",
       "gender": null,
       "club": "CENTRE EXCTA. HOSTALETS DE BALENYÀ",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 40839,
       "sant_julia": null
     },
     {
@@ -8139,8 +8139,8 @@
       "last_name": "PUIG ARROM",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 40854,
       "sant_julia": null
     },
     {
@@ -8151,8 +8151,8 @@
       "last_name": "PLATA PUIG",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 40864,
       "sant_julia": null
     },
     {
@@ -8163,8 +8163,8 @@
       "last_name": "PRAT PUIG",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 40884,
       "sant_julia": null
     },
     {
@@ -8175,8 +8175,8 @@
       "last_name": "SOLER ROVIRA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 41047,
       "sant_julia": null
     },
     {
@@ -8187,8 +8187,8 @@
       "last_name": "FERNANDEZ COLL",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 41051,
       "sant_julia": null
     },
     {
@@ -8199,8 +8199,8 @@
       "last_name": "BADIA AURET",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 41137,
       "sant_julia": null
     },
     {
@@ -8211,8 +8211,8 @@
       "last_name": "TRULLAS FERRER",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 41167,
       "sant_julia": null
     },
     {
@@ -8223,8 +8223,8 @@
       "last_name": "COLOM COMAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 41264,
       "sant_julia": null
     },
     {
@@ -8235,8 +8235,8 @@
       "last_name": "QUESADA PORTAS",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 41286,
       "sant_julia": null
     },
     {
@@ -8247,8 +8247,8 @@
       "last_name": "GIMENEZ COLOM",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 41344,
       "sant_julia": null
     },
     {
@@ -8259,8 +8259,8 @@
       "last_name": "LEUCO SANCHEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 41401,
       "sant_julia": null
     },
     {
@@ -8271,8 +8271,8 @@
       "last_name": "MUNMANY VILA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 41434,
       "sant_julia": null
     },
     {
@@ -8283,8 +8283,8 @@
       "last_name": "AUMATELL BAGARIA",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 41482,
       "sant_julia": null
     },
     {
@@ -8295,8 +8295,8 @@
       "last_name": "MORENO HERMOSO",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 41985,
       "sant_julia": null
     },
     {
@@ -8307,8 +8307,8 @@
       "last_name": "CABOS FERNANDEZ",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 41994,
       "sant_julia": null
     },
     {
@@ -8319,8 +8319,8 @@
       "last_name": "RAMILO MARTINEZ",
       "gender": null,
       "club": "CLUB EXCTA. CAMPDEVÀNOL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 42023,
       "sant_julia": null
     },
     {
@@ -8331,8 +8331,8 @@
       "last_name": "SALGADO VIÑAS",
       "gender": null,
       "club": "CLUB EXCTA. CAMPDEVÀNOL",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 42028,
       "sant_julia": null
     },
     {
@@ -8343,8 +8343,8 @@
       "last_name": "COLOME CAMPDELACREU",
       "gender": null,
       "club": "0",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 42031,
       "sant_julia": null
     },
     {
@@ -8811,8 +8811,8 @@
       "last_name": "MORAS MONTSERRAT",
       "gender": null,
       "club": "CENTRE EXCTA. SANT BOI",
-      "status": "UNKNOWN",
-      "time_net": null,
+      "status": "FINISH",
+      "time_net": 38141,
       "sant_julia": null
     },
     {
