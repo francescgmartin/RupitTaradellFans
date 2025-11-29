@@ -17,13 +17,14 @@ body {
   padding: 16px;
 }
 
-/* Header / brand amb text escalat */
+/* Header / brand amb text escalat i wrap */
 .brand {
   --crest-h: 64px;
   display: flex;
   align-items: center;
   gap: 12px;
   min-height: var(--crest-h);
+  flex-wrap: wrap; /* permet saltar a segona línia si cal */
 }
 .crest {
   height: var(--crest-h);
@@ -32,10 +33,12 @@ body {
   background: transparent;
 }
 .brand h1 {
-  font-size: calc(var(--crest-h) * 0.4);
-  line-height: 1;
+  font-size: calc(var(--crest-h) * 0.9);
+  line-height: 1.05;
   margin: 0;
-  white-space: nowrap;
+  white-space: normal;        /* permet trencar línia */
+  overflow-wrap: anywhere;    /* trenca paraules llargues si cal */
+  flex: 1 1 300px;            /* ocupa ample disponible, mínim 300px */
   letter-spacing: 0.02em;
 }
 @media (max-width: 900px) {
@@ -46,6 +49,7 @@ body {
 }
 @media (max-width: 420px) {
   .brand { --crest-h: 42px; }
+  .brand h1 { flex-basis: 360px; }
 }
 
 /* Espaiat entre seccions */
@@ -119,3 +123,9 @@ th {
   .brand h1 { font-size: calc(var(--crest-h) * 0.9); }
   .table-wrap table { min-width: 640px; }
 }
+
+/* Optional: scrollbar styling for WebKit (Chrome/Safari) */
+.table-wrap::-webkit-scrollbar { height: 10px; }
+.table-wrap::-webkit-scrollbar-track { background: #f5f5f5; border-radius: 10px; }
+.table-wrap::-webkit-scrollbar-thumb { background: #dadada; border-radius: 10px; }
+.table-wrap::-webkit-scrollbar-thumb:hover { background: #c7c7c7; }
