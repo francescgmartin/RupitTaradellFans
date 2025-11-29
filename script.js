@@ -1,3 +1,4 @@
+
 // Base URL for data (relative to where index.html is served)
 const DATA_BASE_URL = './out'; // IMPORTANT: keep 'out' here
 const AVAILABLE_YEARS = [2013,2014,2015,2016,2017,2018,2019,2021, 2022, 2023, 2024, 2025]; // Update with your real years
@@ -131,6 +132,26 @@ async function loadFKT() {
   }
 }
 
+
+// ---------------- FKT (femení, mateix patró que unisex) ----------------
+async function loadFKTFemale() {
+  const url = `${DATA_BASE_URL}/leaders/leaders_fkt_skt.json`;
+  console.log('[loadFKTFemale] fetching', url);
+  try {
+    const data = await fetchPossiblyInvalidJson(url);
+    // Canvi únic: node del JSON
+    const top = (data?.by_gender?.F?.FKT_top10) || [];
+    const distanceKm = 45; // mateix default que l’ETL
+    const tbody = document.querySelector('#fkt-female-table tbody'); // mateix patró, altre selector
+    renderRows(tbody, top, distanceKm);
+    console.log(`[loadFKTFemale] rendered ${top.length} rows`);
+  } catch (err) {
+    console.error('[loadFKTFemale] fetch error', err);
+  }
+}
+
+
+
 // ---------------- Edition results ----------------
 async function loadEdition(year) {
   const url = `${DATA_BASE_URL}/${year}.json`; // ALWAYS include /out base
@@ -169,4 +190,5 @@ function initYearSelect() {
 document.addEventListener('DOMContentLoaded', () => {
   initYearSelect();
   loadFKT();
+  loadFKTFemale();  // femení (by_gender.F.FKT_top10)
 });
