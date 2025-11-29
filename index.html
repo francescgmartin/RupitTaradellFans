@@ -14,6 +14,7 @@
     </div>
   </header>
 
+
   <main class="container">
     <!-- FKT (unisex) -->
     <section aria-labelledby="fkt-title">
@@ -38,30 +39,28 @@
       </div>
     </section>
 
-
-<!-- FKT (femení) -->
-<section aria-labelledby="fkt-female-title" class="mt-40">
-  <h2 id="fkt-female-title">Temps més ràpid conegut (femení)</h2>
-  <div class="table-wrap">
-    <table id="fkt-female-table">
-      <thead>
-        <tr>
-          <th>Posició</th>
-          <th>Cognoms i Nom</th>
-          <th>Gènere</th>
-          <th>Temps a Sant Julià</th>
-          <th>Temps a Taradell</th>
-          <th>Ritme (min/km)</th>
-          <th>Club</th>
-        </tr>
-      </thead>
-      <tbody>
-        <!-- Renderitzat per script.js -->
-      </tbody>
-    </table>
-  </div>
-</section>
-
+    <!-- FKT (femení) -->
+    <section aria-labelledby="fkt-female-title" class="mt-40">
+      <h2 id="fkt-female-title">Temps més ràpid conegut (femení)</h2>
+      <div class="table-wrap">
+        <table id="fkt-female-table">
+          <thead>
+            <tr>
+              <th>Posició</th>
+              <th>Cognoms i Nom</th>
+              <th>Gènere</th>
+              <th>Temps a Sant Julià</th>
+              <th>Temps a Taradell</th>
+              <th>Ritme (min/km)</th>
+              <th>Club</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- Renderitzat per script.js -->
+          </tbody>
+        </table>
+      </div>
+    </section>
 
     <!-- Resultats per edició -->
     <section aria-labelledby="edition-title" class="mt-40">
@@ -73,7 +72,8 @@
         </select>
       </div>
 
-      <div class="table-wrap">
+      <!-- Taula amb scroll vertical limitat (molt gran: fins a 1100 files) -->
+      <div class="table-wrap editions">
         <table id="edition-table">
           <thead>
             <tr>
@@ -98,6 +98,6 @@
     <small>© Rupit-Taradell Fans</small>
   </footer>
 
-  <script src="script.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
