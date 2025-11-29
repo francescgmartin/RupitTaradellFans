@@ -1,0 +1,20 @@
+mapping:
+  bib: dorsal
+  club: club
+  first_name: NOMBRE
+  full_name:
+    combine:
+    - NOMBRE
+    - apellidos
+  gender:
+    from: sexo
+    map:
+      F: F
+      M: M
+      dona: F
+      home: M
+  last_name: apellidos
+  sant_julia: A3_SantJulia
+  status: null
+  time_net: A5_Taradell
+type: F3

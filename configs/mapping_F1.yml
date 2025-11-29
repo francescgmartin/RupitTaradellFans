@@ -1,0 +1,22 @@
+mapping:
+  bib: Dorsal
+  club: Club
+  first_name: Nom
+  full_name:
+    combine:
+    - Cognoms
+    - Nom
+  gender:
+    from: Categoria
+    map:
+      Absolut Femení: F
+      Absolut Masculí: M
+      Fem: F
+      Masc: M
+      dona: F
+      home: M
+  last_name: Cognoms
+  sant_julia: SORTIDA Sant Julià de Vilatorta
+  status: null
+  time_net: Temps
+type: F1
