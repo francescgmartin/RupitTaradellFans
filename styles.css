@@ -1,13 +1,13 @@
 :root {
   /* Light color scheme */
-  --bg: #ffffff;           /* page background: white */
-  --panel: #f5f6f8;        /* panels / cards: very light gray */
-  --text: #0b0b0d;         /* primary text: near black */
-  --muted: #6b7280;        /* muted text / labels: medium gray */
-  --accent: #1f6feb;       /* accent color (links, highlights) */
-  --border: #e6e9ee;       /* borders: very light gray */
-  --tableRow: #ffffff;     /* table odd rows: white */
-  --tableRowAlt: #f8f9fb;  /* table even rows: very light gray */
+  --bg: #ffffff;
+  --panel: #f5f6f8;
+  --text: #0b0b0d;
+  --muted: #6b7280;
+  --accent: #1f6feb;
+  --border: #e6e9ee;
+  --tableRow: #ffffff;
+  --tableRowAlt: #f8f9fb;
 
   /* Mobile tuning */
   --header-padding: 12px 20px;
@@ -37,7 +37,7 @@ img.crest { display: block; width: var(--crest-size); height: auto; background: 
   width: var(--crest-size);
   height: var(--crest-size);
   display: inline-block;
-  background-color: var(--accent); /* logo colour */
+  background-color: var(--accent);
   -webkit-mask: url('/path/to/logo.svg') center/contain no-repeat;
   mask: url('/path/to/logo.svg') center/contain no-repeat;
 }
@@ -47,10 +47,17 @@ h1 { font-size: 1.6rem; margin: 0; color: var(--text); }
 h2 { font-size: 1.3rem; margin: 12px 0 8px; color: var(--text); }
 
 /* Table / panels */
-.table-wrap { background: var(--panel); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
-.table-wrap .table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; } /* enables horizontal scroll on small screens */
-table { width: 100%; border-collapse: collapse; min-width: 640px; } /* keep min-width so horizontal scroll appears on small screens */
-thead tr { background: #eef2f7; } /* slightly darker than panel for header */
+/* NOTE: changed overflow handling so inner .table-scroll controls horizontal scroll */
+.table-wrap { background: var(--panel); border: 1px solid var(--border); border-radius: 8px; overflow: visible; }
+.table-wrap .table-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  width: 100%;
+  /* keep the rounded corners when the table is scrolled */
+  border-radius: 8px;
+}
+.table-wrap .table-scroll table { width: 100%; border-collapse: collapse; min-width: 640px; }
+thead tr { background: #eef2f7; }
 th, td { padding: 10px 12px; text-align: left; border-bottom: 1px solid var(--border); color: var(--text); }
 th { color: var(--muted); font-weight: 600; }
 tbody tr:nth-child(odd) { background: var(--tableRow); }
@@ -82,7 +89,7 @@ button.secondary, .btn.secondary { background: transparent; color: var(--text); 
   html, body { font-size: calc(16px * var(--font-scale-mobile)); }
 
   .site-header .brand {
-    flex-direction: row; /* keep row for mid-size, but allow wrapping */
+    flex-direction: row;
     flex-wrap: wrap;
     align-items: center;
     gap: 10px;
@@ -93,56 +100,30 @@ button.secondary, .btn.secondary { background: transparent; color: var(--text); 
 
   .container { padding: 14px; }
 
-  /* Controls: stack and full width on small screens */
   .section-header { gap: 8px; }
   #edition-select { flex: 1 1 100%; width: 100%; box-sizing: border-box; }
 
-  /* Make buttons larger / full width when in flows */
   .btn, button { padding: 12px 16px; font-size: 1rem; }
 
-  /* Table handling: allow horizontal scroll; reduce cell padding */
   .table-wrap { border-radius: 6px; }
   .table-wrap .table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
   th, td { padding: 8px 10px; }
 }
 
-/* Very small screens: stack header vertically */
+/* Very small screens */
 @media (max-width: 420px) {
   :root { --crest-size: 40px; --brand-gap: 8px; --header-padding: 8px 12px; }
 
-  .site-header .brand {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 8px;
-  }
-
+  .site-header .brand { flex-direction: column; align-items: flex-start; gap: 8px; }
   .container { padding: 10px; }
   h1 { font-size: 1.2rem; }
   h2 { font-size: 1rem; }
 
-  /* Table: keep horizontal scroll but also reduce min-width so it's less awkward */
   table { min-width: 520px; }
   th, td { padding: 8px; font-size: 0.95rem; }
 
-  /* If you'd like a stacked table representation, use the .stacked-table approach (requires small HTML changes below) */
-  .stacked-table { display: none; } /* off by default */
+  .stacked-table { display: none; }
 }
-
-/* Optional: stacked table CSS (uncomment / enable and adjust HTML to use it)
-   To use stacked table on very small screens, replace your table with rows that include data-label attributes:
-   <td data-label="Posició">1</td>
-   Then enable the block below inside the small-screen media query and hide the original table.
-*/
-/*
-@media (max-width: 420px) {
-  table.responsive-stacked { display: none; }
-  .stacked-table { display: block; }
-  .stacked-table .row { display: block; background: var(--tableRowAlt); margin-bottom: 10px; padding: 10px; border-radius: 6px; }
-  .stacked-table .row .cell { display: flex; padding: 6px 0; }
-  .stacked-table .row .cell .label { width: 40%; color: var(--muted); font-weight: 600; }
-  .stacked-table .row .cell .value { flex: 1; }
-}
-*/
 
 /* Accessibility: focus states */
 a:focus, button:focus, input:focus, select:focus {
