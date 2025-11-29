@@ -1,5 +1,4 @@
 
-/* Base reset / box sizing */
 * { box-sizing: border-box; }
 html, body { height: 100%; }
 body {
@@ -7,8 +6,8 @@ body {
   font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
   color: #111;
   background: #fff;
-  -webkit-font-smoothing:antialiased;
-  -moz-osx-font-smoothing:grayscale;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /* Layout container */
@@ -18,17 +17,35 @@ body {
   padding: 16px;
 }
 
-/* Header / brand */
-.site-header { padding: 14px 16px; border-bottom: 1px solid #e9e9e9; background: #fff; }
-.brand { display: flex; align-items: center; gap: 12px; }
-.brand h1 { font-size: 1.125rem; margin: 0; letter-spacing: 0.04em; }
-
-/* Crest image */
+/* Header / brand amb text escalat */
+.brand {
+  --crest-h: 64px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-height: var(--crest-h);
+}
 .crest {
-  width: 56px;          /* small and responsive */
-  height: auto;
+  height: var(--crest-h);
+  width: auto;
   display: block;
-  background: transparent; /* prevents CSS background showing */
+  background: transparent;
+}
+.brand h1 {
+  font-size: calc(var(--crest-h) * 0.9);
+  line-height: 1;
+  margin: 0;
+  white-space: nowrap;
+  letter-spacing: 0.02em;
+}
+@media (max-width: 900px) {
+  .brand { --crest-h: 54px; }
+}
+@media (max-width: 600px) {
+  .brand { --crest-h: 48px; }
+}
+@media (max-width: 420px) {
+  .brand { --crest-h: 42px; }
 }
 
 /* Espaiat entre seccions */
@@ -37,29 +54,28 @@ body {
 /* --- Scroll horitzontal de taules --- */
 .table-wrap {
   margin-top: 12px;
-  overflow-x: auto;                    /* scroll horizontal */
-  -webkit-overflow-scrolling: touch;   /* scroll suau a iOS */
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
   border-radius: 6px;
   padding: 6px 0;
-  /* Pista visual: gradients als extrems quan hi ha scroll */
   background:
-    linear-gradient(to right, rgba(255,255,255,1), rgba(255,255,255,0)) 0 0/2rem 100% no-repeat,
-    linear-gradient(to left,  rgba(255,255,255,1), rgba(255,255,255,0)) 100% 0/2rem 100% no-repeat,
+    linear-gradient(to right, rgba(255,255,255,1), rgba(255,255,255,0)) 0 0 / 2rem 100% no-repeat,
+    linear-gradient(to left,  rgba(255,255,255,1), rgba(255,255,255,0)) 100% 0 / 2rem 100% no-repeat,
     #fff;
   background-attachment: local, local, scroll;
 }
 
-/* --- Scroll vertical limitat només per a la secció d’edicions --- */
+/* Scroll vertical limitat només per a la secció d’edicions */
 .table-wrap.editions {
-  max-height: 520px;                  /* “una pàgina” compacta per 1100 files */
-  overflow-y: auto;                   /* scroll vertical dins la taula */
+  max-height: 520px;
+  overflow-y: auto;
   -webkit-overflow-scrolling: touch;
 }
 
 /* Taules */
 .table-wrap table {
   width: 100%;
-  min-width: 760px; /* ajusta si necessites més/menys espai horitzontal */
+  min-width: 760px;
   border-collapse: collapse;
   background: #fff;
 }
@@ -69,7 +85,7 @@ th, td {
   padding: 10px 12px;
   text-align: left;
   border-bottom: 1px solid #efefef;
-  white-space: nowrap; /* evita trencar línia; habilita scroll lateral */
+  white-space: nowrap;
   font-size: 0.95rem;
 }
 
@@ -78,14 +94,14 @@ th, td {
 th {
   font-weight: 600;
   position: sticky;
-  top: 0;              /* header visible en scroll vertical dins wrapper */
+  top: 0;
   z-index: 2;
-  background: #fafafa; /* sòlid perquè no “barreja” amb el tbody */
+  background: #fafafa;
 }
 
 /* Alternança de colors a les files del tbody */
-.table-wrap tbody tr:nth-child(odd)  { background: #ffffff; }  /* files 1,3,5… */
-.table-wrap tbody tr:nth-child(even) { background: #f7f7f9; }  /* files 2,4,6… */
+.table-wrap tbody tr:nth-child(odd)  { background: #ffffff; }
+.table-wrap tbody tr:nth-child(even) { background: #f7f7f9; }
 
 /* Hover (opcional) */
 .table-wrap tbody tr:hover { background: #eef3ff; }
@@ -100,6 +116,6 @@ th {
 @media (max-width: 900px) {
   .container { padding: 12px; }
   .crest { width: 48px; }
-  .brand h1 { font-size: 1rem; }
-  .table-wrap table { min-width: 640px; } /* forçar scroll una mica més compacte */
+  .brand h1 { font-size: calc(var(--crest-h) * 0.9); }
+  .table-wrap table { min-width: 640px; }
 }
