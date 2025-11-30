@@ -19,7 +19,7 @@ body {
 
 /* Header / brand amb text escalat i wrap */
 .brand {
-  --crest-h: 64px;
+  --crest-h: 84px;
   display: flex;
   align-items: center;
   gap: 12px;
