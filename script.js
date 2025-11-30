@@ -141,7 +141,7 @@ async function loadFKTFemale() {
     const data = await fetchPossiblyInvalidJson(url);
     // Canvi únic: node del JSON
     const top = (data?.by_gender?.F?.FKT_top10) || [];
-    const distanceKm = 43.4; // mateix default que l’ETL
+    const distanceKm = 43.5; // mateix default que l’ETL
     const tbody = document.querySelector('#fkt-female-table tbody'); // mateix patró, altre selector
     renderRows(tbody, top, distanceKm);
     console.log(`[loadFKTFemale] rendered ${top.length} rows`);
