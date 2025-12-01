@@ -13,6 +13,8 @@ mapping:
       M: M
       dona: F
       home: M
+      Fem: F
+      Masc: M
   last_name: apellidos
   sant_julia: A3_SantJulia
   status: null
