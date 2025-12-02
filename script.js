@@ -3,6 +3,31 @@
 const DATA_BASE_URL = './out'; // IMPORTANT: keep 'out' here
 const AVAILABLE_YEARS = [2013,2014,2015,2016,2017,2018,2019,2021, 2022, 2023, 2024, 2025]; // Update with your real years
 
+// --- Memòria d'estat per a l'edició carregada ---
+let CURRENT_EDITION_ROWS = [];
+let CURRENT_EDITION_DISTANCE_KM = 45; // fallback (es reassigna a loadEdition)
+
+
+function applyEditionFilterByName(query) {
+  const tbody = document.querySelector('#edition-table tbody');
+  const q = (query || '').trim().toLowerCase();
+  if (!tbody) return;
+
+  // Si no hi ha edició carregada, mostra un missatge
+  if (!CURRENT_EDITION_ROWS || !CURRENT_EDITION_ROWS.length) {
+    tbody.innerHTML = '<tr><td colspan="8">Carrega una edició per veure resultats.</td></tr>';
+    return;
+  }
+
+  const baseRows = CURRENT_EDITION_ROWS;
+  const filtered = q
+    ? baseRows.filter(r => (r.full_name || '').toLowerCase().includes(q))
+    : baseRows;
+
+  renderRows(tbody, filtered, CURRENT_EDITION_DISTANCE_KM);
+}
+
+
 // ---------------- Utils ----------------
 function secondsToHMS(total) {
   if (total == null || isNaN(total)) return '';
@@ -174,6 +199,7 @@ async function loadEdition(year) {
     });
 
     const tbody = document.querySelector('#edition-table tbody');
+    CURRENT_EDITION_ROWS = rows; // <-- AFEGEIX AIXÒ
     renderRows(tbody, rows, distanceKm);
     console.log(`[loadEdition] rendered ${rows.length} rows for`, year);
   } catch (err) {
@@ -191,9 +217,18 @@ function initYearSelect() {
   }
 }
 
-// ---------------- Init ----------------
+
 document.addEventListener('DOMContentLoaded', () => {
   initYearSelect();
   loadFKT();
-  loadFKTFemale();  // femení (by_gender.F.FKT_top10)
+  loadFKTFemale(); // femení (by_gender.F.FKT_top10)
+
+  // Cerca per nom a la taula d'edicions
+  const searchBox = document.getElementById('edition-search');
+  if (searchBox) {
+    searchBox.addEventListener('input', () => {
+      applyEditionFilterByName(searchBox.value);
+    });
+  }
 });
+
