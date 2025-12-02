@@ -1,127 +1,127 @@
-POSICI√ìN,NOMBRE,apellidos,dorsal,cat,sexo,ritmo,dif 1o,club,poblaci√≥n,poscat,A0_Rupit,A1_VilanovadeSau,A2_SantJulia,A5_Taradell
-1,Na√Øm,Baulenas Sanglas,172,M1,home,00:05:45,00:00:00,CET,Manlleu,1,06:01:02,01:38:55,02:46:04,04:10:49
-2,Isaac,Badia Molist,41,M1,home,00:06:12,00:19:33,0,Sant Juli√† de Vilatorta,2,06:38:51,01:50:14,03:04:22,04:30:22
+POSICI”N,NOMBRE,apellidos,dorsal,cat,sexo,ritmo,dif 1o,club,poblaciÛn,poscat,A0_Rupit,A1_VilanovadeSau,A3_SantJulia,A5_Taradell
+1,NaÔm,Baulenas Sanglas,172,M1,home,00:05:45,00:00:00,CET,Manlleu,1,06:01:02,01:38:55,02:46:04,04:10:49
+2,Isaac,Badia Molist,41,M1,home,00:06:12,00:19:33,0,Sant Juli‡ de Vilatorta,2,06:38:51,01:50:14,03:04:22,04:30:22
 3,Aniol,Puig,336,M1,home,00:06:13,00:19:45,0,Centelles,3,05:58:30,01:53:00,03:05:17,04:30:34
-4,Enric,Monta√±a Roca,925,M2,home,00:06:13,00:19:58,C.E. Taradell,Taradell,1,05:58:01,01:53:18,03:07:46,04:30:47
-5,Albert,Presegu√© Morcillo,299,M2,home,00:06:17,00:22:52,CE Taradell,Taradell,2,05:39:55,--:--:--,03:13:02,04:33:41
-6,Jordi,Verd√∫ Tirado,708,M1,home,00:06:25,00:28:30,Trail CER rubi,Rub√≠,4,05:35:22,--:--:--,03:17:39,04:39:19
-7,Guillem,Boixeda Planas,61,M1,home,00:06:28,00:30:45,CN Vic ETB,Sant Juli√† de Vilatorta,5,06:38:49,01:50:18,03:15:41,04:41:34
-8,Adri√†,Noguera Casanovas,618,M1,home,00:06:28,00:30:58,Uni√≥ Excursionista Prats,Prats de Llu√ßan√®s,6,06:28:21,--:--:--,03:14:48,04:41:47
-9,Sergi,Verg√©s Gass√≥,1146,M1,home,00:06:41,00:40:14,0,Vic,7,05:58:24,01:58:33,03:21:10,04:51:03
-10,Xavier,Font Alemany,319,M1,home,00:06:43,00:41:24,independent,Vilafranca del Pened√®s,8,07:42:44,01:54:08,03:17:44,04:52:13
+4,Enric,MontaÒa Roca,925,M2,home,00:06:13,00:19:58,C.E. Taradell,Taradell,1,05:58:01,01:53:18,03:07:46,04:30:47
+5,Albert,PreseguÈ Morcillo,299,M2,home,00:06:17,00:22:52,CE Taradell,Taradell,2,05:39:55,--:--:--,03:13:02,04:33:41
+6,Jordi,Verd˙ Tirado,708,M1,home,00:06:25,00:28:30,Trail CER rubi,RubÌ,4,05:35:22,--:--:--,03:17:39,04:39:19
+7,Guillem,Boixeda Planas,61,M1,home,00:06:28,00:30:45,CN Vic ETB,Sant Juli‡ de Vilatorta,5,06:38:49,01:50:18,03:15:41,04:41:34
+8,Adri‡,Noguera Casanovas,618,M1,home,00:06:28,00:30:58,UniÛ Excursionista Prats,Prats de LluÁanËs,6,06:28:21,--:--:--,03:14:48,04:41:47
+9,Sergi,VergÈs GassÛ,1146,M1,home,00:06:41,00:40:14,0,Vic,7,05:58:24,01:58:33,03:21:10,04:51:03
+10,Xavier,Font Alemany,319,M1,home,00:06:43,00:41:24,independent,Vilafranca del PenedËs,8,07:42:44,01:54:08,03:17:44,04:52:13
 11,Santi,Oms Dorca,1118,M2,home,00:06:47,00:44:46,CET,Taradell,3,06:33:39,01:59:51,03:23:32,04:55:35
 12,Raul,Corpas Villegas,130,M1,home,00:06:51,00:47:50,0,Terrassa,9,05:39:45,--:--:--,03:23:06,04:58:39
-13,Amat,Botines Puertas,531,M1,home,00:06:55,00:50:43,Agrupaci√≥ Excta Catalunya,Vic,10,06:06:11,02:13:04,03:36:15,05:01:32
+13,Amat,Botines Puertas,531,M1,home,00:06:55,00:50:43,AgrupaciÛ Excta Catalunya,Vic,10,06:06:11,02:13:04,03:36:15,05:01:32
 14,Albert,Caralt Ruaix,1054,M1,home,00:07:00,00:54:14,0,Vic,11,05:38:11,01:58:11,03:23:45,05:05:03
 15,Carlos,Aznal,11,M1,home,00:07:02,00:55:21,0,Terrassa,12,06:54:16,02:04:13,03:31:33,05:06:10
-16,Marc,Font Ribas,836,M1,home,00:07:02,00:55:47,Club Excursionista Sant Vicen√ß,Sant Vicen√ß dels Horts,13,07:18:03,01:58:35,03:21:51,05:06:36
+16,Marc,Font Ribas,836,M1,home,00:07:02,00:55:47,Club Excursionista Sant VicenÁ,Sant VicenÁ dels Horts,13,07:18:03,01:58:35,03:21:51,05:06:36
 17,Nestor,Terribas Nieto,731,M1,home,00:07:15,01:05:01,LUKTO BARCELONA,Barcelona,14,05:39:52,--:--:--,03:22:51,05:15:50
-18,Pep,Bisquert Illa,635,M1,home,00:07:16,01:05:30,C.Exc. Torell√≥,Torell√≥,15,06:41:13,02:06:46,03:38:05,05:16:19
+18,Pep,Bisquert Illa,635,M1,home,00:07:16,01:05:30,C.Exc. TorellÛ,TorellÛ,15,06:41:13,02:06:46,03:38:05,05:16:19
 19,Marta,Camps Piella,1085,M2,dona,00:07:21,01:09:26,CE Taradell,taradell,1,05:41:49,02:02:21,03:37:16,05:20:15
 20,Marc,Masrramon Ballus,1083,M2,home,00:07:21,01:09:28,centre excursionista taradell,taradell,4,05:42:05,02:02:01,03:37:22,05:20:17
 21,Jordi,Camps Piella,1086,M2,home,00:07:22,01:09:52,0,Taradell,5,05:41:51,02:02:22,03:37:15,05:20:41
 22,Marc,Vila Pons,218,M1,home,00:07:29,01:14:43,0,RODA DE TER,16,05:53:58,--:--:--,03:39:52,05:25:32
 23,Joan,Casadevall Escayola,171,M2,home,00:07:29,01:14:58,CET,Taradell,6,06:31:36,02:10:19,03:45:06,05:25:47
-24,Oscar,Paez Ram√≠rez,129,M1,home,00:07:30,01:15:36,0,Terrassa,17,05:41:13,01:58:05,03:34:34,05:26:25
-25,Dani,Garc√≠a Martin,643,M1,home,00:07:40,01:22:50,0,Granollers,18,05:58:57,--:--:--,03:46:11,05:33:39
-26,Armand,Vilaregut Argerich,835,M1,home,00:07:40,01:22:59,Centre Excursionista l'Esquirol,L¬¥ Esquirol,19,06:53:19,02:18:50,04:03:37,05:33:48
-27,Marti,Mir√≥,810,M1,home,00:07:41,01:23:41,UEC BAG√Ä,Bellvei,20,06:52:24,02:19:38,04:02:47,05:34:30
-28,Jacob,Sanchez Pareja,789,M1,home,00:07:41,01:23:42,Club Atl√®tic Torell√≥,Sant Hip√≤lit de Votreg√†,21,06:52:30,02:19:45,04:02:45,05:34:31
-29,Gerard,Gallart Galt√©s,763,M1,home,00:07:42,01:24:13,0,VIC,22,05:59:07,--:--:--,03:46:15,05:35:02
-30,Ramon,Jord√† Casadevall,295,M2,home,00:07:43,01:24:54,Cet Taradell,Taradell,7,06:17:20,02:17:36,03:50:57,05:35:43
-31,Mart√≠,Aparicio Bretxa,296,M2,home,00:07:43,01:25:04,0,Vic,8,06:17:20,02:17:43,03:51:07,05:35:53
+24,Oscar,Paez RamÌrez,129,M1,home,00:07:30,01:15:36,0,Terrassa,17,05:41:13,01:58:05,03:34:34,05:26:25
+25,Dani,GarcÌa Martin,643,M1,home,00:07:40,01:22:50,0,Granollers,18,05:58:57,--:--:--,03:46:11,05:33:39
+26,Armand,Vilaregut Argerich,835,M1,home,00:07:40,01:22:59,Centre Excursionista l'Esquirol,L¥ Esquirol,19,06:53:19,02:18:50,04:03:37,05:33:48
+27,Marti,MirÛ,810,M1,home,00:07:41,01:23:41,UEC BAG¿,Bellvei,20,06:52:24,02:19:38,04:02:47,05:34:30
+28,Jacob,Sanchez Pareja,789,M1,home,00:07:41,01:23:42,Club AtlËtic TorellÛ,Sant HipÚlit de Votreg‡,21,06:52:30,02:19:45,04:02:45,05:34:31
+29,Gerard,Gallart GaltÈs,763,M1,home,00:07:42,01:24:13,0,VIC,22,05:59:07,--:--:--,03:46:15,05:35:02
+30,Ramon,Jord‡ Casadevall,295,M2,home,00:07:43,01:24:54,Cet Taradell,Taradell,7,06:17:20,02:17:36,03:50:57,05:35:43
+31,MartÌ,Aparicio Bretxa,296,M2,home,00:07:43,01:25:04,0,Vic,8,06:17:20,02:17:43,03:51:07,05:35:53
 32,Marta,Homs Vivet,453,M2,dona,00:07:49,01:29:18,Centre excursionista Taradell,Taradell,2,05:39:07,02:15:35,03:54:37,05:40:07
 33,Jordi,Merino Seuma,1000,M1,home,00:07:54,01:32:59,0,Taradell,23,06:01:30,02:24:21,04:01:26,05:43:48
-34,Francesc,Huertas Mart√≠nez,791,M1,home,00:07:59,01:36:44,0,Bellvei,24,06:51:43,02:26:57,04:06:57,05:47:33
-35,Carles,Xampr√≥ Camps,717,M1,home,00:07:59,01:37:00,Centre excursionista Torell√≥,Vic,25,07:30:24,02:22:04,03:55:32,05:47:49
-36,Adri√†,Galofr√© Martin,799,M1,home,00:08:01,01:38:28,0,Bellvei,26,06:51:42,02:27:03,04:07:11,05:49:17
+34,Francesc,Huertas MartÌnez,791,M1,home,00:07:59,01:36:44,0,Bellvei,24,06:51:43,02:26:57,04:06:57,05:47:33
+35,Carles,XamprÛ Camps,717,M1,home,00:07:59,01:37:00,Centre excursionista TorellÛ,Vic,25,07:30:24,02:22:04,03:55:32,05:47:49
+36,Adri‡,GalofrÈ Martin,799,M1,home,00:08:01,01:38:28,0,Bellvei,26,06:51:42,02:27:03,04:07:11,05:49:17
 37,Jose Manuel,Casero Del Carmen,941,M1,home,00:08:02,01:39:19,Freaks Trail,Rubi,27,07:35:58,02:16:05,03:54:44,05:50:08
-38,Ferran,Soler Sebasti√†,242,M1,home,00:08:03,01:39:29,0,Sant Miquel de Baleny√†,28,05:59:50,02:20:44,04:08:08,05:50:18
+38,Ferran,Soler Sebasti‡,242,M1,home,00:08:03,01:39:29,0,Sant Miquel de Baleny‡,28,05:59:50,02:20:44,04:08:08,05:50:18
 39,Juan,Urbano Cansado,133,M1,home,00:08:03,01:39:34,0,Terrassa,29,05:39:55,02:05:18,03:49:31,05:50:23
 40,Roger,Soler Llebaria,359,M1,home,00:08:03,01:39:42,0,Tona,30,05:59:42,02:20:06,04:08:22,05:50:31
-41,Daniel,Osi√†s Valverde,938,M1,home,00:08:03,01:39:47,Freak's Trail,Sant Boi de Llobregat,31,07:35:32,02:16:28,03:55:14,05:50:36
+41,Daniel,Osi‡s Valverde,938,M1,home,00:08:03,01:39:47,Freak's Trail,Sant Boi de Llobregat,31,07:35:32,02:16:28,03:55:14,05:50:36
 42,David,Tulleuda Pujol,1037,M1,home,00:08:07,01:42:34,0,Taradell,32,05:38:34,02:14:56,03:55:10,05:53:23
-43,Vicen√ß,Prat Aguilar,755,M2,home,00:08:08,01:43:20,CET,Sant Juli√† de Vilatorta,9,05:50:04,02:24:34,04:09:13,05:54:09
-44,Meritxell,Freixas Nogu√©,584,M2,dona,00:08:10,01:44:43,CE TARADELL,Prats de Llu√ßan√®s,3,06:38:12,02:23:19,04:00:26,05:55:32
+43,VicenÁ,Prat Aguilar,755,M2,home,00:08:08,01:43:20,CET,Sant Juli‡ de Vilatorta,9,05:50:04,02:24:34,04:09:13,05:54:09
+44,Meritxell,Freixas NoguÈ,584,M2,dona,00:08:10,01:44:43,CE TARADELL,Prats de LluÁanËs,3,06:38:12,02:23:19,04:00:26,05:55:32
 45,Meritxell,Bansell Roca,1044,M1,dona,00:08:10,01:44:44,0,Vic,1,06:50:59,02:16:02,03:58:07,05:55:33
 46,Albert,Sabata Amblas,1045,M1,home,00:08:10,01:44:52,0,Vic,33,06:50:56,02:16:00,03:58:14,05:55:41
-47,Marc,Ballabriga Costa,585,M2,home,00:08:10,01:44:55,CE TARADELL,Prats de Llu√ßan√®s,10,06:38:16,02:23:31,04:00:17,05:55:44
+47,Marc,Ballabriga Costa,585,M2,home,00:08:10,01:44:55,CE TARADELL,Prats de LluÁanËs,10,06:38:16,02:23:31,04:00:17,05:55:44
 48,Jordi,Vaz,752,M1,home,00:08:12,01:46:21,0,vic,34,05:48:34,02:19:45,04:05:54,05:57:10
 49,Manel,Robledo Balsera,92,M1,home,00:08:13,01:46:41,0,Vic,35,05:48:47,02:19:28,04:05:52,05:57:30
-50,Manel,V√°,936,M2,home,00:08:14,01:47:47,0,Taradell,11,05:37:23,02:16:15,04:01:19,05:58:36
+50,Manel,V·,936,M2,home,00:08:14,01:47:47,0,Taradell,11,05:37:23,02:16:15,04:01:19,05:58:36
 51,Ivan,Gatell,68,M1,home,00:08:15,01:48:42,0,Terrassa,36,06:46:08,02:20:33,04:05:06,05:59:31
 52,Albert,Paradell Puig,65,M2,home,00:08:16,01:48:50,CE Taradell,Taradell,12,06:46:10,02:20:40,04:05:07,05:59:39
-53,Santi,Segal√©s Berenguer,423,M1,home,00:08:22,01:53:44,UE VIC - LLUNA PLENA,Vic,37,06:06:34,02:24:40,04:03:01,06:04:33
-54,Gemma,Rica Botia,636,M1,dona,00:08:22,01:53:47,UNI√ì EXCURSIONISTA DE VIC,Sant Juli√† de Vilatorta,2,06:06:37,02:24:49,04:03:05,06:04:36
+53,Santi,SegalÈs Berenguer,423,M1,home,00:08:22,01:53:44,UE VIC - LLUNA PLENA,Vic,37,06:06:34,02:24:40,04:03:01,06:04:33
+54,Gemma,Rica Botia,636,M1,dona,00:08:22,01:53:47,UNI” EXCURSIONISTA DE VIC,Sant Juli‡ de Vilatorta,2,06:06:37,02:24:49,04:03:05,06:04:36
 55,Antonio,Hernandez Montalban,521,M1,home,00:08:23,01:54:06,Lluna plena,VIC,38,06:06:51,02:24:57,04:03:08,06:04:55
 56,Meritxell,Bonet Costa,1043,M1,dona,00:08:25,01:55:19,0,Manlleu,3,06:05:31,02:32:29,04:29:26,06:06:08
-57,Eduard,Serra Parareda,1042,M2,home,00:08:25,01:55:22,CET,LES MASIES DE vOLTREG√Ä,13,06:05:30,02:32:31,04:29:32,06:06:11
-58,Rafael,Pacheco Garc√≠a,13,M1,home,00:08:25,01:55:56,0,Terrassa,39,06:56:33,02:19:47,04:04:24,06:06:45
+57,Eduard,Serra Parareda,1042,M2,home,00:08:25,01:55:22,CET,LES MASIES DE vOLTREG¿,13,06:05:30,02:32:31,04:29:32,06:06:11
+58,Rafael,Pacheco GarcÌa,13,M1,home,00:08:25,01:55:56,0,Terrassa,39,06:56:33,02:19:47,04:04:24,06:06:45
 59,Daniel Mama,Balde,1040,M1,home,00:08:26,01:56:20,0,Sant Miquel de Balenya,40,05:35:19,02:04:44,03:57:43,06:07:09
-60,Bea,Sandoval,619,M1,dona,00:08:27,01:56:51,0,Prats de Llu√ßan√®s,4,06:27:58,02:38:00,04:19:34,06:07:40
+60,Bea,Sandoval,619,M1,dona,00:08:27,01:56:51,0,Prats de LluÁanËs,4,06:27:58,02:38:00,04:19:34,06:07:40
 61,David,Vilar Rodriguez,155,M1,home,00:08:28,01:57:32,0,Calldetenes,41,06:46:31,02:23:38,04:09:29,06:08:21
 62,Francisco,Arenas Jurado,156,M1,home,00:08:28,01:57:39,0,Calldetenes,42,06:46:32,02:23:40,04:09:32,06:08:28
 63,Salva,Olivares Moreno,622,M1,home,00:08:29,01:58:48,Unio Excursionista Via Fora,Santa Creu de Jutglar,43,06:29:53,02:33:02,04:17:51,06:09:37
 64,Mai,Redorta Vila,1123,M1,dona,00:08:29,01:58:49,0,taradell,5,05:38:00,--:--:--,04:12:38,06:09:38
-65,Quim,Pastells Mu√±oz,986,M1,home,00:08:31,01:59:44,Independent,Roda de ter,44,05:36:22,02:22:22,04:06:57,06:10:33
+65,Quim,Pastells MuÒoz,986,M1,home,00:08:31,01:59:44,Independent,Roda de ter,44,05:36:22,02:22:22,04:06:57,06:10:33
 66,Ferran,Riera,1018,M1,home,00:08:34,02:02:09,0,Folgueroles,45,06:04:50,02:36:56,04:19:18,06:12:58
-67,Jordi,Armadans,241,M1,home,00:08:37,02:04:16,0,Baleny√† (Els Hostalets),46,05:59:39,02:20:08,04:13:42,06:15:05
-68,Roger,Vilaseca Gonzalez,42,M1,home,00:08:39,02:05:31,0,Sant Juli√† de Vilatorta,47,06:00:35,02:25:04,04:03:31,06:16:20
+67,Jordi,Armadans,241,M1,home,00:08:37,02:04:16,0,Baleny‡ (Els Hostalets),46,05:59:39,02:20:08,04:13:42,06:15:05
+68,Roger,Vilaseca Gonzalez,42,M1,home,00:08:39,02:05:31,0,Sant Juli‡ de Vilatorta,47,06:00:35,02:25:04,04:03:31,06:16:20
 69,Xavier,Ruiz Lopez,1109,M1,home,00:08:39,02:05:43,0,manlleu,48,06:32:25,02:31:26,04:13:12,06:16:32
 70,Jordi,Fuentes Palomar,1108,M1,home,00:08:39,02:05:45,0,sant hipolit de voltrega,49,06:32:16,02:31:48,04:13:15,06:16:34
-71,Eva,Cabra Sala,85,M1,dona,00:08:43,02:08:42,GRATAN√öVOLS DEL MONTSENY,ARBUCIES,6,07:26:03,02:32:42,04:25:39,06:19:31
-72,Blanca,Ayats Garriga,86,M1,dona,00:08:43,02:08:48,GRATAN√öVOLS DEL MONTSENY,ARBUCIES,7,07:25:59,02:32:44,04:25:37,06:19:37
+71,Eva,Cabra Sala,85,M1,dona,00:08:43,02:08:42,GRATAN⁄VOLS DEL MONTSENY,ARBUCIES,6,07:26:03,02:32:42,04:25:39,06:19:31
+72,Blanca,Ayats Garriga,86,M1,dona,00:08:43,02:08:48,GRATAN⁄VOLS DEL MONTSENY,ARBUCIES,7,07:25:59,02:32:44,04:25:37,06:19:37
 73,Joan,Subiranas Molist,1019,M1,home,00:08:46,02:10:57,0,Manlleu,50,06:04:53,02:36:51,04:19:20,06:21:46
 74,Jordi,Baulenas Aulet,550,M1,home,00:08:46,02:11:00,#trailflipats,Tona,51,05:59:56,02:20:14,04:13:32,06:21:49
 75,Jordi,Pons Font,739,M1,home,00:08:49,02:12:47,UECANOIA,IGUALADA,52,05:48:52,02:39:37,04:27:45,06:23:36
 76,David,Luco I Manubens,973,M1,home,00:08:49,02:12:56,0,igualada,53,05:48:39,02:39:35,04:27:54,06:23:45
-77,Josep Maria,L√≥pez Trave,219,M1,home,00:08:51,02:14:19,Vic etb cn,Sant Miquel De Baleny√†,54,05:59:45,02:20:17,04:13:39,06:25:08
-78,Alexandre,Gal√≠ Serra,701,M1,home,00:08:53,02:15:48,UE Vic,Vic,55,05:55:48,02:31:43,04:16:56,06:26:37
-79,Carles,Costa Tom√©,1122,M2,home,00:08:53,02:15:55,0,Taradell,14,07:30:25,02:22:57,04:15:17,06:26:44
+77,Josep Maria,LÛpez Trave,219,M1,home,00:08:51,02:14:19,Vic etb cn,Sant Miquel De Baleny‡,54,05:59:45,02:20:17,04:13:39,06:25:08
+78,Alexandre,GalÌ Serra,701,M1,home,00:08:53,02:15:48,UE Vic,Vic,55,05:55:48,02:31:43,04:16:56,06:26:37
+79,Carles,Costa TomÈ,1122,M2,home,00:08:53,02:15:55,0,Taradell,14,07:30:25,02:22:57,04:15:17,06:26:44
 80,Elisabet,Crosas Raurell,1127,M1,dona,00:08:53,02:16:05,0,Masies de Roda,8,05:43:43,02:32:52,04:19:57,06:26:54
-81,Marc,Verdaguer Montany√†,702,M1,home,00:08:54,02:16:41,Club Excursionista de Calldetenes,Calldetenes,56,05:55:05,02:32:30,04:17:46,06:27:30
-82,David,L√≥pez Barba,703,M1,home,00:08:58,02:19:25,Ce.vic,Vic,57,06:58:23,02:37:44,04:26:30,06:30:14
+81,Marc,Verdaguer Montany‡,702,M1,home,00:08:54,02:16:41,Club Excursionista de Calldetenes,Calldetenes,56,05:55:05,02:32:30,04:17:46,06:27:30
+82,David,LÛpez Barba,703,M1,home,00:08:58,02:19:25,Ce.vic,Vic,57,06:58:23,02:37:44,04:26:30,06:30:14
 83,Carlos,Castrillo Perez,920,M1,home,00:09:04,02:23:57,0,Montcada i Reixac,58,06:05:22,02:39:36,04:30:16,06:34:46
 84,Eva,Selles Roca,131,M2,dona,00:09:04,02:24:15,0,TARADELL,4,05:38:36,02:39:19,04:33:07,06:35:04
-85,Ramon,Roman Vi√±as,887,M1,home,00:09:05,02:24:21,0,Sant Cugat del Valles,59,06:05:19,02:39:39,04:30:01,06:35:10
-86,N√∫ria,Vila Vila,7,M1,dona,00:09:05,02:24:31,0,centelles,9,05:54:02,02:34:09,04:27:35,06:35:20
+85,Ramon,Roman ViÒas,887,M1,home,00:09:05,02:24:21,0,Sant Cugat del Valles,59,06:05:19,02:39:39,04:30:01,06:35:10
+86,N˙ria,Vila Vila,7,M1,dona,00:09:05,02:24:31,0,centelles,9,05:54:02,02:34:09,04:27:35,06:35:20
 87,Merce,Pares Codinach,132,M2,dona,00:09:05,02:24:32,0,Taradell,5,05:38:33,02:39:10,04:33:23,06:35:21
 88,Eduard,Jansana,8,M1,home,00:09:05,02:24:36,0,Centelles,60,05:54:00,02:34:04,04:27:40,06:35:25
 89,Judit,Cardellach Lliso,985,M1,dona,00:09:05,02:24:48,0,Vic,10,06:36:14,02:43:10,04:35:47,06:35:37
-90,Daniel,Garcia Rinc√≥n,769,M1,home,00:09:14,02:30:59,0,Barcelona,61,06:54:37,02:38:37,04:33:46,06:41:48
-91,Jordi,Estrada Tany√†,822,M1,home,00:09:14,02:31:22,-,TARADELL,62,06:03:10,02:42:42,04:36:16,06:42:11
+90,Daniel,Garcia RincÛn,769,M1,home,00:09:14,02:30:59,0,Barcelona,61,06:54:37,02:38:37,04:33:46,06:41:48
+91,Jordi,Estrada Tany‡,822,M1,home,00:09:14,02:31:22,-,TARADELL,62,06:03:10,02:42:42,04:36:16,06:42:11
 92,Marc,Vila Miarons,1141,M1,home,00:09:14,02:31:30,0,Manlleu,63,06:03:06,02:42:39,04:36:32,06:42:19
-93,Emili,Jan√© Tor,101,M1,home,00:09:15,02:31:54,Grup Excursionista Manlleu (GEM),Manlleu,64,06:03:14,02:36:04,04:29:18,06:42:43
-94,Pau,Arum√≠ Gelabert,19,M1,home,00:09:15,02:32:10,0,Palau-solita i plegamans,65,06:02:02,02:49:07,04:45:21,06:42:59
+93,Emili,JanÈ Tor,101,M1,home,00:09:15,02:31:54,Grup Excursionista Manlleu (GEM),Manlleu,64,06:03:14,02:36:04,04:29:18,06:42:43
+94,Pau,ArumÌ Gelabert,19,M1,home,00:09:15,02:32:10,0,Palau-solita i plegamans,65,06:02:02,02:49:07,04:45:21,06:42:59
 95,Josep,Crespi Coma,667,M2,home,00:09:16,02:32:32,Centre Excursionista Taradell,Taradell,15,05:39:35,02:35:11,04:19:30,06:43:21
 96,Santi,Molist Codinachs,1142,M2,home,00:09:17,02:33:42,0,Taradell,16,07:58:14,02:19:54,04:22:40,06:44:31
 97,Jose Alfredo,Perez Martin,824,M1,home,00:09:21,02:36:04,PIRI,Cabrils,66,05:49:21,02:46:21,04:46:04,06:46:53
 98,Anna,Sanz Ruiz,874,M1,dona,00:09:21,02:36:16,"Piri, Centre Excursionista Vilassar de Mar",Vilassar de Mar,11,05:49:17,02:46:32,04:46:16,06:47:05
 99,Jose Alfredo,Perez Martinez,895,M1,home,00:09:21,02:36:18,0,Cabrils,67,05:49:18,02:46:25,04:46:11,06:47:07
-100,Josep,Terricabras Ti√≥,569,M1,home,00:09:25,02:39:18,0,MANLLEU,68,06:41:24,02:30:37,04:30:14,06:50:07
+100,Josep,Terricabras TiÛ,569,M1,home,00:09:25,02:39:18,0,MANLLEU,68,06:41:24,02:30:37,04:30:14,06:50:07
 101,David,Marimon Martin,302,M1,home,00:09:25,02:39:24,Independent,St feliu llobregat,69,06:21:34,02:49:45,04:46:17,06:50:13
-102,Alex,Salesa Mart√≠nez,567,M1,home,00:09:25,02:39:28,0,Viladecans,70,06:41:09,02:30:55,04:30:27,06:50:17
-103,Xavier,Lloret Fern√°ndez,317,M1,home,00:09:26,02:40:09,GEPS,Sant Feliu de Llobregat,71,06:21:35,02:49:38,04:46:22,06:50:58
-104,Merc√®,Pallerols Gasc√≥,392,M1,dona,00:09:28,02:41:01,0,BARCELONA,12,06:20:18,02:56:42,04:51:28,06:51:50
+102,Alex,Salesa MartÌnez,567,M1,home,00:09:25,02:39:28,0,Viladecans,70,06:41:09,02:30:55,04:30:27,06:50:17
+103,Xavier,Lloret Fern·ndez,317,M1,home,00:09:26,02:40:09,GEPS,Sant Feliu de Llobregat,71,06:21:35,02:49:38,04:46:22,06:50:58
+104,MercË,Pallerols GascÛ,392,M1,dona,00:09:28,02:41:01,0,BARCELONA,12,06:20:18,02:56:42,04:51:28,06:51:50
 105,Xevi,Soler Costa,442,M1,home,00:09:30,02:42:38,0,Taradell,72,06:57:50,02:44:35,04:40:38,06:53:27
 106,Guillem,Sanchez Peris,443,M1,home,00:09:30,02:42:47,0,Taradell,73,06:57:46,02:44:12,04:40:53,06:53:36
-107,Meritxell,Bou Prat,55,M1,dona,00:09:30,02:42:53,0,Santa Eug√®nia de Berga,13,06:57:47,02:44:18,04:40:46,06:53:42
-108,Llu√≠s,Casany Lopez,54,M1,home,00:09:30,02:42:56,0,Santa Eug√®nia de Berga,74,06:57:49,02:44:24,04:40:36,06:53:45
-109,V√≠ctor,Alegre Herrero,393,M1,home,00:09:32,02:44:13,0,BARCELONA,75,06:20:19,02:56:43,04:51:24,06:55:02
+107,Meritxell,Bou Prat,55,M1,dona,00:09:30,02:42:53,0,Santa EugËnia de Berga,13,06:57:47,02:44:18,04:40:46,06:53:42
+108,LluÌs,Casany Lopez,54,M1,home,00:09:30,02:42:56,0,Santa EugËnia de Berga,74,06:57:49,02:44:24,04:40:36,06:53:45
+109,VÌctor,Alegre Herrero,393,M1,home,00:09:32,02:44:13,0,BARCELONA,75,06:20:19,02:56:43,04:51:24,06:55:02
 110,Santi,Torres Carrascal,764,M2,home,00:09:33,02:45:13,0,calldetenes,17,05:49:41,02:52:55,04:50:01,06:56:02
 111,Marta,Cid Prat,1077,M1,home,00:09:33,02:45:17,0,Taradell,76,06:14:04,--:--:--,--:--:--,06:56:06
 112,Ramon,Alcon,948,M1,home,00:09:35,02:46:15,Anem fent,Vic,77,07:32:53,02:21:54,04:25:44,06:57:04
 113,Xavier,Cornejo Orriols,976,M1,home,00:09:35,02:46:23,0,Barcelona,78,07:32:49,02:22:03,04:25:45,06:57:12
 114,Gisela,Solande Galindo,91,M1,dona,00:09:35,02:46:45,Madteam,Taradell,14,06:03:41,02:47:26,04:45:48,06:57:34
-115,Ramon,Aguilar Serra,773,M2,home,00:09:36,02:46:49,CORREREMEI,Sant Juli√† de Vilatorta,18,05:50:31,02:52:27,04:49:18,06:57:38
+115,Ramon,Aguilar Serra,773,M2,home,00:09:36,02:46:49,CORREREMEI,Sant Juli‡ de Vilatorta,18,05:50:31,02:52:27,04:49:18,06:57:38
 116,Jordi,Noguer Palmieri,1036,M1,home,00:09:38,02:48:17,0,Torello,79,07:01:08,02:54:47,04:50:56,06:59:06
-117,Paloma,Villase√±or Romero,917,M1,dona,00:09:38,02:48:45,0,Roda de Ter,15,06:35:58,02:49:30,04:52:24,06:59:34
+117,Paloma,VillaseÒor Romero,917,M1,dona,00:09:38,02:48:45,0,Roda de Ter,15,06:35:58,02:49:30,04:52:24,06:59:34
 118,Irina,Pujol Castany,916,M1,dona,00:09:39,02:49:03,0,Roda de Ter,16,06:35:55,02:49:35,04:52:33,06:59:52
 119,Josep,Sirisi Casanovas,140,M2,home,00:09:40,02:49:56,Centre excursionista taradell,Taradell,19,05:36:11,02:34:04,04:32:52,07:00:45
 120,Jaume,Estany Ricart,114,M1,home,00:09:48,02:55:37,Club Muntanyenc de Sant Cugat,Sant Cugat del Valles,80,06:05:16,03:05:50,05:03:55,07:06:26
 121,Isabel,Illamola Vilalta,867,M1,dona,00:09:48,02:55:56,Centre excta Torello,Santa Maria de Corco,17,05:37:49,02:55:36,04:52:22,07:06:45
-122,Guillem,Verdaguer Valls,640,M1,dona,00:09:48,02:55:56,0,Les Masies de Voltreg√†,18,06:32:53,02:57:11,04:58:04,07:06:45
-123,Aina,Bigas Valls,548,M1,dona,00:09:48,02:56:00,0,Sant Vicen√ß de Torell√≥,19,06:32:53,02:57:07,04:58:20,07:06:49
+122,Guillem,Verdaguer Valls,640,M1,dona,00:09:48,02:55:56,0,Les Masies de Voltreg‡,18,06:32:53,02:57:11,04:58:04,07:06:45
+123,Aina,Bigas Valls,548,M1,dona,00:09:48,02:56:00,0,Sant VicenÁ de TorellÛ,19,06:32:53,02:57:07,04:58:20,07:06:49
 124,Toni,Moral Lirio,868,M1,home,00:09:48,02:56:02,Centre excta Torello,Masies de Roda,81,05:37:50,02:55:36,04:52:28,07:06:51
 125,Lluis,Vilaro Oliveres,866,M1,home,00:09:49,02:56:16,Bandolers,Manlleu,82,05:37:43,02:55:36,04:52:20,07:07:05
 126,Bernat,Serra Girame,811,M1,home,00:09:52,02:58:43,0,Viladrau,83,05:48:42,02:22:28,04:12:31,07:09:32
@@ -129,141 +129,141 @@ POSICI√ìN,NOMBRE,apellidos,dorsal,cat,sexo,ritmo,dif 1o,club,poblaci√≥n,poscat,A
 128,Juan  Maria,Fuentes Romero,180,M1,home,00:09:52,02:59:03,Club ciclista Granollers,Granollers,84,05:58:40,02:52:36,04:58:10,07:09:52
 129,Jordi,Bosch I Marcet,944,M2,home,00:09:53,02:59:21,CET. Centre excursionista Taradell,Taradell,21,06:44:10,02:46:43,04:51:46,07:10:10
 130,Judit,Marce Pujol,1052,M1,dona,00:09:54,02:59:58,0,Sant Eulalia Riuprimer,20,05:46:17,02:42:43,04:53:13,07:10:47
-131,Raquel,Rodriguez Mu√±oz,223,M1,dona,00:09:54,03:00:03,0,C√ÄNOVES I SAMAL√öS,21,06:33:10,02:39:11,04:44:02,07:10:52
+131,Raquel,Rodriguez MuÒoz,223,M1,dona,00:09:54,03:00:03,0,C¿NOVES I SAMAL⁄S,21,06:33:10,02:39:11,04:44:02,07:10:52
 132,Javier,De La Maza,162,M1,home,00:09:54,03:00:17,L'Aire,Canovelles,85,06:33:01,02:39:29,04:43:54,07:11:06
-133,Marc,Clar√† Rovira,492,M1,home,00:09:54,03:00:26,CEC Calldetenes,Calldetenes,86,05:46:20,02:42:39,04:53:13,07:11:15
+133,Marc,Clar‡ Rovira,492,M1,home,00:09:54,03:00:26,CEC Calldetenes,Calldetenes,86,05:46:20,02:42:39,04:53:13,07:11:15
 134,Jordi,Salip Agusti,161,M1,home,00:09:54,03:00:30,0,Sant Antoni de Vilamajor,87,06:32:55,02:39:31,04:43:57,07:11:19
 135,Eduard,Tomas Perez,349,M1,home,00:09:54,03:00:33,0,Barcelona,88,06:33:04,02:39:19,04:44:12,07:11:22
-136,Sergi,B√†guena Alagarda,164,M1,home,00:09:55,03:00:36,0,St. Antoni de Vilamajor,89,06:33:06,02:39:29,04:44:14,07:11:25
+136,Sergi,B‡guena Alagarda,164,M1,home,00:09:55,03:00:36,0,St. Antoni de Vilamajor,89,06:33:06,02:39:29,04:44:14,07:11:25
 137,Diego,Murillo Gonzalez,227,M1,home,00:09:55,03:00:37,0,Sant Antoni de Vilamajor,90,06:33:14,02:39:20,04:43:54,07:11:26
-138,Josep,Danot Pineda,163,M1,home,00:09:55,03:00:41,0,C√†noves,91,06:33:05,02:39:34,04:44:19,07:11:30
-139,David,Salip Agust√≠,231,M1,home,00:09:55,03:00:43,0,Rub√≠,92,06:33:12,02:39:15,04:43:48,07:11:32
-140,Jordi,Verdaguer Portet,642,M1,home,00:09:55,03:01:08,0,Les Masies de Voltreg√†,93,06:32:59,02:57:13,04:58:23,07:11:57
+138,Josep,Danot Pineda,163,M1,home,00:09:55,03:00:41,0,C‡noves,91,06:33:05,02:39:34,04:44:19,07:11:30
+139,David,Salip AgustÌ,231,M1,home,00:09:55,03:00:43,0,RubÌ,92,06:33:12,02:39:15,04:43:48,07:11:32
+140,Jordi,Verdaguer Portet,642,M1,home,00:09:55,03:01:08,0,Les Masies de Voltreg‡,93,06:32:59,02:57:13,04:58:23,07:11:57
 141,Berta,Sabariego Puigvila,989,M1,dona,00:09:55,03:01:16,0,Roda de Ter,22,06:01:12,02:44:06,04:46:05,07:12:05
-142,Quim,Sabariego Vill√©n,990,M1,home,00:09:56,03:01:19,0,Roda de Ter,94,06:01:06,02:43:59,04:46:02,07:12:08
-143,Tere,Valls Oferil,641,M1,dona,00:09:56,03:01:23,0,Les Masies de Voltreg√†,23,06:32:51,02:57:17,04:58:19,07:12:12
+142,Quim,Sabariego VillÈn,990,M1,home,00:09:56,03:01:19,0,Roda de Ter,94,06:01:06,02:43:59,04:46:02,07:12:08
+143,Tere,Valls Oferil,641,M1,dona,00:09:56,03:01:23,0,Les Masies de Voltreg‡,23,06:32:51,02:57:17,04:58:19,07:12:12
 144,Montse,Puigvila Serrat,988,M1,dona,00:09:56,03:01:24,0,Roda de Ter,24,06:01:09,02:44:04,04:46:04,07:12:13
-145,Marta,Bigas Valls,527,M1,dona,00:09:56,03:01:33,0,Santi Vicen√ß de Torello,25,06:32:51,02:57:13,04:58:11,07:12:22
+145,Marta,Bigas Valls,527,M1,dona,00:09:56,03:01:33,0,Santi VicenÁ de Torello,25,06:32:51,02:57:13,04:58:11,07:12:22
 146,Joan,Juvanteny Soler,1124,M2,home,00:09:56,03:01:36,CET,"L, Esquirol",22,06:28:44,02:51:06,04:52:41,07:12:25
 147,Clara,Urpina Rius,371,M1,dona,00:09:57,03:02:19,No club,Vic,26,06:41:24,02:57:49,05:09:49,07:13:08
-148,Ramon,Cortina Subirana,727,M1,home,00:09:59,03:03:46,ASSOCIACI√ì ESPORTIVA ULLASTRELL,SANT QUIRZE DEL VALLES,95,05:58:52,03:00:49,05:00:05,07:14:35
-149,Roger,Codinachs Alsina,495,M2,home,00:10:04,03:07:14,CE TARADELL,Sant Juli√† de Vilatorta,23,05:36:33,02:43:49,04:53:08,07:18:03
-150,Oscar,Llarch Gal√°n,912,M2,home,00:10:05,03:08:13,CE Taradell,Santa Eug√®nia de Berga,24,05:50:07,02:41:44,04:53:34,07:19:02
-151,Llu√≠s,Pla Reig,1135,M1,home,00:10:05,03:08:16,0,TaRADELL,96,05:51:46,--:--:--,--:--:--,07:19:05
-152,Ignacio,Fern√°ndez P√©rez,38,M1,home,00:10:07,03:09:57,Club Excursionistas de Gr√†cia,Barcelona,97,05:57:09,02:55:21,04:57:53,07:20:46
-153,Josep M¬™,Vilarr√∫bia T√†pia,17,M2,home,00:10:08,03:10:01,CE Taradell,Malla,25,05:57:00,02:55:35,04:58:06,07:20:50
+148,Ramon,Cortina Subirana,727,M1,home,00:09:59,03:03:46,ASSOCIACI” ESPORTIVA ULLASTRELL,SANT QUIRZE DEL VALLES,95,05:58:52,03:00:49,05:00:05,07:14:35
+149,Roger,Codinachs Alsina,495,M2,home,00:10:04,03:07:14,CE TARADELL,Sant Juli‡ de Vilatorta,23,05:36:33,02:43:49,04:53:08,07:18:03
+150,Oscar,Llarch Gal·n,912,M2,home,00:10:05,03:08:13,CE Taradell,Santa EugËnia de Berga,24,05:50:07,02:41:44,04:53:34,07:19:02
+151,LluÌs,Pla Reig,1135,M1,home,00:10:05,03:08:16,0,TaRADELL,96,05:51:46,--:--:--,--:--:--,07:19:05
+152,Ignacio,Fern·ndez PÈrez,38,M1,home,00:10:07,03:09:57,Club Excursionistas de Gr‡cia,Barcelona,97,05:57:09,02:55:21,04:57:53,07:20:46
+153,Josep M™,Vilarr˙bia T‡pia,17,M2,home,00:10:08,03:10:01,CE Taradell,Malla,25,05:57:00,02:55:35,04:58:06,07:20:50
 154,Ariadna,Bigas Romera,372,M2,dona,00:10:10,03:11:57,Cet Taradell,Santa Eugenia de Berga,6,06:30:44,02:58:48,05:13:44,07:22:46
 155,Daniel,Pla Eraso,910,M1,home,00:10:11,03:12:33,Libre,TERRASSA,98,06:54:23,03:11:01,05:27:38,07:23:22
 156,David,Sotillos Puertolas,1020,M1,home,00:10:11,03:12:43,0,Cardedeu,99,06:35:02,03:24:02,05:20:51,07:23:32
-157,Llu√≠s,Lleida Feixas,213,M1,home,00:10:12,03:13:24,CAM Parets,Berga,100,06:51:06,02:55:43,05:00:42,07:24:13
+157,LluÌs,Lleida Feixas,213,M1,home,00:10:12,03:13:24,CAM Parets,Berga,100,06:51:06,02:55:43,05:00:42,07:24:13
 158,Pol,Tarrida Capdevila,844,M1,home,00:10:12,03:13:35,0,Vic,101,05:54:27,03:15:51,05:19:00,07:24:24
-159,Mart√≠,Arany√≥ G√ºell,421,M1,home,00:10:13,03:13:44,0,Sabadell,102,06:48:03,02:58:52,05:06:17,07:24:33
+159,MartÌ,AranyÛ G¸ell,421,M1,home,00:10:13,03:13:44,0,Sabadell,102,06:48:03,02:58:52,05:06:17,07:24:33
 160,Jordi,Rius Utset,438,M1,home,00:10:13,03:13:48,UES,Sabadell,103,06:48:07,02:58:52,05:06:17,07:24:37
 161,Albert,Ferrer Serrano,843,M1,home,00:10:13,03:13:56,0,Vic,104,05:54:04,03:16:15,05:19:28,07:24:45
-162,N√∫ria,Mart√≠nez Boixaderas,599,M1,dona,00:10:14,03:14:39,GUIES LA VALL TEAM,TONA,27,05:49:26,02:52:59,--:--:--,07:25:28
-163,Abel,Sala,601,M1,home,00:10:14,03:14:55,CE CAMPDEV√ÄNOL,Sant Joan de les Abadesses,105,05:59:57,02:57:40,05:01:38,07:25:44
+162,N˙ria,MartÌnez Boixaderas,599,M1,dona,00:10:14,03:14:39,GUIES LA VALL TEAM,TONA,27,05:49:26,02:52:59,--:--:--,07:25:28
+163,Abel,Sala,601,M1,home,00:10:14,03:14:55,CE CAMPDEV¿NOL,Sant Joan de les Abadesses,105,05:59:57,02:57:40,05:01:38,07:25:44
 164,Sonia,Casanova Monereo,556,M1,dona,00:10:15,03:15:28,0,Vic,28,05:36:47,02:42:53,04:50:59,07:26:17
-165,Rosa,Vil√† Garet,301,M1,dona,00:10:15,03:15:30,0,Prats de Llu√ßan√®s,29,05:34:44,02:50:45,05:00:28,07:26:19
+165,Rosa,Vil‡ Garet,301,M1,dona,00:10:15,03:15:30,0,Prats de LluÁanËs,29,05:34:44,02:50:45,05:00:28,07:26:19
 166,Didac,Romero Lopez,432,M2,home,00:10:15,03:15:32,UE Taradell,Centelles,26,05:36:32,02:43:04,04:50:49,07:26:21
-167,Montse,Escriu Molin√©,445,M1,dona,00:10:15,03:15:33,0,Hostalets de Baleny√†,30,05:36:39,02:43:48,04:50:51,07:26:22
-168,Merc√®,Riera Camps,300,M1,dona,00:10:15,03:15:41,0,Taradell,31,05:34:37,02:50:58,05:00:39,07:26:30
-169,Jordi,Pica√±ol Ricart,1008,M1,home,00:10:16,03:15:47,0,Roda de ter,106,05:58:51,02:59:43,05:06:49,07:26:36
-170,Merc√®,Dan√©s Moret,602,M1,dona,00:10:16,03:15:59,CE CAMPDEVANOL,Sant Joan de les Abadesses,32,06:00:02,--:--:--,--:--:--,07:26:48
+167,Montse,Escriu MolinÈ,445,M1,dona,00:10:15,03:15:33,0,Hostalets de Baleny‡,30,05:36:39,02:43:48,04:50:51,07:26:22
+168,MercË,Riera Camps,300,M1,dona,00:10:15,03:15:41,0,Taradell,31,05:34:37,02:50:58,05:00:39,07:26:30
+169,Jordi,PicaÒol Ricart,1008,M1,home,00:10:16,03:15:47,0,Roda de ter,106,05:58:51,02:59:43,05:06:49,07:26:36
+170,MercË,DanÈs Moret,602,M1,dona,00:10:16,03:15:59,CE CAMPDEVANOL,Sant Joan de les Abadesses,32,06:00:02,--:--:--,--:--:--,07:26:48
 171,Marc,Vidiella Perramon,839,M1,home,00:10:17,03:16:55,0,Martorell,107,05:35:23,02:50:00,05:07:16,07:27:44
 172,Joan Lluis,Jounou Moral,762,M1,home,00:10:18,03:17:43,0,Aiguafreda,108,05:59:09,02:58:12,05:07:00,07:28:32
 173,Susanna,Rodes Serra,761,M1,dona,00:10:19,03:18:09,0,Aiguafreda,33,05:58:47,02:58:22,05:07:10,07:28:58
-174,Josep Llu√≠s,Freixer Montero,1056,M1,home,00:10:22,03:20:47,0,Sant Vicen√ß de Torello,109,06:28:23,03:12:06,05:17:39,07:31:36
+174,Josep LluÌs,Freixer Montero,1056,M1,home,00:10:22,03:20:47,0,Sant VicenÁ de Torello,109,06:28:23,03:12:06,05:17:39,07:31:36
 175,David,Vila Duran,540,M1,home,00:10:23,03:21:13,0,Vic,110,06:03:50,02:50:02,04:59:55,07:32:02
-176,S√≤nia,Torras Serra,541,M1,dona,00:10:23,03:21:25,C.E.Bandolers,Sant Feliu Sasserra,34,06:03:36,02:50:09,05:00:10,07:32:14
+176,SÚnia,Torras Serra,541,M1,dona,00:10:23,03:21:25,C.E.Bandolers,Sant Feliu Sasserra,34,06:03:36,02:50:09,05:00:10,07:32:14
 177,Maria,Pujol Camps,564,M1,dona,00:10:24,03:21:44,Cet torello,Torello,35,05:49:15,02:57:18,05:01:47,07:32:33
 178,Mireia,Bertran Fabregas,514,M1,dona,00:10:26,03:23:33,Centre excursionista Seva,Seva,36,06:18:59,03:07:44,05:19:47,07:34:22
 179,Joan,Puigcorber,719,M1,home,00:10:27,03:24:13,0,manlleu,111,06:09:50,03:10:40,05:14:54,07:35:02
 180,Xavier,Bertrans Costa,1090,M2,home,00:10:28,03:24:46,C.E.Taradell,S.Q.Besora,27,05:34:25,03:01:27,05:04:17,07:35:35
 181,Pol,Puigcorber,718,M1,home,00:10:28,03:24:48,0,manlleu,112,06:09:53,03:10:44,05:14:55,07:35:37
-182,Victoria,Mu√±oz Lopez,1134,M1,dona,00:10:29,03:25:29,0,Vic,37,06:30:46,02:58:48,05:13:46,07:36:18
+182,Victoria,MuÒoz Lopez,1134,M1,dona,00:10:29,03:25:29,0,Vic,37,06:30:46,02:58:48,05:13:46,07:36:18
 183,Xavier,Solagran Casassas,689,M1,home,00:10:29,03:25:55,0,Taradell,113,06:01:30,02:49:32,05:03:10,07:36:44
-184,Arnau,Dan√©s Vilardell,998,M1,home,00:10:30,03:26:03,0,Taradell,114,06:01:46,02:49:28,05:03:04,07:36:52
+184,Arnau,DanÈs Vilardell,998,M1,home,00:10:30,03:26:03,0,Taradell,114,06:01:46,02:49:28,05:03:04,07:36:52
 185,Roger,Sala Angordaans,687,M1,home,00:10:30,03:26:11,0,Taradell,115,06:01:33,02:49:47,05:03:11,07:37:00
 186,Manel,Machado Ruiz,81,M1,home,00:10:31,03:26:54,0,vic,116,05:34:35,02:55:23,05:08:08,07:37:43
 187,Crescenci,Martinez Ayala,264,M1,home,00:10:33,03:28:45,0,Terrassa,117,05:36:08,03:09:18,05:14:15,07:39:34
-188,Evaristo,Gonz√°lez Prieto,275,M1,home,00:10:34,03:28:58,Club Nataci√≥ Terrassa,Terrassa,118,05:36:03,03:09:29,05:14:34,07:39:47
+188,Evaristo,Gonz·lez Prieto,275,M1,home,00:10:34,03:28:58,Club NataciÛ Terrassa,Terrassa,118,05:36:03,03:09:29,05:14:34,07:39:47
 189,Arnau,Estebanell Hernanz,128,M1,home,00:10:35,03:29:40,0,Terrassa,119,06:04:48,03:13:45,05:23:26,07:40:29
-190,Sergi,Arimany Mu√±oz,47,M1,home,00:10:35,03:29:52,"Ass. esp. Centre alpi ""vall del segadell""",Roda de ter,120,05:44:53,03:13:45,05:20:57,07:40:41
-191,Manel,Blasco Salvat,490,M1,home,00:10:37,03:31:31,Club Excursionista de Gr√†cia,BARCELONA,121,06:29:33,03:16:50,05:20:58,07:42:20
+190,Sergi,Arimany MuÒoz,47,M1,home,00:10:35,03:29:52,"Ass. esp. Centre alpi ""vall del segadell""",Roda de ter,120,05:44:53,03:13:45,05:20:57,07:40:41
+191,Manel,Blasco Salvat,490,M1,home,00:10:37,03:31:31,Club Excursionista de Gr‡cia,BARCELONA,121,06:29:33,03:16:50,05:20:58,07:42:20
 192,Lidia,Simon Colomer,59,M2,dona,00:10:38,03:32:08,centre excursionista taradell,CENTELLES,7,07:07:17,04:26:21,05:42:07,07:42:57
-193,Anna,Vilar√≥ Aguilera,313,M1,dona,00:10:38,03:32:11,0,SANTA EULALIA DE RIUPRIMER,38,06:07:40,02:43:52,04:55:59,07:43:00
+193,Anna,VilarÛ Aguilera,313,M1,dona,00:10:38,03:32:11,0,SANTA EULALIA DE RIUPRIMER,38,06:07:40,02:43:52,04:55:59,07:43:00
 194,Gemma,Basachs Preixens,314,M1,dona,00:10:38,03:32:24,Ues,Sta Eugenia de Berga,39,06:07:30,02:44:05,04:56:12,07:43:13
 195,Toni,Calvo Lopez,60,M2,home,00:10:39,03:32:36,centre excursionista taradell,manlleu,28,07:06:53,04:26:38,06:30:01,07:43:25
-196,Miquel,Musterni Corderas,126,M1,home,00:10:45,03:37:00,0,Vilanova i la Geltr√∫,122,06:04:48,03:13:46,05:23:22,07:47:49
+196,Miquel,Musterni Corderas,126,M1,home,00:10:45,03:37:00,0,Vilanova i la Geltr˙,122,06:04:48,03:13:46,05:23:22,07:47:49
 197,Gerard,Musterni Girbau,127,M1,home,00:10:45,03:37:05,0,Sabadell,123,06:04:48,03:13:41,05:23:48,07:47:54
 198,Jofre,Bosch I Corretja,943,M2,home,00:10:47,03:38:20,CET. Centre excursionista Taradell,Taradell,29,06:44:16,02:46:36,05:08:29,07:49:09
-199,Montse,Furriols Sola,327,M2,dona,00:10:51,03:41:39,Centre ¬°Excursionista de Taradell,Taradell,8,05:49:35,03:13:37,05:26:30,07:52:28
+199,Montse,Furriols Sola,327,M2,dona,00:10:51,03:41:39,Centre °Excursionista de Taradell,Taradell,8,05:49:35,03:13:37,05:26:30,07:52:28
 200,Fina,Sanglas Batlles,969,M1,dona,00:10:51,03:41:39,0,Bigues i Riells,40,05:58:24,03:22:11,05:28:12,07:52:28
-201,N√∫ria,Costas Barrera,249,M1,dona,00:10:55,03:44:12,0,Tona,41,06:29:05,03:08:23,05:18:50,07:55:01
+201,N˙ria,Costas Barrera,249,M1,dona,00:10:55,03:44:12,0,Tona,41,06:29:05,03:08:23,05:18:50,07:55:01
 202,Sergi,Sanchez Jimenez,178,M1,home,00:10:56,03:45:13,0,Calldetenes,124,06:16:52,03:21:55,05:37:05,07:56:02
-203,Mireia,Castillo Luj√°n,158,M1,dona,00:10:56,03:45:26,0,Calldetenes,42,06:16:43,03:22:11,05:37:18,07:56:15
+203,Mireia,Castillo Luj·n,158,M1,dona,00:10:56,03:45:26,0,Calldetenes,42,06:16:43,03:22:11,05:37:18,07:56:15
 204,Patricia,Rubio Garcia,1099,M1,dona,00:10:59,03:47:13,0,Calldetenes,43,05:59:16,03:22:59,05:45:39,07:58:02
-205,Jordi,Segura Ferre,102,M1,home,00:11:00,03:47:41,CET Torell√≥,Torell√≥,125,07:32:31,03:09:04,05:24:02,07:58:30
-206,Fernando,Gordillo Ruano,35,M1,home,00:11:00,03:48:11,UES,Cerdanyola del Vall√®s,126,06:15:15,03:10:36,05:23:53,07:59:00
-207,Josep Maria,Vilar√≥ Faixedas,398,M1,home,00:11:01,03:48:39,0,Centelles,127,06:16:03,03:07:49,05:15:03,07:59:28
-208,Ver√≤nica,Llinares Casado,36,M1,dona,00:11:01,03:48:55,UES,Sabadell,44,06:15:04,03:10:50,05:24:32,07:59:44
+205,Jordi,Segura Ferre,102,M1,home,00:11:00,03:47:41,CET TorellÛ,TorellÛ,125,07:32:31,03:09:04,05:24:02,07:58:30
+206,Fernando,Gordillo Ruano,35,M1,home,00:11:00,03:48:11,UES,Cerdanyola del VallËs,126,06:15:15,03:10:36,05:23:53,07:59:00
+207,Josep Maria,VilarÛ Faixedas,398,M1,home,00:11:01,03:48:39,0,Centelles,127,06:16:03,03:07:49,05:15:03,07:59:28
+208,VerÚnica,Llinares Casado,36,M1,dona,00:11:01,03:48:55,UES,Sabadell,44,06:15:04,03:10:50,05:24:32,07:59:44
 209,Claudia,Vila Torroella,298,M1,dona,00:11:03,03:50:22,0,Granollers,45,05:36:06,02:42:37,05:12:15,08:01:11
 210,Ramon,Ricart Torrent,1138,M1,home,00:11:03,03:50:28,0,Ullastrell,128,05:53:57,03:18:14,05:40:09,08:01:17
 211,Laura,Barcons Ferrer,247,M2,dona,00:11:03,03:50:31,CE Taradell,Manlleu,9,06:29:02,03:08:23,05:19:07,08:01:20
 212,Isabel,Aguilar Barba,1041,M1,dona,00:11:03,03:50:32,0,Girona,46,07:30:12,03:12:27,05:22:20,08:01:21
 213,Marta,Torroella Puig,806,M1,dona,00:11:03,03:50:34,0,GRANOLLERS,47,05:35:59,03:10:26,05:20:26,08:01:23
-214,Toni,Cardona Calvo,581,M1,home,00:11:04,03:51:06,Centre excursionista Solson√®s,Solsona,129,06:19:23,03:34:14,05:59:15,08:01:55
-215,Jordi,Alsina I Pujols,817,M1,home,00:11:05,03:51:32,Club Atl√®tic Vic,Sant Juli√† de Vilatorta,130,06:28:40,03:26:59,05:41:16,08:02:21
+214,Toni,Cardona Calvo,581,M1,home,00:11:04,03:51:06,Centre excursionista SolsonËs,Solsona,129,06:19:23,03:34:14,05:59:15,08:01:55
+215,Jordi,Alsina I Pujols,817,M1,home,00:11:05,03:51:32,Club AtlËtic Vic,Sant Juli‡ de Vilatorta,130,06:28:40,03:26:59,05:41:16,08:02:21
 216,Maria,Rocafiguera Boy,797,M1,dona,00:11:05,03:51:38,0,Vic,48,06:28:51,03:26:29,05:41:09,08:02:27
 217,Albert,Lopez Rivas,749,M1,home,00:11:05,03:51:49,0,Vic,131,06:28:30,03:26:38,05:41:15,08:02:38
 218,Ester,Puig Vilanova,876,M1,dona,00:11:05,03:51:52,0,Vic,49,06:28:32,03:26:43,05:41:20,08:02:41
 219,Elisabet,Osca Albardane,680,M1,dona,00:11:06,03:52:27,CLUB EXCURSIONISTA DE GRACIA,BARCELONA,50,06:29:53,03:16:34,05:33:01,08:03:16
-220,David,Esteban Mu√±oz,671,M1,home,00:11:06,03:52:32,CEG,Barcelona,132,06:29:37,03:16:54,05:33:22,08:03:21
+220,David,Esteban MuÒoz,671,M1,home,00:11:06,03:52:32,CEG,Barcelona,132,06:29:37,03:16:54,05:33:22,08:03:21
 221,Xavi,Rodriguez Estan,679,M1,home,00:11:06,03:52:45,CEG_CLUB EXCURSIONISTA DE GRACIA,BARCELONA,133,06:29:37,03:23:47,05:30:22,08:03:34
 222,Jordi,Pomarol,379,M1,home,00:11:07,03:52:49,0,Barcelona,134,06:29:38,03:23:56,05:30:25,08:03:38
-223,Rosa M.,Pla Clapera,583,M1,dona,00:11:08,03:53:54,CENTRE EXCURSIONISTA TORELL√ì,TORELL√ì,51,05:49:43,03:30:26,05:43:11,08:04:43
+223,Rosa M.,Pla Clapera,583,M1,dona,00:11:08,03:53:54,CENTRE EXCURSIONISTA TORELL”,TORELL”,51,05:49:43,03:30:26,05:43:11,08:04:43
 224,Josep M.,Prats Callau,582,M1,home,00:11:08,03:53:55,CLUB ATLETIC ESPLUGUI,MONTBLANC,135,05:49:53,03:30:22,05:43:19,08:04:44
 225,Anna,Civil Serra,1051,M1,dona,00:11:13,03:57:41,0,Sabadell,52,07:00:53,03:03:58,05:29:25,08:08:30
-226,Marta,Bassas Mund√≥,971,M1,dona,00:11:14,03:58:33,0,Tona,53,05:48:48,02:59:03,05:23:20,08:09:22
-227,David,Compte Colom√©,968,M1,home,00:11:15,03:58:43,0,TONA,136,05:48:43,02:59:15,05:23:27,08:09:32
+226,Marta,Bassas MundÛ,971,M1,dona,00:11:14,03:58:33,0,Tona,53,05:48:48,02:59:03,05:23:20,08:09:22
+227,David,Compte ColomÈ,968,M1,home,00:11:15,03:58:43,0,TONA,136,05:48:43,02:59:15,05:23:27,08:09:32
 228,Fran,Flores Cuello,116,M1,home,00:11:16,03:59:38,CE Vladrau KD 1/2 hora,Terrassa,137,06:23:32,03:09:48,05:24:10,08:10:27
-229,Joan,Cantizano Bald√≥,117,M1,home,00:11:16,03:59:40,0,Sant Hilari Sacalm,138,06:23:25,03:09:42,05:30:20,08:10:29
+229,Joan,Cantizano BaldÛ,117,M1,home,00:11:16,03:59:40,0,Sant Hilari Sacalm,138,06:23:25,03:09:42,05:30:20,08:10:29
 230,Pilar,Bruguera Tarrats,118,M1,dona,00:11:16,03:59:51,0,Sant Hilari Sacalm,54,06:23:23,03:09:36,05:30:31,08:10:40
-231,Estefan√≠a,L√≥pez-pasca D√≠az,119,M1,dona,00:11:16,03:59:53,CE Vladrau KD 1/2 hora,Terrassa,55,06:23:26,03:11:02,05:30:23,08:10:42
-232,Carlos,Lozano S√°nchez,644,M1,home,00:11:17,04:00:27,0,Vic,139,06:58:57,03:27:58,05:50:46,08:11:16
+231,EstefanÌa,LÛpez-pasca DÌaz,119,M1,dona,00:11:16,03:59:53,CE Vladrau KD 1/2 hora,Terrassa,55,06:23:26,03:11:02,05:30:23,08:10:42
+232,Carlos,Lozano S·nchez,644,M1,home,00:11:17,04:00:27,0,Vic,139,06:58:57,03:27:58,05:50:46,08:11:16
 233,Marc,Coromines Munt,1047,M1,home,00:11:18,04:00:54,0,Cardona,140,06:19:39,03:33:55,05:59:01,08:11:43
 234,Toni,Vazquez Moya,899,M2,home,00:11:18,04:00:57,C. Excurs. Taradell,Taradell,30,05:37:47,03:06:57,05:26:13,08:11:46
 235,Joan,Berga Serrat,1,M1,home,00:11:18,04:01:16,C.E.OLOT,OLOT,141,05:48:34,03:24:14,05:40:13,08:12:05
-236,Dolors,Mart√≠ Verdaguer,898,M2,dona,00:11:18,04:01:23,C. Excursionista Taradell,Taradell,10,05:37:27,03:07:14,05:26:31,08:12:12
+236,Dolors,MartÌ Verdaguer,898,M2,dona,00:11:18,04:01:23,C. Excursionista Taradell,Taradell,10,05:37:27,03:07:14,05:26:31,08:12:12
 237,Irene,Gonzalo Navarro,650,M1,dona,00:11:19,04:01:52,Centre Excursionista Esquirol,Roda de Ter,56,06:57:25,02:54:23,05:26:54,08:12:41
-238,Aina,Segal√©s Verdaguer,649,M1,dona,00:11:19,04:01:56,Club Excursionista Madteam,Vic,57,06:57:18,02:54:33,05:27:03,08:12:45
+238,Aina,SegalÈs Verdaguer,649,M1,dona,00:11:19,04:01:56,Club Excursionista Madteam,Vic,57,06:57:18,02:54:33,05:27:03,08:12:45
 239,Isabel,Robles Alegre,1071,M1,dona,00:11:21,04:02:56,U Excta perduts de begur,alella,58,06:49:23,03:15:07,05:40:02,08:13:45
 240,Lluis,Codina,234,M2,home,00:11:21,04:03:05,0,FOLGUEROLES,31,05:48:55,02:50:36,05:23:53,08:13:54
 241,Susana,Guzman Herranz,1070,M1,dona,00:11:21,04:03:08,0,barcelona,59,06:49:17,03:15:17,05:40:11,08:13:57
 242,Berta,Franquesa Sureda,516,M1,dona,00:11:22,04:03:46,Centre Excursionista Seva,Seva,60,06:18:28,03:08:16,05:34:21,08:14:35
 243,Irina,Khayrizamanova,720,M1,dona,00:11:24,04:05:18,0,Tona,61,06:46:45,03:18:23,05:43:02,08:16:07
-244,Joan,Vilarr√∫bia,747,M1,home,00:11:24,04:05:37,CE seva,Vic,142,05:54:38,03:24:33,05:38:22,08:16:26
+244,Joan,Vilarr˙bia,747,M1,home,00:11:24,04:05:37,CE seva,Vic,142,05:54:38,03:24:33,05:38:22,08:16:26
 245,David,Valls Sans,690,M1,home,00:11:24,04:05:47,0,Granollers,143,05:50:06,03:08:50,05:26:26,08:16:36
-246,Ester,Suri√±ach Colomer,75,M1,dona,00:11:26,04:06:42,0,Manlleu,62,05:37:50,03:17:09,05:41:42,08:17:31
-247,Sebasti√†,Costa Puig,74,M1,home,00:11:26,04:06:47,0,Manlleu,144,05:37:55,03:16:47,05:41:32,08:17:36
+246,Ester,SuriÒach Colomer,75,M1,dona,00:11:26,04:06:42,0,Manlleu,62,05:37:50,03:17:09,05:41:42,08:17:31
+247,Sebasti‡,Costa Puig,74,M1,home,00:11:26,04:06:47,0,Manlleu,144,05:37:55,03:16:47,05:41:32,08:17:36
 248,Xavi,Pons Munill,958,M1,home,00:11:26,04:06:48,0,Terrassa,145,06:18:18,03:24:48,05:54:07,08:17:37
-249,Judit,Costa Suri√±ach,77,M1,dona,00:11:26,04:06:52,CE Via Fora,Gurb,63,05:37:45,03:16:59,05:41:52,08:17:41
+249,Judit,Costa SuriÒach,77,M1,dona,00:11:26,04:06:52,CE Via Fora,Gurb,63,05:37:45,03:16:59,05:41:52,08:17:41
 250,Oriol,Jover Colomer,1057,M1,home,00:11:26,04:06:53,0,Terrasa,146,06:18:24,03:24:35,05:53:55,08:17:42
-251,N√∫ria,Mayoral D√≠az,957,M1,dona,00:11:26,04:06:55,0,Terrassa,64,06:18:15,03:24:49,05:54:08,08:17:44
-252,Inmaculada,Morales Salmer√≥n,975,M1,dona,00:11:26,04:06:59,0,Terrassa,65,06:18:14,03:24:54,05:54:15,08:17:48
-253,Meritxell,Casta√±√© Solagran,933,M1,dona,00:11:26,04:07:02,Mossenaires,Sabadell,66,06:18:22,03:24:35,05:54:10,08:17:51
+251,N˙ria,Mayoral DÌaz,957,M1,dona,00:11:26,04:06:55,0,Terrassa,64,06:18:15,03:24:49,05:54:08,08:17:44
+252,Inmaculada,Morales SalmerÛn,975,M1,dona,00:11:26,04:06:59,0,Terrassa,65,06:18:14,03:24:54,05:54:15,08:17:48
+253,Meritxell,CastaÒÈ Solagran,933,M1,dona,00:11:26,04:07:02,Mossenaires,Sabadell,66,06:18:22,03:24:35,05:54:10,08:17:51
 254,Alvaro,Gonzalez Gala,76,M1,home,00:11:26,04:07:06,CE Via Fora,Gurb,147,05:37:41,03:17:07,05:42:05,08:17:55
 255,Jordi,Condes Rebollo,952,M1,home,00:11:27,04:07:19,C. E. MONTGAT CORRE,Tordera,148,06:50:43,03:31:46,05:48:55,08:18:08
 256,Miguel,Ortega Platero,675,M1,home,00:11:28,04:08:41,Centre Excursionista Ripollet,Cerdanyola del Valles,149,06:35:10,03:28:48,05:48:39,08:19:30
 257,Ivan,Heredero Romero,1100,M1,home,00:11:31,04:10:41,0,Calldetenes,150,05:59:17,03:22:50,05:45:46,08:21:30
 258,Veronica,Rubio Garcia,1101,M1,dona,00:11:31,04:10:45,0,Taradell,67,05:59:18,03:23:11,05:45:41,08:21:34
 259,Javier,Casado Torrijos,138,M1,home,00:11:32,04:11:16,Montgat Corre,Montgat,151,06:50:42,03:31:41,05:48:51,08:22:05
-260,Gemma,L√≥pez Pa√±ella,39,M1,dona,00:11:34,04:12:20,0,Centelles,68,05:37:48,03:25:15,05:48:18,08:23:09
-261,Mart√≠,Valldeneu Urpina,40,M1,home,00:11:34,04:12:24,0,Centelles,152,05:37:40,03:25:59,05:48:25,08:23:13
-262,Jos√©,Bravo Prieto,88,M1,home,00:11:35,04:13:10,Grup de muntanya de argentona,Mataro,153,06:29:31,03:09:51,05:25:23,08:23:59
+260,Gemma,LÛpez PaÒella,39,M1,dona,00:11:34,04:12:20,0,Centelles,68,05:37:48,03:25:15,05:48:18,08:23:09
+261,MartÌ,Valldeneu Urpina,40,M1,home,00:11:34,04:12:24,0,Centelles,152,05:37:40,03:25:59,05:48:25,08:23:13
+262,JosÈ,Bravo Prieto,88,M1,home,00:11:35,04:13:10,Grup de muntanya de argentona,Mataro,153,06:29:31,03:09:51,05:25:23,08:23:59
 263,Pol,Vilarrasa Codina,1104,M1,home,00:11:36,04:14:04,centre excursionista esquirol,vic,154,06:32:43,03:32:25,05:50:33,08:24:53
 264,Josep,Ricart Puig,686,M1,home,00:11:36,04:14:18,0,Taradell,155,05:50:49,03:22:34,05:41:23,08:25:07
-265,Laia,Capdevila Arum√≠,633,M1,dona,00:11:36,04:14:20,Centre Excta. Esquirol,Vic,69,06:32:40,03:32:19,05:50:33,08:25:09
+265,Laia,Capdevila ArumÌ,633,M1,dona,00:11:36,04:14:20,Centre Excta. Esquirol,Vic,69,06:32:40,03:32:19,05:50:33,08:25:09
 266,Sandra,Rierola Fochs,631,M1,dona,00:11:36,04:14:23,Centre Excta. Esquirol,Esquirol,70,06:32:39,03:32:22,05:50:32,08:25:12
 267,Jordi,Bagaria Illamola,1105,M1,home,00:11:36,04:14:30,0,sant marti sescorts,156,06:32:38,03:32:26,05:50:42,08:25:19
 268,Esteve,Brutau Ricart,963,M2,home,00:11:37,04:14:34,Sant Feliu de Codinas,Cardedeu,32,05:51:24,03:30:39,05:45:42,08:25:23
@@ -271,178 +271,178 @@ POSICI√ìN,NOMBRE,apellidos,dorsal,cat,sexo,ritmo,dif 1o,club,poblaci√≥n,poscat,A
 270,Cristina,Maso Flores,625,M1,dona,00:11:38,04:15:32,independent,vic,71,06:17:31,03:23:28,05:37:36,08:26:21
 271,Elena,Alvarez Sanchez,626,M1,dona,00:11:38,04:15:40,independent,vic,72,06:17:32,03:21:49,05:37:40,08:26:29
 272,Empar,Dalmau,320,M1,dona,00:11:39,04:16:10,centre excursionista Castellar,Castellar del Valles,73,07:02:53,03:05:58,05:31:27,08:26:59
-273,Gregorio,Fern√°ndez Rodrigo,953,M1,home,00:11:39,04:16:33,Village People,Matar√≥,158,06:46:38,03:38:11,06:02:11,08:27:22
+273,Gregorio,Fern·ndez Rodrigo,953,M1,home,00:11:39,04:16:33,Village People,MatarÛ,158,06:46:38,03:38:11,06:02:11,08:27:22
 274,Idoia,Ruiz Sosa,637,M1,dona,00:11:40,04:17:10,CEE Sant Gervasi,Mollet del Valles,74,06:47:53,03:21:06,05:44:00,08:27:59
-275,Francisco,Ruiz Martinez,638,M1,home,00:11:41,04:17:26,CESP Santa Perp√®tua,Sant Fost de Campsentelles,159,06:47:52,03:21:23,05:44:06,08:28:15
-276,Susi,Castro Fern√°ndez,577,M1,dona,00:11:42,04:18:23,Centre excursionista Solson√®s,Solsona,75,06:19:20,03:34:21,05:59:25,08:29:12
+275,Francisco,Ruiz Martinez,638,M1,home,00:11:41,04:17:26,CESP Santa PerpËtua,Sant Fost de Campsentelles,159,06:47:52,03:21:23,05:44:06,08:28:15
+276,Susi,Castro Fern·ndez,577,M1,dona,00:11:42,04:18:23,Centre excursionista SolsonËs,Solsona,75,06:19:20,03:34:21,05:59:25,08:29:12
 277,Joan,Cardona Lanuza,250,M1,home,00:11:42,04:18:37,0,LA BEGUDA ALTA,160,06:50:46,03:37:35,05:46:21,08:29:26
 278,Marta,Capdevila Sala,775,M1,dona,00:11:44,04:19:48,0,Manlleu,76,06:32:04,03:25:06,05:51:24,08:30:37
 279,Silvia,Sala Pujol,318,M1,dona,00:11:44,04:19:51,0,Manlleu,77,06:32:06,03:25:06,05:51:20,08:30:40
-280,Joana,Sureda Guix√†,515,M1,dona,00:11:46,04:21:10,Centre Excursionista Seva,Seva,78,06:18:30,03:08:19,05:39:20,08:31:59
+280,Joana,Sureda Guix‡,515,M1,dona,00:11:46,04:21:10,Centre Excursionista Seva,Seva,78,06:18:30,03:08:19,05:39:20,08:31:59
 281,Joan,Capdevila Maj,1132,M1,home,00:11:47,04:22:11,0,Vic,161,05:34:15,03:15:43,05:40:20,08:33:00
 282,Cristina,Cornellas Romans,431,M1,dona,00:11:47,04:22:11,0,Vic,79,07:04:02,03:35:47,05:56:11,08:33:00
 283,Anna,Castillo Solans,970,M1,dona,00:11:48,04:22:30,Els gafarrons,Aiguafreda,80,06:28:41,03:18:39,05:43:55,08:33:19
 284,Jordi,Tulleuda Garcia,996,M2,home,00:11:48,04:22:40,INNOVIT,Taradell,33,05:43:27,03:32:17,05:50:25,08:33:29
 285,Tomas,Garolera Orra,1005,M2,home,00:11:48,04:22:41,C.E.Taradell,Taradell,34,05:43:30,03:32:02,05:49:59,08:33:30
 286,Josep,Riera Serramitja,430,M1,home,00:11:48,04:22:41,0,Vic,162,07:04:04,03:35:39,05:56:18,08:33:30
-287,Guifr√©,Lucas Montserrat,915,M2,home,00:11:48,04:22:47,Centre Excursionista Taradell,Taradell,35,05:43:31,03:31:56,05:51:13,08:33:36
+287,GuifrÈ,Lucas Montserrat,915,M2,home,00:11:48,04:22:47,Centre Excursionista Taradell,Taradell,35,05:43:31,03:31:56,05:51:13,08:33:36
 288,Gil,Mendoza Roca,994,M2,home,00:11:48,04:22:49,Centre Excursionista Taradell,Taradelll,36,05:43:33,03:32:14,05:50:29,08:33:38
-289,Mar√ßal,Font Monteys,974,M1,home,00:11:48,04:22:54,INNOVIT,Taradell,163,05:43:36,03:32:16,05:52:41,08:33:43
+289,MarÁal,Font Monteys,974,M1,home,00:11:48,04:22:54,INNOVIT,Taradell,163,05:43:36,03:32:16,05:52:41,08:33:43
 290,Gil,Puig Vila,995,M2,home,00:11:48,04:23:05,CET TARADELL,Taradell,37,05:43:37,03:31:52,05:50:06,08:33:54
-291,Mar√ßal,Bosch I Corretja,942,M2,home,00:11:48,04:23:09,CET. Centre excursionista Taradell,Taradell,38,05:43:25,03:32:12,05:50:31,08:33:58
+291,MarÁal,Bosch I Corretja,942,M2,home,00:11:48,04:23:09,CET. Centre excursionista Taradell,Taradell,38,05:43:25,03:32:12,05:50:31,08:33:58
 292,Aniol,Font Bosch,1006,M2,home,00:11:48,04:23:10,C.E.Taradell,Taradell,39,05:43:17,03:32:40,05:50:52,08:33:59
 293,Didac,Molist Domingo,1007,M2,home,00:11:49,04:23:18,C.E.Taradell,Taradell,40,05:43:14,03:32:19,05:50:31,08:34:07
-294,Marta,Peraire Pont,594,M2,dona,00:11:49,04:23:27,0,Prats de Llu√ßan√®s,11,06:36:02,03:14:16,05:47:44,08:34:16
+294,Marta,Peraire Pont,594,M2,dona,00:11:49,04:23:27,0,Prats de LluÁanËs,11,06:36:02,03:14:16,05:47:44,08:34:16
 295,Aina,Planas Saborit,597,M1,dona,00:11:49,04:23:28,0,GURB,81,06:36:10,03:14:14,05:47:32,08:34:17
 296,Roger,Tuneu Cros,1003,M2,home,00:11:49,04:23:28,C.E.Taradell,Taradell,41,05:43:11,03:32:38,05:52:21,08:34:17
 297,Pau,Llopart Roca,1115,M1,home,00:11:49,04:23:35,ass extca sant pau d'ordal,vilafranca del panades,164,06:17:22,03:22:04,05:52:49,08:34:24
 298,Cristina,Carbonell Duacastella,578,M1,dona,00:11:49,04:23:45,0,vic,82,06:36:05,03:14:19,05:47:32,08:34:34
-299,Gemma,Pujol Coderch,546,M1,dona,00:11:50,04:23:58,0,Avi√†,83,05:49:10,03:33:45,06:00:03,08:34:47
+299,Gemma,Pujol Coderch,546,M1,dona,00:11:50,04:23:58,0,Avi‡,83,05:49:10,03:33:45,06:00:03,08:34:47
 300,Carla,Garcia Font,724,M1,dona,00:11:50,04:24:07,0,Calldetenes,84,05:48:58,03:33:59,06:00:19,08:34:56
 301,Francesc,Matons,139,M1,home,00:11:52,04:25:52,Montgat Corre,Montgat,165,06:50:44,03:31:39,05:48:56,08:36:41
 302,Manel,Galvez,434,M1,home,00:11:55,04:27:52,L'Aire,Sant Pere de Vilamajor,166,06:37:19,--:--:--,06:00:50,08:38:41
-303,√Ängel,Comas Freixa,728,M1,home,00:11:57,04:29:06,0,Vic,167,05:59:40,04:09:25,06:14:26,08:39:55
+303,¿ngel,Comas Freixa,728,M1,home,00:11:57,04:29:06,0,Vic,167,05:59:40,04:09:25,06:14:26,08:39:55
 304,Nuria,Jurado Canadell,470,M1,dona,00:11:57,04:29:08,0,Vic,85,05:59:33,04:08:58,06:14:38,08:39:57
-305,Anna,Monta√±√† Castell√†,466,M1,dona,00:11:57,04:29:23,0,Manlleu,86,05:59:30,04:08:52,06:14:45,08:40:12
+305,Anna,MontaÒ‡ Castell‡,466,M1,dona,00:11:57,04:29:23,0,Manlleu,86,05:59:30,04:08:52,06:14:45,08:40:12
 306,Oriol,Luque Xicota,185,M1,dona,00:11:59,04:30:35,-,Barcelona,87,06:36:28,03:37:59,06:23:48,08:41:24
 307,Anna,Marin Figueroa,807,M1,dona,00:12:00,04:31:53,C.E. Montgat Corre,Montgat,88,06:29:13,03:32:03,06:07:01,08:42:42
-308,Claudi,De Jos√© Gomar,411,M1,home,00:12:01,04:31:58,Club Excursionista de Tiana,Montgat,168,06:29:29,03:17:44,05:54:04,08:42:47
+308,Claudi,De JosÈ Gomar,411,M1,home,00:12:01,04:31:58,Club Excursionista de Tiana,Montgat,168,06:29:29,03:17:44,05:54:04,08:42:47
 309,Ramon,Costa Rovira,201,M1,home,00:12:01,04:32:21,Unio Excursionista  de Vic,Vic,169,05:38:13,03:39:53,06:04:22,08:43:10
-310,N√∫ria,Costa Isern,210,M1,dona,00:12:01,04:32:34,Uni√≥ excursionista de Vic,Vic,89,05:38:05,03:40:09,06:04:38,08:43:23
+310,N˙ria,Costa Isern,210,M1,dona,00:12:01,04:32:34,UniÛ excursionista de Vic,Vic,89,05:38:05,03:40:09,06:04:38,08:43:23
 311,Olga,Fernandez Cecilia,745,M1,dona,00:12:03,04:33:35,C.E. MONTGAT CORRE,Montgat,90,06:29:16,03:32:16,06:06:49,08:44:24
 312,Jordi,Carol  Morera,960,M2,home,00:12:04,04:34:34,Ce taradell,Roda de ter,42,05:46:09,03:28:47,05:52:45,08:45:23
 313,Merce,Subiranas Juvanteny,620,M1,dona,00:12:06,04:36:07,0,Tona,91,06:01:18,03:34:36,05:59:05,08:46:56
 314,Alba,Puig Vila,862,M1,dona,00:12:06,04:36:08,0,Taradell,92,05:36:01,03:19:27,05:46:11,08:46:57
-315,Yolanda,Gomez Ca√±izares,1156,M1,dona,00:12:06,04:36:15,-,-,93,06:00:58,03:35:00,05:59:29,08:47:04
+315,Yolanda,Gomez CaÒizares,1156,M1,dona,00:12:06,04:36:15,-,-,93,06:00:58,03:35:00,05:59:29,08:47:04
 316,Eva,Font Rabasseda,232,M1,dona,00:12:07,04:36:36,-,Manlleu,94,06:19:22,03:34:08,05:59:05,08:47:25
 317,Xavier,Codina Teixidor,233,M1,home,00:12:07,04:36:44,-,Manlleu,170,06:19:26,03:34:06,05:58:58,08:47:33
 318,Bernat,Autonell,397,M1,home,00:12:08,04:37:08,0,Taradell,171,05:50:33,03:40:42,06:10:19,08:47:57
 319,Aina,Sala,400,M1,dona,00:12:08,04:37:16,0,Manlleu,95,05:50:21,03:40:50,06:10:36,08:48:05
-320,Gon√ßal,Artigot Cabanas,412,M1,home,00:12:08,04:37:24,0,Taradell,172,05:50:24,03:40:43,06:10:45,08:48:13
+320,GonÁal,Artigot Cabanas,412,M1,home,00:12:08,04:37:24,0,Taradell,172,05:50:24,03:40:43,06:10:45,08:48:13
 321,Pau,Pladevall Gelonch,1024,M1,home,00:12:08,04:37:28,0,Taradell,173,05:50:16,03:40:57,06:10:44,08:48:17
 322,Josep,Rosell Comajoan,1139,M1,home,00:12:09,04:37:50,0,Manlleu,174,06:04:01,03:42:37,06:07:17,08:48:39
 323,Rafael,Armenteros Navarro,409,M1,home,00:12:09,04:38:18,CET Club Excursionista Tiana,Tiana,175,06:20:16,03:26:49,06:02:34,08:49:07
 324,Albert,Jutglar Blanch,1094,M1,home,00:12:10,04:38:34,0,sant julia de vilarorta,176,06:31:29,03:36:31,05:59:09,08:49:23
 325,Irene,Mitjavila Casals,1093,M1,dona,00:12:10,04:38:43,0,vic,96,06:31:16,03:36:48,05:59:20,08:49:32
 326,Silvia,Rodolf Merce,746,M1,dona,00:12:11,04:39:18,C. E. Montgat Corre,Montgat,97,06:29:20,03:32:02,06:06:51,08:50:07
-327,Judith,Ari√±o Castillo,770,M1,dona,00:12:11,04:39:18,CE Montgat Corre,Montgat,98,06:29:23,03:32:02,06:06:55,08:50:07
-328,Mar√ßal,Ced√≥,440,M2,home,00:12:11,04:39:30,0,taredell,43,06:20:31,03:44:17,06:11:35,08:50:19
-329,Joan,Cedo Ma√±osas,437,M2,home,00:12:12,04:39:54,0,taredell,44,06:20:18,03:44:34,06:11:46,08:50:43
-330,Anna,Fernandez Parache,496,M1,dona,00:12:12,04:40:21,0,Vilanova i la Geltr√∫,99,05:50:50,03:35:33,06:02:14,08:51:10
-331,Andreu,Tost Marcet,922,M1,home,00:12:12,04:40:23,0,vilanova i l ageltr√∫,177,05:50:56,03:35:22,06:02:02,08:51:12
+327,Judith,AriÒo Castillo,770,M1,dona,00:12:11,04:39:18,CE Montgat Corre,Montgat,98,06:29:23,03:32:02,06:06:55,08:50:07
+328,MarÁal,CedÛ,440,M2,home,00:12:11,04:39:30,0,taredell,43,06:20:31,03:44:17,06:11:35,08:50:19
+329,Joan,Cedo MaÒosas,437,M2,home,00:12:12,04:39:54,0,taredell,44,06:20:18,03:44:34,06:11:46,08:50:43
+330,Anna,Fernandez Parache,496,M1,dona,00:12:12,04:40:21,0,Vilanova i la Geltr˙,99,05:50:50,03:35:33,06:02:14,08:51:10
+331,Andreu,Tost Marcet,922,M1,home,00:12:12,04:40:23,0,vilanova i l ageltr˙,177,05:50:56,03:35:22,06:02:02,08:51:12
 332,Josep,Gracia Castri,497,M1,home,00:12:12,04:40:33,0,Hospitalet,178,05:50:52,03:35:31,06:02:02,08:51:22
-333,Eloi,Bienert Gr√°cia,570,M1,home,00:12:12,04:40:36,0,Hospitalet de Llobregat,179,05:50:58,03:35:30,06:02:10,08:51:25
+333,Eloi,Bienert Gr·cia,570,M1,home,00:12:12,04:40:36,0,Hospitalet de Llobregat,179,05:50:58,03:35:30,06:02:10,08:51:25
 334,Salva,Berga,559,M1,home,00:12:12,04:40:36,CE Calldetenes,Calldetenes,180,06:29:43,03:36:38,06:02:55,08:51:25
 335,Jordi,Lleonart,560,M1,home,00:12:13,04:40:43,0,Vic,181,06:29:41,03:36:32,06:02:59,08:51:32
-336,Juan,Sierra  Justicia,606,M1,home,00:12:13,04:40:51,0,LLI√áA DE AMUNT,182,05:36:50,03:36:48,06:02:11,08:51:40
+336,Juan,Sierra  Justicia,606,M1,home,00:12:13,04:40:51,0,LLI«A DE AMUNT,182,05:36:50,03:36:48,06:02:11,08:51:40
 337,Bernat,Casassas Coromina,396,M1,home,00:12:14,04:41:33,0,Taradell,183,05:50:31,03:40:37,06:10:43,08:52:22
 338,Carla,Ricart Pujol,1137,M1,dona,00:12:14,04:41:46,0,Viladrau,100,05:50:30,03:40:46,06:10:48,08:52:35
 339,Arnau,Cabanas Blanch,588,M1,home,00:12:14,04:41:47,0,Viladrau,184,05:50:26,03:40:53,06:10:38,08:52:36
 340,Raquel,Martinez Moya,820,M1,dona,00:12:14,04:41:49,0,Vic,101,06:02:10,03:34:56,06:05:40,08:52:38
-341,Xavier,Serrat Gimenez,825,M1,home,00:12:14,04:41:50,0,Prats de Llu√ßanes,185,06:02:13,03:34:56,06:05:42,08:52:39
-342,Judit,Vilac√≠s Sala,566,M1,dona,00:12:14,04:41:58,0,Taradell,102,06:16:51,03:32:39,06:06:03,08:52:47
+341,Xavier,Serrat Gimenez,825,M1,home,00:12:14,04:41:50,0,Prats de LluÁanes,185,06:02:13,03:34:56,06:05:42,08:52:39
+342,Judit,VilacÌs Sala,566,M1,dona,00:12:14,04:41:58,0,Taradell,102,06:16:51,03:32:39,06:06:03,08:52:47
 343,Ingrid,Serra,153,M1,dona,00:12:16,04:43:00,0,Calldetenes,103,06:24:00,03:40:24,06:11:23,08:53:49
 344,Raul,Peinado Sanchez,104,M1,home,00:12:16,04:43:21,0,BARCELONA,186,07:06:05,03:40:50,06:03:09,08:54:10
-345,Eduardo,Vidal G√ºel,681,M1,home,00:12:16,04:43:22,0,Malgrat de Mar,187,05:58:46,03:44:28,06:16:06,08:54:11
+345,Eduardo,Vidal G¸el,681,M1,home,00:12:16,04:43:22,0,Malgrat de Mar,187,05:58:46,03:44:28,06:16:06,08:54:11
 346,Francesc,Clopes Rocosa,682,M1,home,00:12:16,04:43:26,0,Hostalric,188,05:58:45,03:44:25,06:16:03,08:54:15
 347,David,Luna Calventus,95,M1,home,00:12:19,04:45:06,CFK,Sabadell,189,07:06:02,03:41:13,06:03:07,08:55:55
 348,Albert,Puig Rodriguez,87,M1,home,00:12:19,04:45:11,CFK,BARCELONA,190,07:06:11,03:40:54,06:03:00,08:56:00
-349,Ricard Sergi,Valls Vaqu√©,547,M1,home,00:12:20,04:46:16,0,VIC,191,06:14:08,02:57:25,05:10:15,08:57:05
+349,Ricard Sergi,Valls VaquÈ,547,M1,home,00:12:20,04:46:16,0,VIC,191,06:14:08,02:57:25,05:10:15,08:57:05
 350,Aniol,Ordeix Espona,871,M1,home,00:12:22,04:47:51,Cec Calldetenes,Folgueroles,192,06:20:47,03:48:37,06:18:36,08:58:40
-351,Pol,Par√©s Llobet,872,M1,home,00:12:23,04:47:55,Uni√≥ Excursionista Vic,Vic,193,06:20:45,03:48:35,06:18:39,08:58:44
+351,Pol,ParÈs Llobet,872,M1,home,00:12:23,04:47:55,UniÛ Excursionista Vic,Vic,193,06:20:45,03:48:35,06:18:39,08:58:44
 352,Clara,Ordeix I Espona,870,M1,dona,00:12:23,04:48:02,Cec Calldetenes,Vic,104,06:20:43,03:48:31,06:18:46,08:58:51
-353,Anna,Pratdesaba Matavacas,165,M2,dona,00:12:23,04:48:16,Centre excursionista de Taradell,Sta. Eug√®nia de Berga,12,06:24:48,03:38:56,06:17:04,08:59:05
+353,Anna,Pratdesaba Matavacas,165,M2,dona,00:12:23,04:48:16,Centre excursionista de Taradell,Sta. EugËnia de Berga,12,06:24:48,03:38:56,06:17:04,08:59:05
 354,Angel,Vila Martinez,932,M1,home,00:12:23,04:48:34,0,Taradell,194,05:39:38,03:50:11,06:25:06,08:59:23
 355,Nuria,Roca Terricabras,999,M1,dona,00:12:24,04:48:39,0,Santa Eugenia de Berga,105,05:51:07,03:40:42,06:04:31,08:59:28
 356,Joan,Duran Bahi,663,M1,home,00:12:24,04:48:42,PESCALLUNES,SANT FELIU DE PALLEROLS,195,07:00:36,03:35:22,06:09:02,08:59:31
-357,Antoni,Mercader Su√±ol,422,M1,home,00:12:24,04:48:54,Club EXCTA Tiana,tiana,196,06:20:20,03:26:42,06:02:28,08:59:43
+357,Antoni,Mercader SuÒol,422,M1,home,00:12:24,04:48:54,Club EXCTA Tiana,tiana,196,06:20:20,03:26:42,06:02:28,08:59:43
 358,Margarita,Sala Capdevila,665,M1,dona,00:12:24,04:48:55,PESCALLUNES,SANT FELIU DE PALLEROLS,106,07:00:31,03:35:37,06:09:12,08:59:44
-359,Elisabet,Rovira Dominguez,507,M1,dona,00:12:24,04:49:17,Uni√≥ excursionista Vic,SANTA EUG√àNIA DE BERGA,107,05:51:08,03:40:42,06:04:25,09:00:06
-360,M√≤nica,Serra Roca,151,M1,dona,00:12:25,04:49:25,0,Vic,108,06:24:05,03:40:25,06:11:25,09:00:14
-361,Gemma,Morat√≥ Rovira,150,M1,dona,00:12:28,04:51:41,0,Sant Juli√† de Vilatorta,109,06:07:19,03:47:19,06:17:11,09:02:30
+359,Elisabet,Rovira Dominguez,507,M1,dona,00:12:24,04:49:17,UniÛ excursionista Vic,SANTA EUG»NIA DE BERGA,107,05:51:08,03:40:42,06:04:25,09:00:06
+360,MÚnica,Serra Roca,151,M1,dona,00:12:25,04:49:25,0,Vic,108,06:24:05,03:40:25,06:11:25,09:00:14
+361,Gemma,MoratÛ Rovira,150,M1,dona,00:12:28,04:51:41,0,Sant Juli‡ de Vilatorta,109,06:07:19,03:47:19,06:17:11,09:02:30
 362,Joan,Arbiol Codina,377,M1,home,00:12:28,04:51:50,0,Girona,197,06:07:18,03:47:17,06:17:13,09:02:39
-363,Josep M¬™,Altimir Sans,897,M2,home,00:12:28,04:52:05,C. Excursionista Taradell,Taradell,45,06:04:36,03:39:02,06:07:27,09:02:54
+363,Josep M™,Altimir Sans,897,M2,home,00:12:28,04:52:05,C. Excursionista Taradell,Taradell,45,06:04:36,03:39:02,06:07:27,09:02:54
 364,Jordi,Francas Busquets,688,M1,home,00:12:28,04:52:08,0,Tona,198,05:39:38,03:50:09,06:25:19,09:02:57
 365,Anna,Gassiot Goula,572,M1,dona,00:12:29,04:52:40,0,Taradell,110,06:17:00,03:32:35,06:05:59,09:03:29
 366,Clara,Alsina,738,M1,dona,00:12:29,04:52:43,0,Terrassa,111,07:35:18,03:34:38,06:16:46,09:03:32
-367,J√∫lia,Gracia Bonastre,551,M1,dona,00:12:30,04:52:57,0,Barcelona,112,07:35:10,03:34:50,06:16:54,09:03:46
+367,J˙lia,Gracia Bonastre,551,M1,dona,00:12:30,04:52:57,0,Barcelona,112,07:35:10,03:34:50,06:16:54,09:03:46
 368,Monica,Balasch Sanuy,1066,M1,dona,00:12:30,04:53:35,0,Vic,113,06:16:32,03:47:48,06:24:06,09:04:24
 369,Joaquim,Segales Coma,1067,M1,home,00:12:31,04:53:45,0,Vic,199,06:16:30,03:47:33,06:24:04,09:04:34
 370,David,Anglada Camara,1065,M1,home,00:12:31,04:53:46,0,Vic,200,06:16:26,03:47:49,06:24:18,09:04:35
-371,Alba,Cornellas Bagu√©,522,M1,dona,00:12:31,04:53:48,0,Vic,114,06:13:19,03:36:20,06:11:56,09:04:37
+371,Alba,Cornellas BaguÈ,522,M1,dona,00:12:31,04:53:48,0,Vic,114,06:13:19,03:36:20,06:11:56,09:04:37
 372,Alejandro,Labrada Ruiz,342,M1,home,00:12:31,04:53:49,club.excursionista madteam,barcelona,201,05:35:11,03:43:31,06:14:20,09:04:38
-373,Clara,Solanich Tubau,523,M1,dona,00:12:31,04:53:56,0,Prats de Llu√ßan√®s,115,06:13:19,03:36:24,06:11:58,09:04:45
+373,Clara,Solanich Tubau,523,M1,dona,00:12:31,04:53:56,0,Prats de LluÁanËs,115,06:13:19,03:36:24,06:11:58,09:04:45
 374,Aurora,Montserrat Freixa,913,M2,dona,00:12:31,04:54:12,Centre Excursionista Taradell,Taradell,13,06:17:38,03:49:48,06:17:13,09:05:01
 375,Joan Carles,Barradas Ruiz,199,M1,home,00:12:33,04:55:12,0,SABADELL,202,05:59:37,03:47:41,06:25:39,09:06:01
 376,Albert,Merino Morrondo,962,M1,home,00:12:33,04:55:30,-,Hospitalet de Llobregat,203,06:15:41,03:38:07,06:10:33,09:06:19
-377,Roc,Molist Ma√±√©,328,M1,home,00:12:34,04:55:53,0,Sant Cugat del Vall√©s,204,07:31:42,03:14:51,05:57:19,09:06:42
+377,Roc,Molist MaÒÈ,328,M1,home,00:12:34,04:55:53,0,Sant Cugat del VallÈs,204,07:31:42,03:14:51,05:57:19,09:06:42
 378,Anna,Armengou  Codina,52,M1,dona,00:12:34,04:55:56,0,Folgueroles,116,06:07:59,03:47:33,06:19:30,09:06:45
-379,Pep,Molist Basaga√±a,326,M1,home,00:12:34,04:56:00,0,Sant Cugat del Vall√©s,205,07:31:38,03:15:00,05:57:26,09:06:49
+379,Pep,Molist BasagaÒa,326,M1,home,00:12:34,04:56:00,0,Sant Cugat del VallÈs,205,07:31:38,03:15:00,05:57:26,09:06:49
 380,Teresa,Mayans Masoliver,48,M1,dona,00:12:35,04:56:49,0,Folgueroles,117,06:07:10,03:47:52,06:20:23,09:07:38
-381,Maia,Fern√°ndez And√≥n,51,M1,dona,00:12:36,04:57:39,0,Folgueroles,118,06:07:03,03:53:28,06:20:35,09:08:28
-382,Montserrat,Vila Tuneu,741,M1,dona,00:12:37,04:58:36,Uni√≥ Excursionista Vic,Vic,119,06:19:57,03:41:53,06:18:35,09:09:25
-383,M√≠riam,Masramon Muntadas,765,M1,dona,00:12:37,04:58:37,Uni√≥ Excursionista Vic,Espot,120,06:19:50,03:42:00,06:18:38,09:09:26
+381,Maia,Fern·ndez AndÛn,51,M1,dona,00:12:36,04:57:39,0,Folgueroles,118,06:07:03,03:53:28,06:20:35,09:08:28
+382,Montserrat,Vila Tuneu,741,M1,dona,00:12:37,04:58:36,UniÛ Excursionista Vic,Vic,119,06:19:57,03:41:53,06:18:35,09:09:25
+383,MÌriam,Masramon Muntadas,765,M1,dona,00:12:37,04:58:37,UniÛ Excursionista Vic,Espot,120,06:19:50,03:42:00,06:18:38,09:09:26
 384,Conxita,Capdevila Barniol,576,M1,dona,00:12:37,04:58:38,GEC,Ripoll,121,06:15:18,03:39:21,06:15:51,09:09:27
-385,Juan,Granadero Boza,89,M1,home,00:12:37,04:58:43,Muntanyenc Sant Cugat,Sant Cugat del Vall√©s,206,06:20:50,03:44:06,06:16:28,09:09:32
+385,Juan,Granadero Boza,89,M1,home,00:12:37,04:58:43,Muntanyenc Sant Cugat,Sant Cugat del VallÈs,206,06:20:50,03:44:06,06:16:28,09:09:32
 386,Joan,Soler Balart,563,M1,home,00:12:38,04:58:46,0,Ripoll,207,06:15:05,03:39:30,06:16:09,09:09:35
-387,Joan,Ausi√≥ Casas,753,M1,home,00:12:38,04:58:49,uni√≥ excursionista de Vic,VIC,208,06:19:53,03:42:04,06:18:44,09:09:38
+387,Joan,AusiÛ Casas,753,M1,home,00:12:38,04:58:49,uniÛ excursionista de Vic,VIC,208,06:19:53,03:42:04,06:18:44,09:09:38
 388,Agnes,Monteys Castro,997,M1,dona,00:12:38,04:59:17,0,Taradell,122,06:03:54,03:52:34,06:20:22,09:10:06
 389,Alicia,Villanueva Hernandez,1001,M1,dona,00:12:38,04:59:20,0,Taradell,123,06:03:51,03:52:40,06:20:33,09:10:09
 390,Carme,Terricabras Prat,991,M1,dona,00:12:38,04:59:25,0,Taradell,124,06:03:46,03:52:46,06:20:37,09:10:14
 391,Carles,Avila I Carreras,558,M1,home,00:12:38,04:59:26,Pixapins,MONTCADA i REIXAC,209,06:34:45,03:42:26,06:14:10,09:10:15
 392,Josep,Vila Sala,216,M1,home,00:12:39,04:59:47,0,Roda de Ter,210,05:53:58,03:54:11,06:25:22,09:10:36
-393,Agn√®s,Pons Clapera,215,M1,dona,00:12:39,04:59:53,0,Roda de Ter,125,05:53:55,03:54:09,06:25:20,09:10:42
-394,Jordi,Mir√≥ Coromina,1011,M1,home,00:12:40,05:00:44,0,Prats de Llu√ßanes,211,05:48:26,03:52:22,06:30:45,09:11:33
-395,Maria,Vil√† Fornell,1012,M1,dona,00:12:40,05:00:53,0,Prats de Llu√ßanes,126,05:48:11,03:52:42,06:30:56,09:11:42
+393,AgnËs,Pons Clapera,215,M1,dona,00:12:39,04:59:53,0,Roda de Ter,125,05:53:55,03:54:09,06:25:20,09:10:42
+394,Jordi,MirÛ Coromina,1011,M1,home,00:12:40,05:00:44,0,Prats de LluÁanes,211,05:48:26,03:52:22,06:30:45,09:11:33
+395,Maria,Vil‡ Fornell,1012,M1,dona,00:12:40,05:00:53,0,Prats de LluÁanes,126,05:48:11,03:52:42,06:30:56,09:11:42
 396,Josep,Font Serra,435,M1,home,00:12:41,05:01:08,0,TONA,212,05:50:16,03:47:36,06:20:27,09:11:57
 397,Xevi,Font Perez,390,M1,home,00:12:41,05:01:15,0,Centelles,213,05:50:20,03:47:39,06:20:30,09:12:04
 398,Joan,Molist Capella,378,M1,home,00:12:41,05:01:28,0,Centelles,214,05:50:14,03:47:41,06:20:55,09:12:17
 399,Manuel,Rubio Pedrosa,950,M1,home,00:12:41,05:01:30,0,Barcelona,215,07:36:49,03:33:34,06:15:55,09:12:19
 400,Joan,Casanovas Campeny,376,M1,home,00:12:42,05:01:57,NO,CENTELLES,216,05:50:34,03:48:54,06:20:49,09:12:46
-401,Ana Beatriz,F√©lez Rodr√≠guez,951,M1,dona,00:12:42,05:02:01,0,Barcelona,127,07:36:12,03:34:06,06:16:30,09:12:50
+401,Ana Beatriz,FÈlez RodrÌguez,951,M1,dona,00:12:42,05:02:01,0,Barcelona,127,07:36:12,03:34:06,06:16:30,09:12:50
 402,Noelia,Segui Reurer,949,M1,dona,00:12:42,05:02:05,0,Barcelona,128,07:36:11,03:34:09,06:16:33,09:12:54
-403,Josep,Clar√† Moreno,70,M1,home,00:12:44,05:03:31,0,Sitges,217,05:48:38,03:54:16,06:34:04,09:14:20
-404,Marietta,Matevosyan,462,M1,dona,00:12:50,05:07:38,Comisi√≥ Sant Antoni Abat,La Roca del Vall√®s,129,06:47:27,03:52:36,06:19:28,09:18:27
+403,Josep,Clar‡ Moreno,70,M1,home,00:12:44,05:03:31,0,Sitges,217,05:48:38,03:54:16,06:34:04,09:14:20
+404,Marietta,Matevosyan,462,M1,dona,00:12:50,05:07:38,ComisiÛ Sant Antoni Abat,La Roca del VallËs,129,06:47:27,03:52:36,06:19:28,09:18:27
 405,Bruna,Herrero Rifa,1102,M1,dona,00:12:51,05:08:28,0,Taradell,130,06:06:11,03:49:31,06:35:50,09:19:17
 406,Alba,Anfruns Bagaria,166,M1,dona,00:12:52,05:09:02,0,Girona,131,06:25:09,03:38:03,06:16:49,09:19:51
 407,Jacint,Sala Casnovas,1016,M1,home,00:12:52,05:09:25,0,Barcelona,218,06:46:44,03:45:47,06:30:41,09:20:14
 408,Mireia,Bigas Pujol,337,M1,dona,00:12:52,05:09:30,CEC Calldetenes,Calldetenes,132,06:24:41,03:38:49,06:17:29,09:20:19
-409,Marcos,Fern√°ndez Ledesma,595,M1,home,00:12:53,05:09:40,0,St. Joan de vilatorrada,219,07:05:53,--:--:--,06:26:33,09:20:29
-410,Sergi,Costa Dorca,252,M1,home,00:12:54,05:10:37,9hSports,Hostalets de baleny√†,220,06:14:55,03:44:02,06:22:09,09:21:26
-411,Irene,Le√≥n L√≥pez,311,M1,dona,00:12:54,05:10:56,0,Hostalets de Baleny√†,133,06:14:54,03:44:11,06:21:58,09:21:45
-412,Rosa,Padilla,857,M1,dona,00:12:56,05:12:16,GEMI,Moi√†,134,06:50:53,03:23:35,06:17:18,09:23:05
+409,Marcos,Fern·ndez Ledesma,595,M1,home,00:12:53,05:09:40,0,St. Joan de vilatorrada,219,07:05:53,--:--:--,06:26:33,09:20:29
+410,Sergi,Costa Dorca,252,M1,home,00:12:54,05:10:37,9hSports,Hostalets de baleny‡,220,06:14:55,03:44:02,06:22:09,09:21:26
+411,Irene,LeÛn LÛpez,311,M1,dona,00:12:54,05:10:56,0,Hostalets de Baleny‡,133,06:14:54,03:44:11,06:21:58,09:21:45
+412,Rosa,Padilla,857,M1,dona,00:12:56,05:12:16,GEMI,Moi‡,134,06:50:53,03:23:35,06:17:18,09:23:05
 413,Angels,Salvador,557,M1,dona,00:12:57,05:12:32,0,Berga,135,06:49:56,03:31:54,06:09:04,09:23:21
-414,J√∫lia,Lleida Salvador,152,M1,dona,00:12:58,05:13:18,0,Berga,136,06:49:54,03:31:56,06:09:07,09:24:07
-415,√†ngels,Casaldaliga Sol√†,79,M1,dona,00:12:58,05:13:53,0,Manresa,137,06:51:12,03:29:26,06:08:44,09:24:42
+414,J˙lia,Lleida Salvador,152,M1,dona,00:12:58,05:13:18,0,Berga,136,06:49:54,03:31:56,06:09:07,09:24:07
+415,‡ngels,Casaldaliga Sol‡,79,M1,dona,00:12:58,05:13:53,0,Manresa,137,06:51:12,03:29:26,06:08:44,09:24:42
 416,Ferran,Esteve Pijuan,80,M1,home,00:12:59,05:14:14,0,Solsona,221,06:51:07,03:29:33,06:08:47,09:25:03
 417,Quima,Ciuraneta Franch,524,M1,dona,00:12:59,05:14:28,GEC,RIPOLL,138,05:38:24,03:47:15,06:27:01,09:25:17
-418,Montse,Segal√©s I Cabanas,901,M1,dona,00:12:59,05:14:37,0,Vic,139,06:51:02,03:23:30,06:17:23,09:25:26
-419,Llu√≠s,Reina Orra,471,M1,home,00:13:00,05:14:48,0,Alpens,222,05:38:26,03:47:19,06:27:06,09:25:37
-420,Judit,Boladeras Rotllant,469,M1,dona,00:13:00,05:14:56,0,Prats de Llu√ßan√®s,140,05:38:43,03:47:02,06:26:59,09:25:45
-421,Toni,Colomo Cruz,446,M1,home,00:13:03,05:16:55,0,Torell√≥,223,05:58:54,03:38:16,06:15:57,09:27:44
-422,Marc,Escarrabill Franc√†s,447,M1,home,00:13:03,05:17:07,RCD Espanyol,Torell√≥,224,05:58:35,03:38:41,06:16:30,09:27:56
+418,Montse,SegalÈs I Cabanas,901,M1,dona,00:12:59,05:14:37,0,Vic,139,06:51:02,03:23:30,06:17:23,09:25:26
+419,LluÌs,Reina Orra,471,M1,home,00:13:00,05:14:48,0,Alpens,222,05:38:26,03:47:19,06:27:06,09:25:37
+420,Judit,Boladeras Rotllant,469,M1,dona,00:13:00,05:14:56,0,Prats de LluÁanËs,140,05:38:43,03:47:02,06:26:59,09:25:45
+421,Toni,Colomo Cruz,446,M1,home,00:13:03,05:16:55,0,TorellÛ,223,05:58:54,03:38:16,06:15:57,09:27:44
+422,Marc,Escarrabill Franc‡s,447,M1,home,00:13:03,05:17:07,RCD Espanyol,TorellÛ,224,05:58:35,03:38:41,06:16:30,09:27:56
 423,Marisa,Acedo Parra,474,M1,dona,00:13:03,05:17:18,0,TONA,141,05:50:39,03:54:45,06:40:27,09:28:07
-424,M √†ngels,De La Fuente Mart√≠nez,224,M1,dona,00:13:03,05:17:18,0,Taradell,142,05:50:39,03:54:48,06:40:29,09:28:07
-425,Jose Antonio,Arjona Esca√±uela,18,M1,home,00:13:04,05:18:03,0,Montornes lleure montornes,225,06:28:34,03:48:02,06:28:07,09:28:52
+424,M ‡ngels,De La Fuente MartÌnez,224,M1,dona,00:13:03,05:17:18,0,Taradell,142,05:50:39,03:54:48,06:40:29,09:28:07
+425,Jose Antonio,Arjona EscaÒuela,18,M1,home,00:13:04,05:18:03,0,Montornes lleure montornes,225,06:28:34,03:48:02,06:28:07,09:28:52
 426,Jordi,Herreros Pages,491,M1,home,00:13:04,05:18:09,0,Roda de ter,226,05:57:27,03:39:50,06:17:28,09:28:58
 427,Marti,Simona Berenguet,28,M1,home,00:13:05,05:18:34,Lleure montornes,Vilanova de vslles,227,06:28:21,03:47:44,06:28:17,09:29:23
 428,Oscar,Miquel Tortosa,1059,M1,home,00:13:07,05:20:25,0,Barcrelona,228,06:45:41,03:57:37,06:41:29,09:31:14
 429,Ferran,Camps Esteve,1060,M1,home,00:13:08,05:20:29,0,Gurb,229,06:45:31,03:57:52,06:41:34,09:31:18
-430,Montserrat,Vendrell Mar√≠n,308,M1,dona,00:13:08,05:21:04,Centro excursionista de castellar del Vall√©s,Castellar del Vall√©s,143,05:57:52,03:43:39,06:21:09,09:31:53
-431,Mari Carmen,Garc√≠a Muriana,306,M1,dona,00:13:09,05:21:30,Centro excursionista de castellar del Vall√©s,Castellar del valles,144,05:57:43,03:43:37,06:21:06,09:32:19
-432,Dolores,Alfaro Gonz√°lez,307,M1,dona,00:13:09,05:21:36,Centro excursionista de castellar del Vall√©s,Castellar del valles,145,05:57:48,03:43:47,06:21:09,09:32:25
-433,Anna,Vi√±olas Pons,889,M1,dona,00:13:10,05:21:56,0,Centelles,146,05:48:30,03:51:05,06:32:57,09:32:45
+430,Montserrat,Vendrell MarÌn,308,M1,dona,00:13:08,05:21:04,Centro excursionista de castellar del VallÈs,Castellar del VallÈs,143,05:57:52,03:43:39,06:21:09,09:31:53
+431,Mari Carmen,GarcÌa Muriana,306,M1,dona,00:13:09,05:21:30,Centro excursionista de castellar del VallÈs,Castellar del valles,144,05:57:43,03:43:37,06:21:06,09:32:19
+432,Dolores,Alfaro Gonz·lez,307,M1,dona,00:13:09,05:21:36,Centro excursionista de castellar del VallÈs,Castellar del valles,145,05:57:48,03:43:47,06:21:09,09:32:25
+433,Anna,ViÒolas Pons,889,M1,dona,00:13:10,05:21:56,0,Centelles,146,05:48:30,03:51:05,06:32:57,09:32:45
 434,Natalia,Vall-llovera Puente,890,M1,dona,00:13:10,05:22:08,0,Centelles,147,05:48:24,03:51:15,06:33:16,09:32:57
-435,Santi,Costa Mercader,322,M1,home,00:13:10,05:22:13,0,Santa Eug√®nia de berga,230,05:51:48,03:53:52,06:40:06,09:33:02
-436,Josep,Maria Rota,230,M1,home,00:13:10,05:22:13,0,Santa Eug√®nia de Berga,231,05:51:53,03:54:17,06:40:06,09:33:02
-437,Ricard,Serra Altarriba,740,M1,home,00:13:14,05:24:51,0,Santa Eug√®nia de Berga,232,06:47:58,03:54:16,06:37:51,09:35:40
-438,Sebasti√†,Serrabasa Rafart,281,M1,home,00:13:14,05:24:55,Club Excursionista Calldetenes,Santa Eug√®nia de Berga,233,06:48:11,03:53:49,06:37:42,09:35:44
-439,Joan,Comas Tuneu,280,M1,home,00:13:14,05:24:55,0,SANTA EUG√àNIA DE BERGA,234,06:48:00,03:54:07,06:37:49,09:35:44
-440,N√∫ria,Arum√≠ Novellas,282,M1,dona,00:13:14,05:25:00,Club Excursionista Calldetenes,Santa Eug√®nia de Berga,148,06:48:01,03:53:56,06:37:51,09:35:49
-441,Josep,Balsells P√†mies,869,M1,home,00:13:15,05:25:57,club excursionista Reddis,Reus,235,05:34:53,03:50:11,06:35:13,09:36:46
-442,Mart√≠,Torras,98,M1,home,00:13:16,05:26:27,0,Vic,236,06:20:35,03:49:40,06:35:40,09:37:16
-443,Laura,Nu√±ez Raurell,846,M1,dona,00:13:17,05:27:04,0,Vic,149,05:50:27,04:01:13,06:38:13,09:37:53
-444,Coral,G√ºell Serrat,465,M1,dona,00:13:17,05:27:12,0,Olot,150,06:29:29,03:48:32,06:30:11,09:38:01
+435,Santi,Costa Mercader,322,M1,home,00:13:10,05:22:13,0,Santa EugËnia de berga,230,05:51:48,03:53:52,06:40:06,09:33:02
+436,Josep,Maria Rota,230,M1,home,00:13:10,05:22:13,0,Santa EugËnia de Berga,231,05:51:53,03:54:17,06:40:06,09:33:02
+437,Ricard,Serra Altarriba,740,M1,home,00:13:14,05:24:51,0,Santa EugËnia de Berga,232,06:47:58,03:54:16,06:37:51,09:35:40
+438,Sebasti‡,Serrabasa Rafart,281,M1,home,00:13:14,05:24:55,Club Excursionista Calldetenes,Santa EugËnia de Berga,233,06:48:11,03:53:49,06:37:42,09:35:44
+439,Joan,Comas Tuneu,280,M1,home,00:13:14,05:24:55,0,SANTA EUG»NIA DE BERGA,234,06:48:00,03:54:07,06:37:49,09:35:44
+440,N˙ria,ArumÌ Novellas,282,M1,dona,00:13:14,05:25:00,Club Excursionista Calldetenes,Santa EugËnia de Berga,148,06:48:01,03:53:56,06:37:51,09:35:49
+441,Josep,Balsells P‡mies,869,M1,home,00:13:15,05:25:57,club excursionista Reddis,Reus,235,05:34:53,03:50:11,06:35:13,09:36:46
+442,MartÌ,Torras,98,M1,home,00:13:16,05:26:27,0,Vic,236,06:20:35,03:49:40,06:35:40,09:37:16
+443,Laura,NuÒez Raurell,846,M1,dona,00:13:17,05:27:04,0,Vic,149,05:50:27,04:01:13,06:38:13,09:37:53
+444,Coral,G¸ell Serrat,465,M1,dona,00:13:17,05:27:12,0,Olot,150,06:29:29,03:48:32,06:30:11,09:38:01
 445,Eric,Guerrero,461,M1,home,00:13:17,05:27:16,0,Calldetenes,237,06:29:22,03:48:25,06:30:20,09:38:05
 446,Joan Albert,Ribera Castillo,404,M1,home,00:13:18,05:28:19,0,Sant joan les fonts,238,06:01:37,03:50:20,06:30:11,09:39:08
 447,Ramon,Olcina Sargatal,605,M1,home,00:13:18,05:28:21,els enfilats,olot,239,06:01:42,03:50:06,06:28:59,09:39:10
@@ -450,210 +450,210 @@ POSICI√ìN,NOMBRE,apellidos,dorsal,cat,sexo,ritmo,dif 1o,club,poblaci√≥n,poscat,A
 449,Sara,Bosch Rue,395,M1,dona,00:13:20,05:29:35,Els enfilats,Sant feliu pallerols,152,06:01:48,03:50:44,06:30:30,09:40:24
 450,Marta,Gil Tarres,1078,M1,dona,00:13:20,05:29:51,0,Sabadell,153,06:54:08,04:02:10,06:45:42,09:40:40
 451,F. Xavier,Desoi Guitart,394,M1,home,00:13:21,05:30:08,Els enfilats,Les Preses,240,06:01:42,03:50:41,06:29:03,09:40:57
-452,Josep,Riera Su√±e,1079,M1,home,00:13:21,05:30:11,UECsabadell,Sabadell,241,06:53:54,04:02:27,06:45:54,09:41:00
+452,Josep,Riera SuÒe,1079,M1,home,00:13:21,05:30:11,UECsabadell,Sabadell,241,06:53:54,04:02:27,06:45:54,09:41:00
 453,Pilar,Atencia Puigdomenech,537,M1,dona,00:13:21,05:30:16,0,Taradell,154,06:43:19,03:52:24,06:40:24,09:41:05
 454,Sandra,Pou Casasas,362,M1,dona,00:13:21,05:30:33,0,Vic,155,06:17:07,03:56:15,--:--:--,09:41:22
 455,Jana,Atencia Cirera,539,M1,dona,00:13:21,05:30:35,0,Taradell,156,06:43:03,03:52:38,06:40:42,09:41:24
-456,Marcel,Dilmer Garr√≥s,881,M1,home,00:13:21,05:30:36,0,Les Masies de Voltreg√†,242,06:17:10,03:56:15,06:42:45,09:41:25
-457,Guillem,Campos Diaz-pavon,246,M1,home,00:13:22,05:30:49,0,Santa Eug√®nia de Berga,243,06:17:16,03:56:21,06:45:27,09:41:38
+456,Marcel,Dilmer GarrÛs,881,M1,home,00:13:21,05:30:36,0,Les Masies de Voltreg‡,242,06:17:10,03:56:15,06:42:45,09:41:25
+457,Guillem,Campos Diaz-pavon,246,M1,home,00:13:22,05:30:49,0,Santa EugËnia de Berga,243,06:17:16,03:56:21,06:45:27,09:41:38
 458,Anna,Piella Coll,205,M1,dona,00:13:24,05:32:14,0,Taradell,157,06:19:13,03:57:27,06:35:00,09:43:03
-459,Ariana,Brussosa Torrent√≥,206,M1,dona,00:13:24,05:32:21,0,Taradell,158,06:19:15,03:57:17,06:34:55,09:43:10
+459,Ariana,Brussosa TorrentÛ,206,M1,dona,00:13:24,05:32:21,0,Taradell,158,06:19:15,03:57:17,06:34:55,09:43:10
 460,Nuria,Soldevila Guardiola,494,M1,dona,00:13:24,05:32:37,0,VIC,159,06:56:34,04:07:02,07:01:21,09:43:26
 461,Aida,Font Alonso,339,M1,dona,00:13:24,05:32:44,0,Taradell,160,06:19:09,03:58:13,06:35:09,09:43:33
 462,David,Pujols Codina,519,M1,home,00:13:26,05:33:45,0,VIC,244,06:33:41,03:44:46,06:32:29,09:44:34
 463,Eva Maria,Sala Baltasar,1152,M1,dona,00:13:26,05:34:12,-,-,161,06:27:50,04:04:54,06:55:28,09:45:01
-464,Montse,Tarr√©s Nieto,1151,M1,dona,00:13:27,05:34:20,-,-,162,06:27:53,04:05:02,06:55:31,09:45:09
+464,Montse,TarrÈs Nieto,1151,M1,dona,00:13:27,05:34:20,-,-,162,06:27:53,04:05:02,06:55:31,09:45:09
 465,Julia,Ortiz Calahorro,25,M1,dona,00:13:27,05:34:35,0,Vic,163,06:35:41,03:58:18,06:43:07,09:45:24
-466,Cristina,Alonso Diaz,316,M1,dona,00:13:27,05:34:53,0,Ol√®rdola,164,06:23:33,03:56:48,06:41:39,09:45:42
-467,Josep,Sol√© Estrad√©,402,M1,home,00:13:27,05:34:55,0,Tortosa,245,06:23:32,03:57:06,06:41:32,09:45:44
-468,Iris,L√≥pez Torrent,347,M1,dona,00:13:28,05:35:03,0,Girona,165,06:23:30,03:59:00,06:41:36,09:45:52
-469,Eva,Sanz,315,M1,dona,00:13:28,05:35:03,0,Sant Vicen√ß de castellet,166,06:23:39,03:56:52,06:41:41,09:45:52
-470,N√∫ria,Pujol Sol√†,692,M1,dona,00:13:28,05:35:03,0,Vic,167,06:17:26,03:55:49,06:42:12,09:45:52
-471,Judith,Bayes Rovira,27,M1,dona,00:13:28,05:35:08,0,Sant Juli√† de Vilatorta,168,06:36:02,03:51:40,06:43:09,09:45:57
+466,Cristina,Alonso Diaz,316,M1,dona,00:13:27,05:34:53,0,OlËrdola,164,06:23:33,03:56:48,06:41:39,09:45:42
+467,Josep,SolÈ EstradÈ,402,M1,home,00:13:27,05:34:55,0,Tortosa,245,06:23:32,03:57:06,06:41:32,09:45:44
+468,Iris,LÛpez Torrent,347,M1,dona,00:13:28,05:35:03,0,Girona,165,06:23:30,03:59:00,06:41:36,09:45:52
+469,Eva,Sanz,315,M1,dona,00:13:28,05:35:03,0,Sant VicenÁ de castellet,166,06:23:39,03:56:52,06:41:41,09:45:52
+470,N˙ria,Pujol Sol‡,692,M1,dona,00:13:28,05:35:03,0,Vic,167,06:17:26,03:55:49,06:42:12,09:45:52
+471,Judith,Bayes Rovira,27,M1,dona,00:13:28,05:35:08,0,Sant Juli‡ de Vilatorta,168,06:36:02,03:51:40,06:43:09,09:45:57
 472,Neus,Montero Vilar,297,M2,dona,00:13:28,05:35:13,0,Vic,14,06:17:03,03:55:53,06:42:25,09:46:02
 473,Irene,Chercoles Mercader,29,M1,dona,00:13:28,05:35:24,0,Folgueroles,169,06:35:50,03:54:21,06:42:52,09:46:13
 474,Elena,Arias Carballo,31,M1,dona,00:13:28,05:35:24,0,Vic,170,06:35:40,03:52:07,06:43:01,09:46:13
-475,Meritxell,Dachs Perez,34,M1,dona,00:13:28,05:35:40,0,Tav√®rnoles,171,06:35:42,04:00:30,06:43:04,09:46:29
-476,Jordi,Sallent M√ºcke Garcia,1103,M1,dona,00:13:32,05:38:24,0,Sant Quirze del Valles,172,06:47:44,04:29:31,07:02:01,09:49:13
-477,M¬™ Merce,Miquel Andreu,1021,M2,dona,00:13:32,05:38:24,C.E.Taradell,Taradell,15,06:47:39,04:29:30,07:02:03,09:49:13
+475,Meritxell,Dachs Perez,34,M1,dona,00:13:28,05:35:40,0,TavËrnoles,171,06:35:42,04:00:30,06:43:04,09:46:29
+476,Jordi,Sallent M¸cke Garcia,1103,M1,dona,00:13:32,05:38:24,0,Sant Quirze del Valles,172,06:47:44,04:29:31,07:02:01,09:49:13
+477,M™ Merce,Miquel Andreu,1021,M2,dona,00:13:32,05:38:24,C.E.Taradell,Taradell,15,06:47:39,04:29:30,07:02:03,09:49:13
 478,Alex,Ribo Rull,736,M1,home,00:13:33,05:39:14,0,Sabadell,246,06:48:31,04:00:21,07:08:43,09:50:03
 479,Carla,Valencia De Los Santos,574,M1,dona,00:13:35,05:40:08,0,Vic,173,06:36:01,03:53:55,06:43:20,09:50:57
 480,Yolanda,Costas Rodenas,803,M1,dona,00:13:36,05:40:57,0,Sant Feliu de Codines,174,06:50:33,03:58:55,06:41:30,09:51:46
 481,Anna,Collell,1154,M1,dona,00:13:38,05:42:33,-,-,175,06:19:34,04:14:16,07:04:05,09:53:22
 482,Joan,Serra Carreras,859,M1,home,00:13:39,05:43:25,0,Parets del Valles,247,06:22:23,04:01:20,06:50:13,09:54:14
-483,Antoni,Garcia Vi√±as,831,M1,home,00:13:39,05:43:25,CENTRE EXCURSIONISTA PARETS,PARETS DEL VALL√àS,248,06:22:18,04:01:22,06:50:15,09:54:14
+483,Antoni,Garcia ViÒas,831,M1,home,00:13:39,05:43:25,CENTRE EXCURSIONISTA PARETS,PARETS DEL VALL»S,248,06:22:18,04:01:22,06:50:15,09:54:14
 484,Sadurni,Plantada Ciurans,828,M1,home,00:13:39,05:43:35,CAM PARETS,Parets del Valles,249,06:22:19,04:01:18,06:50:19,09:54:24
 485,Marti,Serra Altarriba,802,M1,home,00:13:44,05:46:49,0,Vic,250,06:48:04,04:02:17,06:45:55,09:57:38
 486,Paula,Masferrer Valderrey,886,M1,dona,00:13:45,05:47:41,0,Vic,176,06:48:17,--:--:--,06:46:09,09:58:30
-487,Aurora,Mu√±oz Begara,289,M1,dona,00:13:46,05:48:04,CENTRE EXCURSIONISTA ELS HOSTALETS DE BALENY√Ä,BALENYA,177,07:00:31,03:44:26,06:37:16,09:58:53
-488,Maria,Giol Mu√±oz,290,M1,dona,00:13:46,05:48:14,0,BALENYA,178,07:00:32,03:44:20,06:37:17,09:59:03
-489,Olga,Punt√≠ Bigas,167,M1,dona,00:13:46,05:48:36,0,Calldetenes,179,06:24:54,03:49:12,06:46:15,09:59:25
-490,S√≠lvia,Punt√≠ Bigas,168,M1,dona,00:13:46,05:48:41,0,Taradell,180,06:24:44,03:49:17,06:46:21,09:59:30
+487,Aurora,MuÒoz Begara,289,M1,dona,00:13:46,05:48:04,CENTRE EXCURSIONISTA ELS HOSTALETS DE BALENY¿,BALENYA,177,07:00:31,03:44:26,06:37:16,09:58:53
+488,Maria,Giol MuÒoz,290,M1,dona,00:13:46,05:48:14,0,BALENYA,178,07:00:32,03:44:20,06:37:17,09:59:03
+489,Olga,PuntÌ Bigas,167,M1,dona,00:13:46,05:48:36,0,Calldetenes,179,06:24:54,03:49:12,06:46:15,09:59:25
+490,SÌlvia,PuntÌ Bigas,168,M1,dona,00:13:46,05:48:41,0,Taradell,180,06:24:44,03:49:17,06:46:21,09:59:30
 491,Anna,Roca Codinachs,244,M1,dona,00:13:47,05:49:23,0,Vic,181,06:17:00,03:56:05,06:43:09,10:00:12
-492,Merc√®,Ort√≠ Climent,977,M1,dona,00:13:48,05:50:06,0,Terrassa,182,07:01:17,04:01:44,06:49:02,10:00:55
+492,MercË,OrtÌ Climent,977,M1,dona,00:13:48,05:50:06,0,Terrassa,182,07:01:17,04:01:44,06:49:02,10:00:55
 493,Antoni,Masnou Gonzalez,141,M2,home,00:13:50,05:51:09,Centre excursionista taradell,Centelles,46,05:39:42,04:03:10,06:58:42,10:01:58
-494,Xavier,Molist Vi√±ets,21,M2,home,00:13:50,05:51:23,Centre excursionistas de taradell,Centellas,47,05:39:19,04:03:43,06:58:59,10:02:12
-495,Maria Jos√©,Jimenez Martinez,214,M2,dona,00:13:50,05:51:33,Centre Excursionista taradell,Centelles,16,05:39:13,04:03:46,06:59:02,10:02:22
+494,Xavier,Molist ViÒets,21,M2,home,00:13:50,05:51:23,Centre excursionistas de taradell,Centellas,47,05:39:19,04:03:43,06:58:59,10:02:12
+495,Maria JosÈ,Jimenez Martinez,214,M2,dona,00:13:50,05:51:33,Centre Excursionista taradell,Centelles,16,05:39:13,04:03:46,06:59:02,10:02:22
 496,Alejandro,Cortes Mur,325,M1,home,00:13:51,05:52:17,0,Sant Adria del Besos,251,05:39:18,04:03:49,06:59:15,10:03:06
 497,Sergi,Ortega Navarro,24,M1,home,00:13:52,05:52:31,0,Manlleu,252,06:15:24,03:55:23,06:41:28,10:03:20
 498,Bet,Pujols,821,M1,dona,00:13:52,05:52:31,0,Taradell,183,05:39:29,04:06:23,--:--:--,10:03:20
-499,Anna,Par√©s,23,M1,dona,00:13:52,05:52:38,0,Gurb,184,06:15:24,03:55:19,06:41:34,10:03:27
+499,Anna,ParÈs,23,M1,dona,00:13:52,05:52:38,0,Gurb,184,06:15:24,03:55:19,06:41:34,10:03:27
 500,Carles,Levia Presa,823,M1,home,00:13:52,05:52:38,0,Taradell,253,05:39:29,04:06:07,06:51:29,10:03:27
-501,Msrta,Sa√±√© Corominas,830,M1,dona,00:13:52,05:52:38,0,Folgueroles,185,05:39:25,04:06:42,06:51:38,10:03:27
-502,Gemma,Casa√±a Codina,1076,M1,dona,00:13:52,05:52:43,0,barcelona,186,06:37:22,04:20:08,07:05:21,10:03:32
+501,Msrta,SaÒÈ Corominas,830,M1,dona,00:13:52,05:52:38,0,Folgueroles,185,05:39:25,04:06:42,06:51:38,10:03:27
+502,Gemma,CasaÒa Codina,1076,M1,dona,00:13:52,05:52:43,0,barcelona,186,06:37:22,04:20:08,07:05:21,10:03:32
 503,Mar,Medir Benito,1073,M1,dona,00:13:52,05:52:57,0,Giron,187,06:36:57,04:20:49,07:05:52,10:03:46
 504,Assumpta,Molas Tarres,1026,M1,dona,00:13:53,05:53:31,0,Roda de ter,188,06:09:48,--:--:--,06:50:12,10:04:20
 505,Marta,Bosch Portet,1027,M1,dona,00:13:53,05:53:46,0,Roda de ter,189,06:09:37,--:--:--,06:50:26,10:04:35
 506,Lurdes,Clapera,549,M1,dona,00:13:54,05:54:21,Tona,Tona,190,05:52:53,03:59:43,06:43:39,10:05:10
 507,Imma,Fabre Heredia,82,M1,dona,00:13:54,05:54:29,0,Taradell,191,06:20:51,04:14:01,07:01:34,10:05:18
-508,Montserrat,Ur√≥ Castias,49,M1,dona,00:13:55,05:54:34,CE Vic,Vic,192,05:52:47,03:59:53,06:43:42,10:05:23
+508,Montserrat,UrÛ Castias,49,M1,dona,00:13:55,05:54:34,CE Vic,Vic,192,05:52:47,03:59:53,06:43:42,10:05:23
 509,Xavier,Fabre Heredia,83,M1,home,00:13:55,05:54:37,0,Taradell,254,06:20:35,04:14:22,07:01:40,10:05:26
-510,Ma. Rosa,Carol Alonso,780,M1,dona,00:13:55,05:54:44,CEVCAMI,Vilanova Del Cam√≠,193,07:29:40,03:48:56,06:32:17,10:05:33
-511,Natalia,Franch Raurell,1082,M1,dona,00:13:55,05:54:55,0,Prats de llu√ßanes,194,07:01:08,04:00:56,06:58:15,10:05:44
-512,Josep,Viv√≥ Perez,529,M1,home,00:13:55,05:55:07,CLUB EXCTA. MADTEAM,Barcelona,255,06:45:18,04:01:24,06:51:41,10:05:56
+510,Ma. Rosa,Carol Alonso,780,M1,dona,00:13:55,05:54:44,CEVCAMI,Vilanova Del CamÌ,193,07:29:40,03:48:56,06:32:17,10:05:33
+511,Natalia,Franch Raurell,1082,M1,dona,00:13:55,05:54:55,0,Prats de lluÁanes,194,07:01:08,04:00:56,06:58:15,10:05:44
+512,Josep,VivÛ Perez,529,M1,home,00:13:55,05:55:07,CLUB EXCTA. MADTEAM,Barcelona,255,06:45:18,04:01:24,06:51:41,10:05:56
 513,Juan Antonio,Lorente Rubio,530,M1,home,00:13:55,05:55:12,Club Excta. Aresta Nord,Barcelona,256,06:45:17,03:59:14,06:51:33,10:06:01
-514,√†ngel,Farreny Prats,655,M1,home,00:13:58,05:56:57,0,Manresa,257,06:21:16,04:06:21,07:21:03,10:07:46
+514,‡ngel,Farreny Prats,655,M1,home,00:13:58,05:56:57,0,Manresa,257,06:21:16,04:06:21,07:21:03,10:07:46
 515,Maria,Oliva Espinalt,203,M1,dona,00:13:59,05:57:41,0,Vic,195,07:35:17,04:11:04,07:13:08,10:08:30
 516,Marta,Oliva Espinalt,204,M1,dona,00:13:59,05:58:10,0,Vic,196,07:35:23,04:11:31,07:13:12,10:08:59
-517,Jordi,Carb√≥ Mart√≠n,9,M1,home,00:14:00,05:58:40,0,Centelles,258,06:16:45,03:46:07,06:42:02,10:09:29
-518,Llu√≠s,Serra Blancafort,510,M1,home,00:14:02,05:59:39,0,Centelles,259,06:31:37,03:46:03,06:45:10,10:10:28
-519,Cristina,V√°zquez Bartrina,512,M1,dona,00:14:02,06:00:16,0,Centelles,197,06:31:42,03:46:12,06:45:16,10:11:05
-520,Esteban,Sobr√≠n Perez,513,M1,home,00:14:03,06:00:30,0,centelles,260,06:31:38,03:46:14,06:45:27,10:11:19
+517,Jordi,CarbÛ MartÌn,9,M1,home,00:14:00,05:58:40,0,Centelles,258,06:16:45,03:46:07,06:42:02,10:09:29
+518,LluÌs,Serra Blancafort,510,M1,home,00:14:02,05:59:39,0,Centelles,259,06:31:37,03:46:03,06:45:10,10:10:28
+519,Cristina,V·zquez Bartrina,512,M1,dona,00:14:02,06:00:16,0,Centelles,197,06:31:42,03:46:12,06:45:16,10:11:05
+520,Esteban,SobrÌn Perez,513,M1,home,00:14:03,06:00:30,0,centelles,260,06:31:38,03:46:14,06:45:27,10:11:19
 521,Elisenda,Barniol,365,M1,dona,00:14:03,06:00:46,0,Gurb,198,06:46:47,03:49:01,06:41:46,10:11:35
-522,Gaspar,Rossell√≥ Melis,673,M1,home,00:14:03,06:00:57,0,Hospitalet de Llobregat,261,06:17:23,03:55:37,06:50:38,10:11:46
+522,Gaspar,RossellÛ Melis,673,M1,home,00:14:03,06:00:57,0,Hospitalet de Llobregat,261,06:17:23,03:55:37,06:50:38,10:11:46
 523,Aina,Amat Castells,672,M1,dona,00:14:03,06:00:58,0,Vic,199,06:17:27,03:55:43,06:50:38,10:11:47
 524,Jaume,Juncadella Biscamps,697,M1,home,00:14:06,06:02:41,0,Barcelona,262,06:33:26,04:04:45,06:51:41,10:13:30
 525,Marc,Fonoll Balletbo,695,M1,home,00:14:06,06:02:41,0,Barcelona,263,06:33:07,04:05:27,06:52:00,10:13:30
 526,Pere,Crosas Masoliver,1126,M1,home,00:14:06,06:02:42,0,Masies de Roda,264,05:43:48,03:49:17,06:41:23,10:13:31
-527,Carles,Mu√±oz Juanola,670,M1,home,00:14:06,06:02:49,0,Rupit,265,06:33:07,04:04:51,06:51:42,10:13:38
-528,David,Pifarr√©,694,M1,home,00:14:07,06:03:18,CLUB MUNTANYENC SANT CUGAT,Sant Cugat del Vall√®s,266,06:32:53,04:05:36,06:52:00,10:14:07
+527,Carles,MuÒoz Juanola,670,M1,home,00:14:06,06:02:49,0,Rupit,265,06:33:07,04:04:51,06:51:42,10:13:38
+528,David,PifarrÈ,694,M1,home,00:14:07,06:03:18,CLUB MUNTANYENC SANT CUGAT,Sant Cugat del VallËs,266,06:32:53,04:05:36,06:52:00,10:14:07
 529,Sergio,De La Torre,486,M1,home,00:14:07,06:03:31,GEPS Centre excursionista sant Feliu de Llobregat,Sant Joan Despi,267,06:21:36,04:15:34,07:11:12,10:14:20
-530,David,Mart√≠nez Jim√©nez,498,M1,home,00:14:07,06:03:36,0,Sant Joan Despi√≠,268,06:21:40,04:15:21,07:11:02,10:14:25
+530,David,MartÌnez JimÈnez,498,M1,home,00:14:07,06:03:36,0,Sant Joan DespiÌ,268,06:21:40,04:15:21,07:11:02,10:14:25
 531,Maria Del Mar,Ramon Requena,20,M1,dona,00:14:07,06:03:43,0,Terrassa,200,06:24:58,03:49:52,06:51:07,10:14:32
-532,Alex,Mart√≠nez L√≥pez,500,M1,home,00:14:07,06:03:44,0,Sant Joan Despi,269,06:21:40,04:15:32,07:11:05,10:14:33
+532,Alex,MartÌnez LÛpez,500,M1,home,00:14:07,06:03:44,0,Sant Joan Despi,269,06:21:40,04:15:32,07:11:05,10:14:33
 533,Fina,Pujol Capdevila,107,M1,dona,00:14:08,06:04:00,0,TONA,201,06:45:39,03:53:27,06:52:14,10:14:49
 534,Jordi,Delgado Abadal,291,M1,home,00:14:08,06:04:12,0,Manresa,270,06:45:47,03:53:29,06:52:12,10:15:01
 535,Francisco,Becerra,826,M1,home,00:14:08,06:04:16,0,Terrassa,271,06:48:49,04:09:49,07:02:49,10:15:05
-536,Eduard,Galobardes Ta√±a,1140,M1,home,00:14:09,06:04:45,0,Vic,272,06:45:35,03:53:38,06:52:27,10:15:34
-537,Lidia,Fern√°ndez Ingl√©s,323,M1,dona,00:14:09,06:04:49,0,Badalona,202,05:54:44,03:43:36,06:52:51,10:15:38
+536,Eduard,Galobardes TaÒa,1140,M1,home,00:14:09,06:04:45,0,Vic,272,06:45:35,03:53:38,06:52:27,10:15:34
+537,Lidia,Fern·ndez InglÈs,323,M1,dona,00:14:09,06:04:49,0,Badalona,202,05:54:44,03:43:36,06:52:51,10:15:38
 538,Felix,Mombiela Gonzalez,934,M1,home,00:14:09,06:05:02,0,Badalona,273,05:54:50,03:43:32,06:52:51,10:15:51
 539,Ivan,Diaz Perez,324,M1,home,00:14:09,06:05:17,0,Centelles,274,05:54:47,03:43:35,06:52:14,10:16:06
 540,Javier,Figuerola Novo,520,M1,home,00:14:10,06:05:55,0,Badalona,275,05:54:46,03:43:30,06:52:11,10:16:44
-541,Silvia,La Pe√±a Barcelo,926,M1,dona,00:14:12,06:07:36,0,Taradell,203,05:51:35,04:03:52,06:57:09,10:18:25
-542,Marta,Roca Sall√©s,927,M1,dona,00:14:13,06:07:38,0,Taradell,204,05:51:33,04:03:30,06:57:12,10:18:27
+541,Silvia,La PeÒa Barcelo,926,M1,dona,00:14:12,06:07:36,0,Taradell,203,05:51:35,04:03:52,06:57:09,10:18:25
+542,Marta,Roca SallÈs,927,M1,dona,00:14:13,06:07:38,0,Taradell,204,05:51:33,04:03:30,06:57:12,10:18:27
 543,Laura,Preseguer Homs,928,M1,dona,00:14:13,06:07:39,0,Taradell,205,05:51:32,04:03:51,06:57:14,10:18:28
 544,Pere,Tusquellas Oto,979,M1,home,00:14:15,06:09:18,0,Vic,276,06:30:24,03:59:27,07:01:25,10:20:07
 545,Emi,Payan Alfonso,978,M1,dona,00:14:15,06:09:32,0,Vic,206,06:30:05,03:59:41,07:01:44,10:20:21
 546,Raquel,Padrosa Cros,781,M1,dona,00:14:15,06:09:44,0,SANT ESTEVE D'EN BAS,207,06:50:24,04:07:50,07:08:04,10:20:33
-547,Marta,Moral Tatjer,768,M1,dona,00:14:16,06:09:56,0,Sant Hip√≤lit de Voltreg√†,208,06:50:24,04:07:42,07:07:58,10:20:45
-548,N√∫ria,Par√©s,774,M1,dona,00:14:16,06:10:04,0,OLOST,209,06:50:20,04:07:53,07:08:05,10:20:53
+547,Marta,Moral Tatjer,768,M1,dona,00:14:16,06:09:56,0,Sant HipÚlit de Voltreg‡,208,06:50:24,04:07:42,07:07:58,10:20:45
+548,N˙ria,ParÈs,774,M1,dona,00:14:16,06:10:04,0,OLOST,209,06:50:20,04:07:53,07:08:05,10:20:53
 549,Josep M.,Arnau Bosch,647,M1,home,00:14:16,06:10:07,Nyerros,Olot,277,07:30:15,04:33:01,07:40:04,10:20:56
-550,Ester,Corominas Fit√≥,771,M1,dona,00:14:16,06:10:14,0,Roda de Ter,210,06:50:18,04:08:00,07:08:12,10:21:03
-551,Joaquim,Masgrau Fabreg√≥,418,M2,home,00:14:17,06:11:10,Centre Excursionista Taradell,TARADELL,48,05:36:22,04:09:42,07:00:00,10:21:59
-552,Laura,Serd√†,854,M1,dona,00:14:18,06:11:32,0,Girona,211,06:32:35,03:51:46,06:52:26,10:22:21
+550,Ester,Corominas FitÛ,771,M1,dona,00:14:16,06:10:14,0,Roda de Ter,210,06:50:18,04:08:00,07:08:12,10:21:03
+551,Joaquim,Masgrau FabregÛ,418,M2,home,00:14:17,06:11:10,Centre Excursionista Taradell,TARADELL,48,05:36:22,04:09:42,07:00:00,10:21:59
+552,Laura,Serd‡,854,M1,dona,00:14:18,06:11:32,0,Girona,211,06:32:35,03:51:46,06:52:26,10:22:21
 553,Pere,Parra Llave,730,M1,home,00:14:18,06:11:40,0,TONA,278,07:30:42,03:46:57,06:58:44,10:22:29
-554,Miteia,Brun Ram√≠rez,733,M1,dona,00:14:18,06:11:44,0,tona,212,07:30:58,03:48:05,06:58:43,10:22:33
+554,Miteia,Brun RamÌrez,733,M1,dona,00:14:18,06:11:44,0,tona,212,07:30:58,03:48:05,06:58:43,10:22:33
 555,Macarena,Parra Llave,732,M1,dona,00:14:19,06:12:03,0,TONA,213,07:30:47,03:48:07,06:58:49,10:22:52
-556,Enric,Garc√≠a Noguera,693,M1,home,00:14:19,06:12:36,No,centelles,279,05:40:10,04:07:27,06:44:58,10:23:25
+556,Enric,GarcÌa Noguera,693,M1,home,00:14:19,06:12:36,No,centelles,279,05:40:10,04:07:27,06:44:58,10:23:25
 557,Esteve,Gutierrez Comerma,221,M1,home,00:14:19,06:12:38,0,Vic,280,06:01:24,04:02:44,06:56:53,10:23:27
-558,Roser,Fontseca Pi√±ol,709,M1,dona,00:14:20,06:12:49,CEAC,Taradell,214,06:01:21,04:02:40,06:56:49,10:23:38
-559,Mireia,Cortina,992,M1,dona,00:14:20,06:13:05,0,Art√©s,215,06:01:19,04:02:48,06:56:53,10:23:54
+558,Roser,Fontseca PiÒol,709,M1,dona,00:14:20,06:12:49,CEAC,Taradell,214,06:01:21,04:02:40,06:56:49,10:23:38
+559,Mireia,Cortina,992,M1,dona,00:14:20,06:13:05,0,ArtÈs,215,06:01:19,04:02:48,06:56:53,10:23:54
 560,Marta,Rabassa De Esteban,707,M1,dona,00:14:20,06:13:07,0,vic,216,06:01:27,04:02:52,06:56:40,10:23:56
-561,Javier,Gallego Valdelvira,111,M1,home,00:14:21,06:13:53,0,Llinars del Vall√©s,281,06:34:59,03:59:05,06:57:52,10:24:42
-562,√†ngels,Masot Minguez,629,M1,dona,00:14:22,06:14:11,CECBages,Manresa,217,06:30:10,04:05:26,07:03:04,10:25:00
-563,Llu√Øsa,Garriga Noguera,573,M1,dona,00:14:22,06:14:13,0,MANRESA,218,06:30:09,04:05:22,07:03:03,10:25:02
+561,Javier,Gallego Valdelvira,111,M1,home,00:14:21,06:13:53,0,Llinars del VallÈs,281,06:34:59,03:59:05,06:57:52,10:24:42
+562,‡ngels,Masot Minguez,629,M1,dona,00:14:22,06:14:11,CECBages,Manresa,217,06:30:10,04:05:26,07:03:04,10:25:00
+563,LluÔsa,Garriga Noguera,573,M1,dona,00:14:22,06:14:13,0,MANRESA,218,06:30:09,04:05:22,07:03:03,10:25:02
 564,Carme,Sala Comellas,837,M1,dona,00:14:22,06:14:24,CECB,Manresa,219,06:30:05,04:05:21,07:02:59,10:25:13
-565,Juan Salvador,Villar,211,M1,home,00:14:22,06:14:36,0,Mollet del Vall√©s,282,05:53:37,04:10:38,07:10:12,10:25:25
+565,Juan Salvador,Villar,211,M1,home,00:14:22,06:14:36,0,Mollet del VallÈs,282,05:53:37,04:10:38,07:10:12,10:25:25
 566,Elsa,Molinero,278,M1,dona,00:14:22,06:14:48,0,PARETS DEL VALLES,220,05:53:40,--:--:--,07:10:20,10:25:37
-567,Judit,Sol√† Font,425,M1,dona,00:14:24,06:15:43,0,Folgueroles,221,05:53:49,04:10:14,06:57:52,10:26:32
-568,Montse,Puig Arrom,405,M1,dona,00:14:24,06:15:46,Centre Excursionista Els Hostalets de Baleny√†,Baleny√† (Els Hostalets),222,06:16:55,04:14:02,07:09:27,10:26:35
-569,Pol,Padr√≥s Gener√≥,426,M1,home,00:14:24,06:15:47,0,Folgueroles,283,05:53:50,04:10:02,06:57:54,10:26:36
-570,Ingrid,Farr√©s Rusi√±ol,391,M1,dona,00:14:24,06:15:51,0,L'Esquirol,223,05:53:54,04:10:04,06:58:00,10:26:40
-571,Dolors,Fabr√© Masana,502,M1,dona,00:14:24,06:15:54,0,Hostalets d Baleny√†,224,06:16:58,04:12:39,07:09:39,10:26:43
-572,Marta,Roquet Bohils,815,M1,dona,00:14:24,06:15:57,Uni√≥ espotiva vic,Vic,225,06:17:06,04:14:04,07:09:45,10:26:46
+567,Judit,Sol‡ Font,425,M1,dona,00:14:24,06:15:43,0,Folgueroles,221,05:53:49,04:10:14,06:57:52,10:26:32
+568,Montse,Puig Arrom,405,M1,dona,00:14:24,06:15:46,Centre Excursionista Els Hostalets de Baleny‡,Baleny‡ (Els Hostalets),222,06:16:55,04:14:02,07:09:27,10:26:35
+569,Pol,PadrÛs GenerÛ,426,M1,home,00:14:24,06:15:47,0,Folgueroles,283,05:53:50,04:10:02,06:57:54,10:26:36
+570,Ingrid,FarrÈs RusiÒol,391,M1,dona,00:14:24,06:15:51,0,L'Esquirol,223,05:53:54,04:10:04,06:58:00,10:26:40
+571,Dolors,FabrÈ Masana,502,M1,dona,00:14:24,06:15:54,0,Hostalets d Baleny‡,224,06:16:58,04:12:39,07:09:39,10:26:43
+572,Marta,Roquet Bohils,815,M1,dona,00:14:24,06:15:57,UniÛ espotiva vic,Vic,225,06:17:06,04:14:04,07:09:45,10:26:46
 573,Manel,Macia Mestanza,685,M1,home,00:14:24,06:16:17,0,Rupit,284,06:29:49,03:52:27,07:00:54,10:27:06
 574,Meritxell,Gardella,1153,M1,dona,00:14:24,06:16:17,-,-,226,06:19:36,04:14:18,07:04:26,10:27:06
 575,Olga,Bujons Rabionet,239,M1,dona,00:14:25,06:16:33,No club,Tona,227,06:32:34,03:47:47,07:17:37,10:27:22
 576,Anna,Font Font,1155,M1,dona,00:14:26,06:17:18,-,-,228,06:19:31,04:14:13,07:04:25,10:28:07
 577,Lourdes,Benito Sanz,294,M1,dona,00:14:27,06:17:56,Club BTT Osona,Centelles,229,06:10:21,04:03:35,07:07:05,10:28:45
 578,Jordi,Soriano Gimenez,293,M1,home,00:14:27,06:17:56,Club BTT Osona,Centelles,285,06:08:19,04:05:57,07:09:14,10:28:45
-579,Maria Llu√Øsa,Guix I Prat,748,M1,dona,00:14:27,06:18:00,0,les preses,230,05:58:34,04:01:22,06:50:37,10:28:49
-580,Rosa M¬™,Gelonch Salvado,1023,M2,dona,00:14:27,06:18:13,C.E.Taradell,taradell,17,05:51:44,04:13:48,07:05:46,10:29:02
-581,Anna,Sadurn√≠ Sol,1022,M2,dona,00:14:27,06:18:16,C.E.Taradell,Taradell,18,05:51:45,04:13:54,07:05:49,10:29:05
+579,Maria LluÔsa,Guix I Prat,748,M1,dona,00:14:27,06:18:00,0,les preses,230,05:58:34,04:01:22,06:50:37,10:28:49
+580,Rosa M™,Gelonch Salvado,1023,M2,dona,00:14:27,06:18:13,C.E.Taradell,taradell,17,05:51:44,04:13:48,07:05:46,10:29:02
+581,Anna,SadurnÌ Sol,1022,M2,dona,00:14:27,06:18:16,C.E.Taradell,Taradell,18,05:51:45,04:13:54,07:05:49,10:29:05
 582,Daniel,Prat Ares,1133,M1,home,00:14:28,06:18:38,0,TARADELL,286,05:51:36,04:13:58,07:06:54,10:29:27
-583,Teresa,Muela Pag√®s,786,M1,dona,00:14:28,06:18:49,Centre Excursionista D'Olot,Santa Pau,231,05:57:50,04:02:11,06:51:13,10:29:38
+583,Teresa,Muela PagËs,786,M1,dona,00:14:28,06:18:49,Centre Excursionista D'Olot,Santa Pau,231,05:57:50,04:02:11,06:51:13,10:29:38
 584,Gemma,Reverter Torras,186,M1,dona,00:14:28,06:18:57,Les Guilles,CENTELLES,232,06:09:40,04:04:08,07:07:59,10:29:46
 585,Roser,Serra Bach,176,M1,dona,00:14:28,06:18:57,0,Centelles,233,06:07:26,04:06:09,07:10:04,10:29:46
 586,Cristina,Molist Riera,188,M1,dona,00:14:28,06:18:57,0,Centelles,234,06:07:29,04:06:13,07:10:10,10:29:46
-587,Marta,Riera Farr√©s,228,M1,dona,00:14:28,06:18:57,Les Guilles - Junts pels Camins,Centelles,235,06:07:23,04:06:20,07:10:56,10:29:46
+587,Marta,Riera FarrÈs,228,M1,dona,00:14:28,06:18:57,Les Guilles - Junts pels Camins,Centelles,235,06:07:23,04:06:20,07:10:56,10:29:46
 588,Josep,Sarrate Ramos,226,M1,home,00:14:28,06:19:01,"Les Guilles, Junts prls Camins",Centelles,287,06:07:43,04:06:32,07:11:07,10:29:50
-589,Dolo,Garc√≠a Gonzalez,200,M1,dona,00:14:29,06:19:16,0,Centelles,236,06:07:17,04:06:47,07:11:01,10:30:05
-590,Esther,Vila Ba√±o,509,M1,dona,00:14:29,06:19:28,0,Sant Juli√† de Vilatorta,237,06:23:49,04:07:49,07:07:56,10:30:17
+589,Dolo,GarcÌa Gonzalez,200,M1,dona,00:14:29,06:19:16,0,Centelles,236,06:07:17,04:06:47,07:11:01,10:30:05
+590,Esther,Vila BaÒo,509,M1,dona,00:14:29,06:19:28,0,Sant Juli‡ de Vilatorta,237,06:23:49,04:07:49,07:07:56,10:30:17
 591,Laia,Musarra Carvajal,508,M1,dona,00:14:29,06:19:37,0,Monistrol de Calders,238,06:23:45,04:07:48,07:07:58,10:30:26
 592,Carme,Pruenca Oller,845,M1,dona,00:14:29,06:19:51,0,Olot,239,05:57:30,04:02:28,06:52:17,10:30:40
 593,Josep,Garrido Rifa,538,M1,home,00:14:32,06:21:26,0,barcelona,288,05:41:59,04:12:54,07:24:34,10:32:15
 594,Jaime,Mabras Pardina,623,M1,home,00:14:32,06:21:39,Club Excursionista Vilanova del Cami,Odena,289,07:30:03,04:05:56,07:03:14,10:32:28
-595,Sergio,And√∫jar Guerrero,63,M1,home,00:14:32,06:21:58,0,Sabadell,290,06:51:22,04:03:23,07:04:30,10:32:47
-596,Manuel,S√°nchez Secades,700,M1,home,00:14:40,06:27:36,0,Cerdanyola del Vall√©s,291,07:08:51,04:14:17,07:16:46,10:38:25
+595,Sergio,And˙jar Guerrero,63,M1,home,00:14:32,06:21:58,0,Sabadell,290,06:51:22,04:03:23,07:04:30,10:32:47
+596,Manuel,S·nchez Secades,700,M1,home,00:14:40,06:27:36,0,Cerdanyola del VallÈs,291,07:08:51,04:14:17,07:16:46,10:38:25
 597,Marc,Escuder Barrio,880,M1,home,00:14:41,06:27:57,0,Barcelona,292,05:37:30,04:05:00,07:03:27,10:38:46
-598,David,Hernandez Flores,1055,M1,home,00:14:41,06:28:07,0,Sant Cugat del Vall√©s,293,07:29:33,04:15:35,07:08:09,10:38:56
-599,Neus,Clariana Besal√∫,873,M1,dona,00:14:41,06:28:19,0,Sant Cugat del Valles,240,07:29:40,04:15:46,07:08:24,10:39:08
+598,David,Hernandez Flores,1055,M1,home,00:14:41,06:28:07,0,Sant Cugat del VallÈs,293,07:29:33,04:15:35,07:08:09,10:38:56
+599,Neus,Clariana Besal˙,873,M1,dona,00:14:41,06:28:19,0,Sant Cugat del Valles,240,07:29:40,04:15:46,07:08:24,10:39:08
 600,Toni,Escuder Dalmases,879,M1,home,00:14:41,06:28:26,0,Barcelona,294,05:37:06,04:05:32,07:03:51,10:39:15
-601,Carlos,Chac√≥n Rendon,305,M1,home,00:14:42,06:28:50,0,Manlleu,295,06:12:10,04:17:22,07:20:46,10:39:39
-602,David,Rendon Arjona,189,M1,home,00:14:42,06:28:57,Associaci√≥ excursionista de Viladrau kda 1/2 hora,Tona,296,06:11:55,04:18:53,07:19:50,10:39:46
-603,Mart√≠n,Lanzas Medina,721,M1,home,00:14:43,06:29:38,0,Cerdanyola del Vall√®s,297,07:08:24,04:14:57,07:17:29,10:40:27
-604,Montserrat,Rosell Cantos,187,M1,dona,00:14:43,06:29:38,Associaci√≥ excursionista de Viladrau kda1/2hora,Viladrau,241,06:11:53,04:18:51,07:19:50,10:40:27
-605,Mart√≠n,Lanzas Gonzalez,722,M1,home,00:14:43,06:29:46,0,Cerdanyola del Vall√®s,298,07:08:24,04:16:15,07:16:59,10:40:35
+601,Carlos,ChacÛn Rendon,305,M1,home,00:14:42,06:28:50,0,Manlleu,295,06:12:10,04:17:22,07:20:46,10:39:39
+602,David,Rendon Arjona,189,M1,home,00:14:42,06:28:57,AssociaciÛ excursionista de Viladrau kda 1/2 hora,Tona,296,06:11:55,04:18:53,07:19:50,10:39:46
+603,MartÌn,Lanzas Medina,721,M1,home,00:14:43,06:29:38,0,Cerdanyola del VallËs,297,07:08:24,04:14:57,07:17:29,10:40:27
+604,Montserrat,Rosell Cantos,187,M1,dona,00:14:43,06:29:38,AssociaciÛ excursionista de Viladrau kda1/2hora,Viladrau,241,06:11:53,04:18:51,07:19:50,10:40:27
+605,MartÌn,Lanzas Gonzalez,722,M1,home,00:14:43,06:29:46,0,Cerdanyola del VallËs,298,07:08:24,04:16:15,07:16:59,10:40:35
 606,Montse,Pujol Arnaus,798,M2,dona,00:14:45,06:30:53,CET Taradell,Taradell,19,05:15:00,04:08:10,07:10:03,10:41:42
 607,Pere,Casadevall Font,929,M2,home,00:14:45,06:31:10,C.E. Taradell,Taradell,49,05:15:00,04:08:02,07:09:54,10:41:59
 608,Laia,Casadevall Coll,930,M2,dona,00:14:45,06:31:26,C.E. Taradell,Taradell,20,05:15:00,04:08:15,07:10:36,10:42:15
 609,Isabel,Prat Pont,608,M1,dona,00:14:46,06:32:09,0,MANRESA,242,06:49:22,04:19:12,07:23:11,10:42:58
 610,Josep,Clara Rabal,1049,M1,home,00:14:47,06:32:53,0,Viladrau,299,06:07:53,04:21:23,07:23:54,10:43:42
 611,Pol,Verdaguer,691,M1,home,00:14:51,06:35:11,0,Sant Julia de Vilatorta,300,06:17:28,03:55:57,06:42:53,10:46:00
-612,Pilar,Vivas Consuelo,283,M1,dona,00:14:52,06:36:08,No aplica,Sant Adri√† de Bes√≤s,243,05:53:28,04:26:33,07:10:13,10:46:57
-613,Ignasi,Castro L√≥pez,864,M1,home,00:14:53,06:36:45,0,LA GARRIGA,301,05:38:19,04:02:14,07:00:53,10:47:34
+612,Pilar,Vivas Consuelo,283,M1,dona,00:14:52,06:36:08,No aplica,Sant Adri‡ de BesÚs,243,05:53:28,04:26:33,07:10:13,10:46:57
+613,Ignasi,Castro LÛpez,864,M1,home,00:14:53,06:36:45,0,LA GARRIGA,301,05:38:19,04:02:14,07:00:53,10:47:34
 614,Anna,Bou Moreno,352,M1,dona,00:14:53,06:37:09,0,Taradell,244,05:50:13,04:11:52,07:14:11,10:47:58
-615,S√≠lvia,Riera Balcelld,351,M1,dona,00:14:53,06:37:15,0,Taradell,245,05:50:12,04:11:47,07:14:15,10:48:04
-616,Xavi,Cardona Garcia,858,M1,home,00:14:54,06:37:30,0,vilanova i la geltr√∫,302,05:38:11,04:03:28,07:01:18,10:48:19
-617,Ver√≥nica,Rodriguez Alarc√≥n,197,M1,dona,00:14:54,06:37:55,0,Terrassa,246,06:01:11,04:10:41,07:18:54,10:48:44
-618,Isabel,Alarc√≥n Mu√±oz,196,M1,dona,00:14:54,06:38:00,0,Terrassa,247,06:00:30,04:11:02,07:19:19,10:48:49
+615,SÌlvia,Riera Balcelld,351,M1,dona,00:14:53,06:37:15,0,Taradell,245,05:50:12,04:11:47,07:14:15,10:48:04
+616,Xavi,Cardona Garcia,858,M1,home,00:14:54,06:37:30,0,vilanova i la geltr˙,302,05:38:11,04:03:28,07:01:18,10:48:19
+617,VerÛnica,Rodriguez AlarcÛn,197,M1,dona,00:14:54,06:37:55,0,Terrassa,246,06:01:11,04:10:41,07:18:54,10:48:44
+618,Isabel,AlarcÛn MuÒoz,196,M1,dona,00:14:54,06:38:00,0,Terrassa,247,06:00:30,04:11:02,07:19:19,10:48:49
 619,Manuel,Martinez Roda,207,M1,home,00:14:55,06:38:10,0,Terrassa,303,06:00:39,04:06:12,07:18:47,10:48:59
 620,Antonio,Tarrias Garcia,179,M1,home,00:14:55,06:38:11,0,Terrassa,304,06:00:24,04:10:59,07:18:59,10:49:00
-621,Mariona,Martinez Argando√±a,208,M1,dona,00:14:55,06:38:14,0,Terrassa,248,06:00:43,04:06:11,07:19:19,10:49:03
-622,Yolanda,Tamargo Su√±er,455,M1,dona,00:14:57,06:39:46,Madteam,Sant Andreu de la Barca,249,06:39:17,04:02:33,07:07:26,10:50:35
-623,Manel,S√°nchez Santamans,454,M1,home,00:14:57,06:39:47,Madteam,Sant Andreu de la Barca,305,06:39:18,04:02:37,07:07:19,10:50:36
+621,Mariona,Martinez ArgandoÒa,208,M1,dona,00:14:55,06:38:14,0,Terrassa,248,06:00:43,04:06:11,07:19:19,10:49:03
+622,Yolanda,Tamargo SuÒer,455,M1,dona,00:14:57,06:39:46,Madteam,Sant Andreu de la Barca,249,06:39:17,04:02:33,07:07:26,10:50:35
+623,Manel,S·nchez Santamans,454,M1,home,00:14:57,06:39:47,Madteam,Sant Andreu de la Barca,305,06:39:18,04:02:37,07:07:19,10:50:36
 624,Roger,Muns Pujadas,814,M1,home,00:14:58,06:40:14,0,Centelles,306,06:50:05,04:25:40,07:22:04,10:51:03
 625,Mireia,Costa Serra,93,M1,dona,00:14:58,06:40:17,0,Roda de Ter,250,06:50:31,04:25:07,07:21:53,10:51:06
-626,Marc,Tom√†s Alguer√≥,94,M1,home,00:14:58,06:40:32,0,Roda de Ter,307,06:50:09,04:25:32,07:22:18,10:51:21
-627,Ferran,Muns Sim√≥n,816,M2,home,00:14:58,06:40:50,Centre excta. Taradell,Centelles,50,06:50:04,04:25:45,07:23:41,10:51:39
+626,Marc,Tom‡s AlguerÛ,94,M1,home,00:14:58,06:40:32,0,Roda de Ter,307,06:50:09,04:25:32,07:22:18,10:51:21
+627,Ferran,Muns SimÛn,816,M2,home,00:14:58,06:40:50,Centre excta. Taradell,Centelles,50,06:50:04,04:25:45,07:23:41,10:51:39
 628,Emma,Cortes Rodriguez,800,M1,dona,00:14:59,06:41:26,Ningun,Barcelona,251,06:37:31,04:08:48,07:11:35,10:52:15
 629,Jaime,Pedrero Corrales,792,M1,home,00:14:59,06:41:33,0,TORDERA,308,06:37:36,04:08:31,07:11:35,10:52:22
-630,Augusto,Esteban G√≥mez,604,M1,home,00:15:02,06:43:25,Club tennis Seva,Seva,309,05:59:27,04:16:48,07:08:10,10:54:14
+630,Augusto,Esteban GÛmez,604,M1,home,00:15:02,06:43:25,Club tennis Seva,Seva,309,05:59:27,04:16:48,07:08:10,10:54:14
 631,Carlota,Cendoya,937,M1,dona,00:15:02,06:43:44,Club tennis Seva,Seva,252,05:59:27,04:16:42,07:07:48,10:54:33
-632,Esther,Sala Mart√≠nez,565,M1,dona,00:15:02,06:43:48,0,Taradell,253,06:17:11,04:19:55,07:29:15,10:54:37
+632,Esther,Sala MartÌnez,565,M1,dona,00:15:02,06:43:48,0,Taradell,253,06:17:11,04:19:55,07:29:15,10:54:37
 633,Alicia,Vizcaino Garcia,723,M1,dona,00:15:02,06:43:50,0,Tona,254,06:16:52,04:19:52,07:29:14,10:54:39
 634,Albert,Barrieras,801,M1,home,00:15:03,06:43:52,0,Vilassar de Mar,310,06:35:10,04:06:30,07:11:37,10:54:41
-635,Otto,Rull Dom√≠nguez,389,M1,home,00:15:03,06:43:55,0,Sant Andreu de la Barca,311,06:48:19,04:00:04,07:09:42,10:54:44
-636,Marta,Piella Vilardell,361,M1,dona,00:15:03,06:44:05,0,Santa Eug√®nia de Berga,255,06:02:52,--:--:--,07:17:23,10:54:54
-637,David,Esteban Garc√≠a,940,M1,dona,00:15:03,06:44:10,Club tennis Seva,Seva,256,05:59:21,04:16:51,07:08:24,10:54:59
+635,Otto,Rull DomÌnguez,389,M1,home,00:15:03,06:43:55,0,Sant Andreu de la Barca,311,06:48:19,04:00:04,07:09:42,10:54:44
+636,Marta,Piella Vilardell,361,M1,dona,00:15:03,06:44:05,0,Santa EugËnia de Berga,255,06:02:52,--:--:--,07:17:23,10:54:54
+637,David,Esteban GarcÌa,940,M1,dona,00:15:03,06:44:10,Club tennis Seva,Seva,256,05:59:21,04:16:51,07:08:24,10:54:59
 638,Josep Antoni,Gallifa Muns,603,M1,home,00:15:03,06:44:13,Club tennis Seva,Seva,312,05:59:27,04:16:55,07:08:22,10:55:02
-639,Mart√≠,Prat Guitart,1064,M1,home,00:15:05,06:45:59,0,Manlleu,313,06:03:22,04:28:35,07:39:35,10:56:48
-640,N√∫ria,Jan√© Baulenas,1063,M1,dona,00:15:05,06:45:59,0,Manlleu,257,06:03:17,04:28:57,07:39:43,10:56:48
-641,Bet,Zanini Traserra,757,M1,dona,00:15:07,06:46:56,0,Les Masies de Voltreg√†,258,07:35:43,04:26:32,07:34:00,10:57:45
-642,Albert,Zanini Rabat,754,M1,home,00:15:07,06:46:59,0,Les Masies de Vontreg√†,314,07:35:34,04:26:36,07:33:15,10:57:48
+639,MartÌ,Prat Guitart,1064,M1,home,00:15:05,06:45:59,0,Manlleu,313,06:03:22,04:28:35,07:39:35,10:56:48
+640,N˙ria,JanÈ Baulenas,1063,M1,dona,00:15:05,06:45:59,0,Manlleu,257,06:03:17,04:28:57,07:39:43,10:56:48
+641,Bet,Zanini Traserra,757,M1,dona,00:15:07,06:46:56,0,Les Masies de Voltreg‡,258,07:35:43,04:26:32,07:34:00,10:57:45
+642,Albert,Zanini Rabat,754,M1,home,00:15:07,06:46:59,0,Les Masies de Vontreg‡,314,07:35:34,04:26:36,07:33:15,10:57:48
 643,Albert,Barniol,1158,M1,home,00:15:07,06:47:12,-,-,315,07:35:47,04:26:10,07:33:45,10:58:01
 644,Nati,Baltanas,1160,M1,dona,00:15:07,06:47:25,-,-,259,07:35:40,04:26:06,07:33:54,10:58:14
 645,Paula,Barniol,1159,M1,dona,00:15:08,06:47:33,-,-,260,07:35:36,04:26:26,07:33:55,10:58:22
-646,Juan,Contreras Coronado,456,M1,home,00:15:08,06:47:42,US Sabadell,Barber√† del Vall√®s,316,06:35:45,04:10:30,07:13:14,10:58:31
-647,Laura,Monta√±a Custodi,657,M1,dona,00:15:09,06:48:20,0,Igualada,261,06:03:11,04:01:26,07:21:12,10:59:09
-648,Silvia,Deig Garcia,809,M1,dona,00:15:09,06:48:40,MontalTreck,Matar√≥,262,06:35:25,04:10:36,07:13:29,10:59:29
+646,Juan,Contreras Coronado,456,M1,home,00:15:08,06:47:42,US Sabadell,Barber‡ del VallËs,316,06:35:45,04:10:30,07:13:14,10:58:31
+647,Laura,MontaÒa Custodi,657,M1,dona,00:15:09,06:48:20,0,Igualada,261,06:03:11,04:01:26,07:21:12,10:59:09
+648,Silvia,Deig Garcia,809,M1,dona,00:15:09,06:48:40,MontalTreck,MatarÛ,262,06:35:25,04:10:36,07:13:29,10:59:29
 649,Gloria,Traserra Roca,759,M1,dona,00:15:09,06:48:51,0,Les Masies de Voltrega,263,07:35:39,04:26:41,07:34:15,10:59:40
 650,Eva,Garcia Toledano,819,M1,dona,00:15:09,06:48:55,0,Barcelona,264,06:35:15,04:11:13,07:14:10,10:59:44
-651,Ma.carme,Sa√±e Pladevall,905,M2,dona,00:15:10,06:49:09,CET,taradell,21,05:35:09,04:22:05,07:28:08,10:59:58
+651,Ma.carme,SaÒe Pladevall,905,M2,dona,00:15:10,06:49:09,CET,taradell,21,05:35:09,04:22:05,07:28:08,10:59:58
 652,Maria,Ferrer Ferrer,331,M1,dona,00:15:10,06:49:39,0,Taradell,265,05:34:46,04:24:53,07:19:43,11:00:28
 653,Rafael,De Haan,654,M1,home,00:15:11,06:50:09,0,El Brull,317,06:36:27,04:33:43,07:43:40,11:00:58
-654,Antonio,Cortes Fernandez,1061,M1,home,00:15:13,06:51:09,0,Parets del Vall√©s,318,07:11:21,04:37:02,07:38:45,11:01:58
-655,Emilio,Gallego Quintana,698,M1,home,00:15:13,06:51:12,0,Parets del Vall√®s,319,07:11:01,04:37:25,07:39:22,11:02:01
+654,Antonio,Cortes Fernandez,1061,M1,home,00:15:13,06:51:09,0,Parets del VallÈs,318,07:11:21,04:37:02,07:38:45,11:01:58
+655,Emilio,Gallego Quintana,698,M1,home,00:15:13,06:51:12,0,Parets del VallËs,319,07:11:01,04:37:25,07:39:22,11:02:01
 656,Sonia,Casiano Tejada,699,M1,dona,00:15:13,06:51:21,0,Parets del Valles,266,07:11:03,04:36:57,07:39:10,11:02:10
 657,Pedro,Lara Ponce,877,M1,home,00:15:13,06:51:23,C.A PARETS,Parets del Valles,320,07:10:55,04:36:08,07:38:41,11:02:12
 658,Elena,Martinez Navarro,1062,M1,dona,00:15:13,06:51:29,0,Parets del Valles,267,07:11:20,04:36:46,07:38:59,11:02:18
@@ -664,145 +664,145 @@ POSICI√ìN,NOMBRE,apellidos,dorsal,cat,sexo,ritmo,dif 1o,club,poblaci√≥n,poscat,A
 663,Silvia,Camps Font,796,M1,dona,00:15:14,06:52:26,0,Vic,270,05:42:14,04:13:45,07:34:09,11:03:15
 664,Cristina,Simon Robles,46,M1,dona,00:15:15,06:52:38,0,CENTELLES,271,06:37:32,04:45:00,08:16:42,11:03:27
 665,Anna,Atero Amores,838,M1,dona,00:15:15,06:52:44,0,Tona,272,05:41:39,04:14:24,07:34:52,11:03:33
-666,Marti,Jofre,909,M1,home,00:15:15,06:52:53,0,Sant Cugat del Vall√®s,323,07:34:16,04:24:36,07:48:43,11:03:42
+666,Marti,Jofre,909,M1,home,00:15:15,06:52:53,0,Sant Cugat del VallËs,323,07:34:16,04:24:36,07:48:43,11:03:42
 667,Diego,Blanco Rubio,972,M1,home,00:15:15,06:52:55,0,Barcelona,324,07:34:20,04:24:27,07:48:50,11:03:44
 668,Aida,Blancafort Puig,552,M1,dona,00:15:17,06:54:05,0,Vic,273,05:42:26,04:21:09,07:34:14,11:04:54
-669,Marina,Arumi Calzada,380,M1,dona,00:15:18,06:55:09,0,Santa Eug√®nia de Berga,274,05:41:27,04:21:50,07:35:02,11:05:58
-670,Mireia,F√†bregas Plana,381,M1,dona,00:15:18,06:55:14,0,Vic,275,05:41:26,04:22:01,07:34:56,11:06:03
-671,Cristina,Font Company√≥,383,M1,dona,00:15:19,06:55:29,0,Tona,276,05:41:29,04:21:55,07:34:48,11:06:18
+669,Marina,Arumi Calzada,380,M1,dona,00:15:18,06:55:09,0,Santa EugËnia de Berga,274,05:41:27,04:21:50,07:35:02,11:05:58
+670,Mireia,F‡bregas Plana,381,M1,dona,00:15:18,06:55:14,0,Vic,275,05:41:26,04:22:01,07:34:56,11:06:03
+671,Cristina,Font CompanyÛ,383,M1,dona,00:15:19,06:55:29,0,Tona,276,05:41:29,04:21:55,07:34:48,11:06:18
 672,Xavier,Codina Blancafort,382,M1,home,00:15:19,06:55:29,0,Tona,325,05:41:15,04:22:04,07:35:02,11:06:18
 673,Pere,Visa Torres,946,M1,home,00:15:23,06:58:50,0,Barcelona,326,07:07:19,04:38:37,07:41:48,11:09:39
 674,Jordi,Ferrer Sancerni,1069,M1,home,00:15:23,06:59:03,0,barcelona,327,05:37:18,04:05:28,07:14:44,11:09:52
 675,Anna,Visa Moreno,947,M1,dona,00:15:23,06:59:04,0,Sabadell,277,07:07:13,04:38:39,07:41:47,11:09:53
 676,Eloy,Cuellar Delgado,945,M1,home,00:15:24,06:59:12,0,Sabadell,328,07:07:13,04:38:32,07:41:41,11:10:01
-677,Daniel,Llad√≥ Trigo,587,M1,home,00:15:24,06:59:13,0,Vic,329,06:33:32,04:24:55,07:47:07,11:10:02
+677,Daniel,LladÛ Trigo,587,M1,home,00:15:24,06:59:13,0,Vic,329,06:33:32,04:24:55,07:47:07,11:10:02
 678,Antonio,Titos Gonzalez,1117,M1,home,00:15:25,06:59:51,0,vic,330,06:53:24,05:57:23,08:50:48,11:10:40
 679,Eva,Garriga,923,M1,dona,00:15:25,07:00:08,0,Alella,278,07:09:54,04:35:40,07:40:06,11:10:57
 680,Carme,Jimenez Diaz,924,M1,dona,00:15:25,07:00:17,0,Alella,279,07:09:53,04:35:01,07:40:02,11:11:06
 681,Anna,Garriga Ylla,175,M1,dona,00:15:25,07:00:19,CE Calldetenes,Folgueroles,280,06:25:31,04:26:53,07:39:13,11:11:08
-682,Gisela,Genar√≥ Sellabona,173,M1,dona,00:15:25,07:00:25,Ce Calldetenes,Folgueroles,281,06:25:29,04:26:52,07:39:15,11:11:14
-683,Luis,D√≠az Gomez,861,M1,home,00:15:25,07:00:31,Caminantes no...,Santa Coloma de Gramenet,331,06:01:56,04:24:42,07:30:22,11:11:20
+682,Gisela,GenarÛ Sellabona,173,M1,dona,00:15:25,07:00:25,Ce Calldetenes,Folgueroles,281,06:25:29,04:26:52,07:39:15,11:11:14
+683,Luis,DÌaz Gomez,861,M1,home,00:15:25,07:00:31,Caminantes no...,Santa Coloma de Gramenet,331,06:01:56,04:24:42,07:30:22,11:11:20
 684,Jose Manuel,Marquez Rodriguez,853,M1,home,00:15:26,07:00:44,0,Sant Cugat del Valles,332,06:01:51,04:22:25,07:30:36,11:11:33
-685,Carmen,Fern√°ndez Romero,105,M1,dona,00:15:27,07:01:18,0,Centelles,282,06:29:17,04:16:30,07:30:35,11:12:07
+685,Carmen,Fern·ndez Romero,105,M1,dona,00:15:27,07:01:18,0,Centelles,282,06:29:17,04:16:30,07:30:35,11:12:07
 686,Osvaldo,Castillo Miralles,103,M2,home,00:15:27,07:01:41,0,Centelles,51,06:28:46,04:16:57,07:31:03,11:12:30
 687,Xavier,Vila Coca,630,M1,home,00:15:32,07:05:07,junior,sant cugat del valles,333,06:02:03,04:22:10,07:30:29,11:15:56
 688,Ramon,Roca Salat,696,M1,home,00:15:32,07:05:12,0,Valldoreix,334,06:01:51,04:22:15,07:30:22,11:16:01
 689,Carme,Bernaus Romero,256,M1,dona,00:15:33,07:06:18,Assoc.Esports de Muntanya de Capellades,Capellades,283,06:46:37,04:23:50,07:44:16,11:17:07
-690,Elisabet,Estrada I Armengol,217,M1,dona,00:15:34,07:06:23,AGRUPACI√ì CIENT√çFICO-EXCURSIONISTA DE MATAR√ì,MATAR√ì,284,06:46:41,04:23:50,07:43:57,11:17:12
-691,C√®sar,Falc√≥ Barber,265,M1,home,00:15:34,07:06:41,AGRUPACI√ì CIENTIFICO EXCURSIONISTA DE MATAR√ì,matar√≥,335,06:46:41,04:23:54,07:44:00,11:17:30
+690,Elisabet,Estrada I Armengol,217,M1,dona,00:15:34,07:06:23,AGRUPACI” CIENTÕFICO-EXCURSIONISTA DE MATAR”,MATAR”,284,06:46:41,04:23:50,07:43:57,11:17:12
+691,CËsar,FalcÛ Barber,265,M1,home,00:15:34,07:06:41,AGRUPACI” CIENTIFICO EXCURSIONISTA DE MATAR”,matarÛ,335,06:46:41,04:23:54,07:44:00,11:17:30
 692,Meritxell,Verdaguer Vilageliu,364,M1,dona,00:15:35,07:07:09,CE Olot,Barcelona,285,06:56:42,05:07:06,08:16:20,11:17:58
-693,Gl√≤ria,Padr√≥s Jolis,355,M1,dona,00:15:35,07:07:15,0,Torell√≥,286,06:56:40,05:06:19,08:16:25,11:18:04
-694,Juli√•,Viv√≥ Pont,503,M1,home,00:15:39,07:10:11,0,Sant Pere de vilamajor,336,06:20:00,04:05:48,07:03:49,11:21:00
-695,To√±y,Romero Vaz,120,M1,dona,00:15:39,07:10:26,Sant Quirze del valles,Terrassa,287,06:27:03,04:21:59,07:50:08,11:21:15
-696,Salom√©,Ortiz S√°nchez,243,M1,dona,00:15:39,07:10:38,Centro excursionista catalu√±a,Viladecavalls,288,06:27:05,04:20:24,07:50:13,11:21:27
-697,Manuela,Ram√≠rez Galvez,137,M1,dona,00:15:40,07:10:41,Sant Quirze del valles,Sant Quirze del valles,289,06:27:12,04:20:33,07:50:12,11:21:30
-698,Maxima,Recuero Corrales,124,M1,dona,00:15:41,07:12:01,Excursionistas de Catalu√±a,Terrassa,290,06:27:22,04:21:44,07:49:53,11:22:50
+693,GlÚria,PadrÛs Jolis,355,M1,dona,00:15:35,07:07:15,0,TorellÛ,286,06:56:40,05:06:19,08:16:25,11:18:04
+694,JuliÂ,VivÛ Pont,503,M1,home,00:15:39,07:10:11,0,Sant Pere de vilamajor,336,06:20:00,04:05:48,07:03:49,11:21:00
+695,ToÒy,Romero Vaz,120,M1,dona,00:15:39,07:10:26,Sant Quirze del valles,Terrassa,287,06:27:03,04:21:59,07:50:08,11:21:15
+696,SalomÈ,Ortiz S·nchez,243,M1,dona,00:15:39,07:10:38,Centro excursionista cataluÒa,Viladecavalls,288,06:27:05,04:20:24,07:50:13,11:21:27
+697,Manuela,RamÌrez Galvez,137,M1,dona,00:15:40,07:10:41,Sant Quirze del valles,Sant Quirze del valles,289,06:27:12,04:20:33,07:50:12,11:21:30
+698,Maxima,Recuero Corrales,124,M1,dona,00:15:41,07:12:01,Excursionistas de CataluÒa,Terrassa,290,06:27:22,04:21:44,07:49:53,11:22:50
 699,Laura,Aguilera Perez,444,M1,dona,00:15:42,07:12:28,0,Rellinars,291,06:27:09,04:20:25,07:50:17,11:23:17
 700,Eva,Portabella,73,M1,dona,00:15:42,07:12:33,0,Centelles,292,06:27:13,04:22:22,07:50:06,11:23:22
 701,Judith,Recuero Westra,122,M1,dona,00:15:43,07:13:30,0,TERRASSA,293,06:27:16,04:22:32,07:50:21,11:24:19
 702,Toni,Garcia Moyano,121,M1,home,00:15:43,07:13:30,0,Terrassa,337,06:27:11,04:22:35,07:50:27,11:24:19
-703,Josep,Font Olive,542,M1,home,00:15:47,07:16:03,0,Sant Sadurni d¬¥Anoia,338,06:30:54,04:27:56,07:59:57,11:26:52
+703,Josep,Font Olive,542,M1,home,00:15:47,07:16:03,0,Sant Sadurni d¥Anoia,338,06:30:54,04:27:56,07:59:57,11:26:52
 704,Ramon,Duch Mestre,406,M1,home,00:15:47,07:16:12,CENTRE EXCTA QUERALT,Santa Coloma de Queralt,339,06:30:41,04:28:09,08:00:38,11:27:01
-705,Elena,Urpi Bonell,545,M1,dona,00:15:47,07:16:13,0,Sant Sadurni d¬íAnoia,294,06:30:52,04:28:30,08:00:04,11:27:02
+705,Elena,Urpi Bonell,545,M1,dona,00:15:47,07:16:13,0,Sant Sadurni díAnoia,294,06:30:52,04:28:30,08:00:04,11:27:02
 706,M.antonia,Altarriba Gorchs,883,M1,dona,00:15:49,07:17:21,0,Vic,295,05:50:00,04:50:40,08:01:31,11:28:10
-707,Mireia,Torres S√°nchez,109,M1,dona,00:15:49,07:17:29,cec,Barcelona,296,06:46:18,04:18:53,07:39:15,11:28:18
-708,Jes√∫s,P√©rez Pall√†s,108,M1,home,00:15:49,07:17:31,cec,Barcelona,340,06:46:12,04:18:56,07:39:19,11:28:20
+707,Mireia,Torres S·nchez,109,M1,dona,00:15:49,07:17:29,cec,Barcelona,296,06:46:18,04:18:53,07:39:15,11:28:18
+708,Jes˙s,PÈrez Pall‡s,108,M1,home,00:15:49,07:17:31,cec,Barcelona,340,06:46:12,04:18:56,07:39:19,11:28:20
 709,Carme,Vilarrasa Rovira,882,M1,dona,00:15:49,07:17:32,0,Seva,297,05:49:54,04:50:59,08:00:48,11:28:21
-710,Merc√®,Prat Furriol,1013,M1,dona,00:15:49,07:17:34,0,Sta. Eug√®nia de Berga,298,05:49:57,04:50:46,08:00:49,11:28:23
+710,MercË,Prat Furriol,1013,M1,dona,00:15:49,07:17:34,0,Sta. EugËnia de Berga,298,05:49:57,04:50:46,08:00:49,11:28:23
 711,Montserrat,Colom Comas,615,M1,dona,00:15:50,07:17:58,0,Taradell,299,05:56:45,04:27:15,07:38:05,11:28:47
-712,Mar√≠a Jos√©,Cabello Fern√°ndez,12,M1,dona,00:15:51,07:18:51,0,Barber√° del Vall√©s,300,06:21:00,04:28:43,07:51:07,11:29:40
-713,Cristina,Jord√†,334,M1,dona,00:15:53,07:20:08,0,Seva,301,06:56:49,05:05:54,08:16:34,11:30:57
+712,MarÌa JosÈ,Cabello Fern·ndez,12,M1,dona,00:15:51,07:18:51,0,Barber· del VallÈs,300,06:21:00,04:28:43,07:51:07,11:29:40
+713,Cristina,Jord‡,334,M1,dona,00:15:53,07:20:08,0,Seva,301,06:56:49,05:05:54,08:16:34,11:30:57
 714,Ariadna,Fabre,333,M1,dona,00:15:53,07:20:10,0,Vic,302,06:56:52,05:05:36,08:16:29,11:30:59
 715,Teresa,Gual Mas,436,M1,dona,00:15:55,07:22:08,Centre Excursionista Queralt,Igualada,303,06:31:21,04:29:09,08:00:30,11:32:57
-716,Hug,Gabarr√≥ Marsol,473,M1,home,00:15:56,07:22:58,0,Igualada,341,06:30:45,04:28:16,08:00:29,11:33:47
+716,Hug,GabarrÛ Marsol,473,M1,home,00:15:56,07:22:58,0,Igualada,341,06:30:45,04:28:16,08:00:29,11:33:47
 717,Cristina,Bau Parareda,893,M1,dona,00:15:57,07:23:06,0,Torello,304,06:09:21,04:49:51,08:02:31,11:33:55
-718,Raimond,Ara√±√≥ G√ºell,593,M1,home,00:15:57,07:23:06,0,Centelles,342,06:46:30,04:55:42,08:06:10,11:33:55
+718,Raimond,AraÒÛ G¸ell,593,M1,home,00:15:57,07:23:06,0,Centelles,342,06:46:30,04:55:42,08:06:10,11:33:55
 719,Pere,Roca Puig,596,M1,home,00:15:57,07:23:18,C. Excursionista Centelles,Centelles,343,06:46:23,04:41:05,08:06:15,11:34:07
-720,Concepci√≥,Prat Palomares,309,M2,dona,00:15:58,07:24:26,CE TARADELL,Taradell,22,06:14:02,04:17:03,07:49:58,11:35:15
+720,ConcepciÛ,Prat Palomares,309,M2,dona,00:15:58,07:24:26,CE TARADELL,Taradell,22,06:14:02,04:17:03,07:49:58,11:35:15
 721,Marta,Crusat Enrich,1144,M1,dona,00:15:59,07:24:31,0,Collbato,305,06:14:08,04:16:44,07:50:24,11:35:20
-722,Marc,Par√©s Mayol,818,M1,home,00:15:59,07:25:03,0,Tossa De Mar,344,06:13:59,04:18:20,07:50:03,11:35:52
-723,Sara,Jord√°n Lucas,706,M1,dona,00:15:59,07:25:03,0,Barcelona,306,06:13:54,04:17:34,07:50:45,11:35:52
+722,Marc,ParÈs Mayol,818,M1,home,00:15:59,07:25:03,0,Tossa De Mar,344,06:13:59,04:18:20,07:50:03,11:35:52
+723,Sara,Jord·n Lucas,706,M1,dona,00:15:59,07:25:03,0,Barcelona,306,06:13:54,04:17:34,07:50:45,11:35:52
 724,Maria Cinta,Diaz Albero,705,M1,dona,00:15:59,07:25:10,0,Susqueda,307,06:13:56,04:20:31,07:42:03,11:35:59
 725,Xavier,Moreno Devesa,704,M1,home,00:16:00,07:25:16,0,Susqueda,345,06:13:55,04:20:28,07:42:18,11:36:05
 726,Xavier,Capdevila Carrera,849,M1,home,00:16:04,07:28:40,CQUIE,Puig-reig,346,06:14:56,04:32:55,07:59:32,11:39:29
-727,Jordi,Colom√© Roqueta,1031,M1,home,00:16:12,07:34:05,0,El Brull,347,06:33:19,04:38:21,08:03:14,11:44:54
-728,Xavier,Colom√© Roqueta,1032,M1,home,00:16:12,07:34:07,0,El Brull,348,06:33:24,04:59:46,07:45:50,11:44:56
+727,Jordi,ColomÈ Roqueta,1031,M1,home,00:16:12,07:34:05,0,El Brull,347,06:33:19,04:38:21,08:03:14,11:44:54
+728,Xavier,ColomÈ Roqueta,1032,M1,home,00:16:12,07:34:07,0,El Brull,348,06:33:24,04:59:46,07:45:50,11:44:56
 729,Anabel,Gala Mesa,1029,M1,dona,00:16:12,07:34:10,0,EL Brull,308,06:33:28,04:45:39,07:45:51,11:44:59
 730,Mina,Figueras Suangsomboon,1028,M1,dona,00:16:12,07:34:22,0,El Brull,309,06:33:22,04:38:38,08:03:39,11:45:11
-731,Eulalia,Colom√© Roqueta,1030,M1,dona,00:16:13,07:35:07,0,El Brull,310,06:33:23,04:48:31,08:04:02,11:45:56
-732,Silvia,Porlan Garc√≠a,154,M1,dona,00:16:14,07:35:45,0,Santa Perp√©tua De Mogoda,311,05:53:43,04:22:56,07:38:41,11:46:34
-733,Jorge Manuel,Reyes Laguna,157,M1,home,00:16:14,07:35:52,0,Santa Perp√©tua De Mogoda,349,05:53:44,04:22:37,07:38:34,11:46:41
+731,Eulalia,ColomÈ Roqueta,1030,M1,dona,00:16:13,07:35:07,0,El Brull,310,06:33:23,04:48:31,08:04:02,11:45:56
+732,Silvia,Porlan GarcÌa,154,M1,dona,00:16:14,07:35:45,0,Santa PerpÈtua De Mogoda,311,05:53:43,04:22:56,07:38:41,11:46:34
+733,Jorge Manuel,Reyes Laguna,157,M1,home,00:16:14,07:35:52,0,Santa PerpÈtua De Mogoda,349,05:53:44,04:22:37,07:38:34,11:46:41
 734,Maite,Prats Torras,779,M1,dona,00:16:15,07:36:19,0,AIGUAFREDA,312,05:47:38,04:36:10,07:54:38,11:47:08
-735,Montserrat,Niub√≥ F√†brega,778,M1,dona,00:16:15,07:36:32,0,aiguafreda,313,05:47:20,04:36:45,07:54:51,11:47:21
-736,Joaquim,Roig Soberanas,666,M1,home,00:16:16,07:36:59,0,Sant Sadurn√≠ d'Anoia,350,06:31:01,04:31:41,08:00:24,11:47:48
-737,Lluisa,Vila Regard,742,M1,dona,00:16:17,07:38:11,Club Muntanyenc Sant Cugat,Sant Cugat del Vall√®s,314,06:23:08,04:24:10,07:51:43,11:49:00
-738,Santiago,Formiguera Sala,743,M1,home,00:16:18,07:38:44,Club Muntanyenc Sant Cugat,Sant Cugat del Vall√®s,351,06:23:04,04:24:18,07:51:30,11:49:33
+735,Montserrat,NiubÛ F‡brega,778,M1,dona,00:16:15,07:36:32,0,aiguafreda,313,05:47:20,04:36:45,07:54:51,11:47:21
+736,Joaquim,Roig Soberanas,666,M1,home,00:16:16,07:36:59,0,Sant SadurnÌ d'Anoia,350,06:31:01,04:31:41,08:00:24,11:47:48
+737,Lluisa,Vila Regard,742,M1,dona,00:16:17,07:38:11,Club Muntanyenc Sant Cugat,Sant Cugat del VallËs,314,06:23:08,04:24:10,07:51:43,11:49:00
+738,Santiago,Formiguera Sala,743,M1,home,00:16:18,07:38:44,Club Muntanyenc Sant Cugat,Sant Cugat del VallËs,351,06:23:04,04:24:18,07:51:30,11:49:33
 739,Jordi,Cervello Pages,387,M1,home,00:16:25,07:43:23,0,SABADELL,352,06:02:53,04:42:29,08:12:28,11:54:12
 740,Artur,Serra Salvat,369,M1,home,00:16:25,07:43:23,0,Sabadell,353,06:02:49,04:42:29,08:12:29,11:54:12
 741,Marta,Rius Soler,267,M1,dona,00:16:33,07:49:21,0,Taradell,315,06:22:11,04:22:01,08:03:48,12:00:10
 742,Neus,Sunyer Mingo,270,M1,dona,00:16:33,07:49:35,0,Sallent,316,06:22:05,04:22:12,08:03:57,12:00:24
 743,Aida,Reig Masramon,344,M1,dona,00:16:33,07:49:45,0,roda de ter,317,06:22:00,04:22:07,08:04:05,12:00:34
 744,Erica,Gost Sanchez,145,M1,dona,00:16:40,07:54:52,0,Santa Eugenia de Berga,318,05:51:33,04:24:28,08:10:02,12:05:41
-745,Naiara,Puchades,144,M1,dona,00:16:41,07:55:21,0,Santa Eug√®nia de berga,319,05:50:43,04:25:18,08:09:59,12:06:10
-746,Elisabet,Maideu S√°nchez,367,M1,dona,00:16:41,07:55:35,0,Seva,320,05:51:02,04:25:06,08:10:32,12:06:24
-747,Marta,Nu√±ez Raurell,146,M1,dona,00:16:42,07:55:55,0,santa eugenia de berga,321,05:50:37,04:25:19,08:10:14,12:06:44
-748,Marta,Dav√≠ Pous,335,M1,dona,00:16:52,08:03:10,0,Sant Miquel de Baleny√† (Seva),322,06:00:09,04:54:25,08:22:26,12:13:59
+745,Naiara,Puchades,144,M1,dona,00:16:41,07:55:21,0,Santa EugËnia de berga,319,05:50:43,04:25:18,08:09:59,12:06:10
+746,Elisabet,Maideu S·nchez,367,M1,dona,00:16:41,07:55:35,0,Seva,320,05:51:02,04:25:06,08:10:32,12:06:24
+747,Marta,NuÒez Raurell,146,M1,dona,00:16:42,07:55:55,0,santa eugenia de berga,321,05:50:37,04:25:19,08:10:14,12:06:44
+748,Marta,DavÌ Pous,335,M1,dona,00:16:52,08:03:10,0,Sant Miquel de Baleny‡ (Seva),322,06:00:09,04:54:25,08:22:26,12:13:59
 749,Mireia,Munmany Muntal,338,M1,dona,00:16:52,08:03:31,0,Taradell,323,05:59:53,04:54:42,08:22:38,12:14:20
 750,Montserrat,Berenguer Safont,1116,M1,dona,00:16:58,08:07:35,centre quitxalla excursionsita,Puig-reig,324,05:55:08,04:52:02,08:19:32,12:18:24
-751,Ramon,Codina,676,M2,home,00:19:32,09:59:03,Taradell,Sta.Eul√†lia de Riuprimer,52,--:--:--,08:42:53,11:15:46,14:09:52
-752,Nil,Ramirez Ti√≥,1128,M1,home,00:19:32,09:59:13,C.Excursionista Vic,Vic,354,--:--:--,08:44:40,11:16:22,14:10:02
+751,Ramon,Codina,676,M2,home,00:19:32,09:59:03,Taradell,Sta.Eul‡lia de Riuprimer,52,--:--:--,08:42:53,11:15:46,14:09:52
+752,Nil,Ramirez TiÛ,1128,M1,home,00:19:32,09:59:13,C.Excursionista Vic,Vic,354,--:--:--,08:44:40,11:16:22,14:10:02
 753,Aniol,Morera Tio,1129,M1,home,00:19:32,09:59:16,0,Vic,355,--:--:--,08:45:57,11:16:11,14:10:05
-754,Llu√≠s,Codina,678,M2,home,00:19:32,09:59:26,Taradell,Sta.Eul√†lia de Riuprimer,53,--:--:--,08:43:25,11:16:02,14:10:15
+754,LluÌs,Codina,678,M2,home,00:19:32,09:59:26,Taradell,Sta.Eul‡lia de Riuprimer,53,--:--:--,08:43:25,11:16:02,14:10:15
 755,Mireia,Roca  Vila,1068,M1,dona,-,-,0,santa coloma de fernes,325,16:40:53,-06:00:26,-02:58:28,--:--:--
 756,Bertrand,Vinit,772,M1,home,-,-,0,Barcelona,356,16:54:41,-06:30:17,-03:30:33,--:--:--
-757,M¬™ Carme,Baqu√© Capdevila,935,M2,dona,-,-,C.E.Taradell,Taradell,23,16:35:19,-06:41:53,-03:40:39,--:--:--
+757,M™ Carme,BaquÈ Capdevila,935,M2,dona,-,-,C.E.Taradell,Taradell,23,16:35:19,-06:41:53,-03:40:39,--:--:--
 758,Albert,Vilademunt Ordeig,528,M1,home,-,-,0,VIC,357,06:14:17,02:57:23,05:10:13,--:--:--
-759,Maria Teresa,Abellan Perez,609,M1,dona,-,-,Centre Excursionista Lloren√ßa,Sabadell,326,07:03:00,03:06:01,05:31:27,--:--:--
-760,Rafael,Gonz√°lez Cortes,348,M1,home,-,-,Centre excursionista Castellar,Castellar del valles,358,07:02:48,03:06:05,05:31:39,--:--:--
+759,Maria Teresa,Abellan Perez,609,M1,dona,-,-,Centre Excursionista LlorenÁa,Sabadell,326,07:03:00,03:06:01,05:31:27,--:--:--
+760,Rafael,Gonz·lez Cortes,348,M1,home,-,-,Centre excursionista Castellar,Castellar del valles,358,07:02:48,03:06:05,05:31:39,--:--:--
 761,Montse,Codony Arques,1087,M2,dona,-,-,0,Taradell,24,07:04:12,03:16:34,05:48:28,--:--:--
 762,Joan Ramon,Surritas Fernandez,1088,M2,home,-,-,0,Vic,54,07:04:04,03:16:46,05:48:30,--:--:--
 763,Isabel,Codony Arques,1089,M2,dona,-,-,0,Vic,25,07:03:58,03:16:58,05:48:37,--:--:--
 764,Ramon,Rovira Collell,646,M1,home,-,-,LLUNA PLENA,Vic,359,06:59:00,03:27:50,05:50:13,--:--:--
 765,Marc,Gort Gaspa,645,M1,home,-,-,0,Vic,360,06:58:52,03:27:53,05:50:19,--:--:--
 766,Pedro,Leon Torre,1050,M1,home,-,-,0,Sant andreu de Llaveneras,361,06:29:14,03:11:38,05:50:57,--:--:--
-767,Joan,Rull Camps,834,M1,home,-,-,Club excursionista Sant Vicen√ß,Sant Vicen√ß dels Horts,362,07:13:26,03:30:02,05:51:04,--:--:--
-768,Roc,Arisa Alemany,329,M1,home,-,-,0,Sant Cugat del Vall√©s,363,07:31:38,03:04:50,05:57:40,--:--:--
-769,N√∫ria,Padrisa Rovira,634,M1,dona,-,-,GEMI,Moi√†,327,06:23:18,03:27:23,05:58:18,--:--:--
-770,Anna,Salvans Santigosa,632,M1,dona,-,-,0,Moi√†,328,06:23:11,03:27:32,05:58:23,--:--:--
+767,Joan,Rull Camps,834,M1,home,-,-,Club excursionista Sant VicenÁ,Sant VicenÁ dels Horts,362,07:13:26,03:30:02,05:51:04,--:--:--
+768,Roc,Arisa Alemany,329,M1,home,-,-,0,Sant Cugat del VallÈs,363,07:31:38,03:04:50,05:57:40,--:--:--
+769,N˙ria,Padrisa Rovira,634,M1,dona,-,-,GEMI,Moi‡,327,06:23:18,03:27:23,05:58:18,--:--:--
+770,Anna,Salvans Santigosa,632,M1,dona,-,-,0,Moi‡,328,06:23:11,03:27:32,05:58:23,--:--:--
 771,Eduard,Lopez Muyo,429,M1,home,-,-,Club Excursionista Madteam,Sant Pere de Vilamajor,364,06:37:06,--:--:--,06:00:45,--:--:--
 772,Sandra,Micot Fernandez,100,M1,dona,-,-,CFK,Barcelona,329,07:05:59,03:40:51,06:03:17,--:--:--
-773,Eva,Berenguer Hern√°ndez,350,M1,dona,-,-,Les nenes trail,Girona,330,06:58:08,03:50:12,06:06:20,--:--:--
+773,Eva,Berenguer Hern·ndez,350,M1,dona,-,-,Les nenes trail,Girona,330,06:58:08,03:50:12,06:06:20,--:--:--
 774,Georgina,Alberch Freixa,964,M1,dona,-,-,0,Manlleu,331,06:50:39,03:42:54,06:06:46,--:--:--
-775,Gemma,Franquesa Val√®ncia,965,M1,dona,-,-,0,Manlleu,332,06:50:40,03:42:24,06:06:48,--:--:--
+775,Gemma,Franquesa ValËncia,965,M1,dona,-,-,0,Manlleu,332,06:50:40,03:42:24,06:06:48,--:--:--
 776,Olga,Carro Vilella,967,M1,dona,-,-,0,Manlleu,333,06:50:35,03:42:25,06:06:49,--:--:--
 777,Aitor,Fernandez Burguillo,805,M1,home,-,-,0,Vic,365,06:48:12,03:30:49,06:08:24,--:--:--
 778,Jofre,Cedo Cuenca,441,M2,home,-,-,inovit,taredell,55,06:20:29,03:44:16,06:11:43,--:--:--
-779,Berta,Almat√≥ Furriols,794,M1,dona,-,-,Bestioles team,Vic,334,06:13:19,03:36:07,06:13:07,--:--:--
-780,Pau,Pin√≥s Berg√©,795,M1,home,-,-,Bestioles team,Ponts,366,06:13:31,03:36:39,06:13:21,--:--:--
+779,Berta,AlmatÛ Furriols,794,M1,dona,-,-,Bestioles team,Vic,334,06:13:19,03:36:07,06:13:07,--:--:--
+780,Pau,PinÛs BergÈ,795,M1,home,-,-,Bestioles team,Ponts,366,06:13:31,03:36:39,06:13:21,--:--:--
 781,Marta,Sabata Coromina,159,M1,dona,-,-,0,Vic,335,06:16:46,03:41:53,06:17:18,--:--:--
 782,Adela,Ferrandez Crusellas,160,M1,dona,-,-,0,Girona,336,06:16:37,03:42:07,06:17:25,--:--:--
-783,Montserrat,Vilaplana Bl√†zquez,472,M1,dona,-,-,No,Folgueroles,337,06:07:37,03:46:11,06:19:58,--:--:--
+783,Montserrat,Vilaplana Bl‡zquez,472,M1,dona,-,-,No,Folgueroles,337,06:07:37,03:46:11,06:19:58,--:--:--
 784,Xavi,Abelenda Serramitjana,1053,M1,home,-,-,0,Banyoles,367,06:05:35,03:46:38,06:20:29,--:--:--
-785,H√©ctor,Badia Auret,493,M1,home,-,-,0,SEVA,368,06:05:24,03:46:41,06:20:34,--:--:--
+785,HÈctor,Badia Auret,493,M1,home,-,-,0,SEVA,368,06:05:24,03:46:41,06:20:34,--:--:--
 786,Andreu,Badia Aixut,517,M1,home,-,-,Club Excursionista de Seva,Seva,369,06:05:23,03:46:45,06:20:38,--:--:--
 787,Marta,Soler Gallach,53,M1,dona,-,-,0,SANT JULIA DE VILATORTA,338,06:06:46,03:48:13,06:20:45,--:--:--
 788,Claudia,Guell Serrat,518,M1,dona,-,-,0,OLOT,339,06:05:20,03:46:57,06:20:54,--:--:--
-789,Dani,Febrer Hurtado,312,M1,home,-,-,Centre Excursionista Torell√≥,Hostalets de Baleny√†,370,06:15:00,03:44:01,06:21:53,--:--:--
-790,Sandra,Rodriguez Coma,251,M1,dona,-,-,0,Hostalets de baleny√†,340,06:14:53,03:44:15,06:22:04,--:--:--
-791,Cris,Su√±√©n Vilamala,182,M1,dona,-,-,-,Sant Julia de Vilatorta,341,06:36:45,03:37:35,06:23:20,--:--:--
+789,Dani,Febrer Hurtado,312,M1,home,-,-,Centre Excursionista TorellÛ,Hostalets de Baleny‡,370,06:15:00,03:44:01,06:21:53,--:--:--
+790,Sandra,Rodriguez Coma,251,M1,dona,-,-,0,Hostalets de baleny‡,340,06:14:53,03:44:15,06:22:04,--:--:--
+791,Cris,SuÒÈn Vilamala,182,M1,dona,-,-,-,Sant Julia de Vilatorta,341,06:36:45,03:37:35,06:23:20,--:--:--
 792,Laura,Erra Barcons,183,M1,dona,-,-,-,Barcelona,342,06:36:30,03:38:09,06:23:48,--:--:--
 793,Anna,Serra Gallifa,192,M1,dona,-,-,0,Taradell,343,06:36:35,03:38:01,06:23:50,--:--:--
-794,Marc,Riera Bailen,813,M1,home,-,-,Centre excursionista Torello,Prats del Llu√ßanes,371,06:09:29,04:13:43,06:25:03,--:--:--
+794,Marc,Riera Bailen,813,M1,home,-,-,Centre excursionista Torello,Prats del LluÁanes,371,06:09:29,04:13:43,06:25:03,--:--:--
 795,Anna,Rovira Abella,812,M1,dona,-,-,0,Roda de Ter,344,06:09:37,04:13:37,06:25:06,--:--:--
-796,Xevi,Macias G√≥mez,2,M1,home,-,-,Centre excursionista garriguenc,La Garriga,372,06:02:46,03:52:00,06:25:12,--:--:--
+796,Xevi,Macias GÛmez,2,M1,home,-,-,Centre excursionista garriguenc,La Garriga,372,06:02:46,03:52:00,06:25:12,--:--:--
 797,Jordi,Puigvert Curos,410,M1,home,-,-,Els enfilats,Olot,373,06:01:39,03:50:40,06:28:52,--:--:--
-798,Manel,Mart√≠ I Moncho,592,M1,home,-,-,Centre Exta. de Terrassa,Terrassa,374,07:32:56,03:54:25,06:28:56,--:--:--
+798,Manel,MartÌ I Moncho,592,M1,home,-,-,Centre Exta. de Terrassa,Terrassa,374,07:32:56,03:54:25,06:28:56,--:--:--
 799,Alfons,Soriano Valverde,902,M1,home,-,-,0,Terrassa,375,07:32:52,03:54:02,06:29:03,--:--:--
-800,Tici√†,Sala Mellado,614,M1,home,-,-,0,Sant Fruit√≥s de Bages,376,06:31:28,04:10:17,06:29:31,--:--:--
-801,Xavier,Martinez Mart√≠nez,463,M1,home,-,-,0,Terrassa,377,07:32:56,03:53:54,06:30:14,--:--:--
+800,Tici‡,Sala Mellado,614,M1,home,-,-,0,Sant FruitÛs de Bages,376,06:31:28,04:10:17,06:29:31,--:--:--
+801,Xavier,Martinez MartÌnez,463,M1,home,-,-,0,Terrassa,377,07:32:56,03:53:54,06:30:14,--:--:--
 802,Mario,Lopez Escobar,1017,M1,home,-,-,0,Barcelona,378,06:46:43,03:45:43,06:30:38,--:--:--
 803,Arola,Costa,561,M1,dona,-,-,0,Taradell,345,05:49:37,03:37:37,06:30:48,--:--:--
-804,Lourdes,Barrera Bass√≥,304,M1,dona,-,-,SEAS CENTRE EXCURSIONISTA SANT JUST DESVERN,Sant Just Desvern,346,06:15:52,03:52:21,06:30:51,--:--:--
+804,Lourdes,Barrera BassÛ,304,M1,dona,-,-,SEAS CENTRE EXCURSIONISTA SANT JUST DESVERN,Sant Just Desvern,346,06:15:52,03:52:21,06:30:51,--:--:--
 805,Joan,Poll Gelabert,303,M1,home,-,-,0,Sant Just Desvern,379,06:15:58,03:52:33,06:30:51,--:--:--
 806,Daniel,Soler Blancafort,562,M1,home,-,-,0,Taradell,380,05:49:29,03:38:01,06:31:15,--:--:--
 807,Oriol,Moreno Monteys,408,M1,home,-,-,0,Vic,381,05:50:47,03:53:57,06:32:20,--:--:--
@@ -810,110 +810,110 @@ POSICI√ìN,NOMBRE,apellidos,dorsal,cat,sexo,ritmo,dif 1o,club,poblaci√≥n,poscat,A
 809,Carla,Rovira Fuguet,266,M1,dona,-,-,Independent,Vic,348,06:22:03,03:46:38,06:33:55,--:--:--
 810,Carles,Puigbo Montull,272,M1,home,-,-,Independent,Vic,382,06:21:45,03:46:51,06:34:04,--:--:--
 811,Cristina,Marco Tirot,268,M1,dona,-,-,0,Taradell,349,06:21:48,03:48:18,06:34:15,--:--:--
-812,Martha Cecilia,Sanchez Abacuc,433,M1,dona,-,-,CEI CATALUNYA,Guardiola de Bergued√°,350,06:29:51,04:02:12,06:34:42,--:--:--
+812,Martha Cecilia,Sanchez Abacuc,433,M1,dona,-,-,CEI CATALUNYA,Guardiola de Bergued·,350,06:29:51,04:02:12,06:34:42,--:--:--
 813,Josep Maria,Coll Martinez,403,M1,home,-,-,CEI Catalunya,Guardiola De Bergueda,383,06:29:45,04:02:24,06:34:47,--:--:--
 814,Olga,Araque,271,M1,dona,-,-,Independent,Vic,351,06:21:48,03:48:11,06:35:02,--:--:--
 815,Alba,Galobardes Soler,664,M1,dona,-,-,0,TARADELL,352,06:19:20,03:57:43,06:35:12,--:--:--
-816,Eloi,Roquer Vila,464,M1,home,-,-,0,SANTA EUG√àNIA DE BERGA,384,06:19:05,03:50:02,06:35:32,--:--:--
+816,Eloi,Roquer Vila,464,M1,home,-,-,0,SANTA EUG»NIA DE BERGA,384,06:19:05,03:50:02,06:35:32,--:--:--
 817,Sandra,Clotet,97,M2,dona,-,-,0,Sant Bartomeu del Grau,26,06:20:32,03:49:39,06:35:38,--:--:--
-818,Vicen√ß,Clotet Casas,96,M2,home,-,-,0,Sant Bartomeu del Grau,56,06:20:28,03:49:59,06:36:00,--:--:--
+818,VicenÁ,Clotet Casas,96,M2,home,-,-,0,Sant Bartomeu del Grau,56,06:20:28,03:49:59,06:36:00,--:--:--
 819,Mireia,Clotet Sala,99,M1,dona,-,-,0,Vic,353,06:20:28,03:49:56,06:36:03,--:--:--
 820,Jordi,Maydeu Bosch,181,M1,home,-,-,0,Vic,385,07:35:15,03:42:35,06:36:31,--:--:--
 821,Laura,Soler Molist,1014,M1,dona,-,-,0,Vic,354,05:49:52,03:52:34,06:37:15,--:--:--
-822,Fina,Molist Vidal,1015,M1,dona,-,-,0,Sta. Eug√®nia de Berga,355,05:50:01,03:52:30,06:37:26,--:--:--
+822,Fina,Molist Vidal,1015,M1,dona,-,-,0,Sta. EugËnia de Berga,355,05:50:01,03:52:30,06:37:26,--:--:--
 823,Xavier,Rodriguez Galdeano,209,M1,home,-,-,0,BARCELONA,386,07:32:49,04:13:58,06:37:28,--:--:--
-824,Aida,Serra Portabella,286,M1,dona,-,-,0,Sant Juli√† de Vilatorta,356,06:02:34,03:51:49,06:38:07,--:--:--
+824,Aida,Serra Portabella,286,M1,dona,-,-,0,Sant Juli‡ de Vilatorta,356,06:02:34,03:51:49,06:38:07,--:--:--
 825,Pilar,Feixas Orra,285,M1,dona,-,-,0,Folgueroles,357,06:02:36,03:51:54,06:38:10,--:--:--
 826,Anna,Serra Feixes,284,M1,dona,-,-,0,Tona,358,06:02:31,03:51:55,06:38:12,--:--:--
 827,Josep,Sallent Comas,321,M1,home,-,-,0,Taradell,387,05:52:21,03:53:24,06:39:40,--:--:--
-828,Jordi,Bassas,229,M1,home,-,-,0,Santa Eug√®nia de Berga,388,05:51:45,03:54:34,06:40:27,--:--:--
+828,Jordi,Bassas,229,M1,home,-,-,0,Santa EugËnia de Berga,388,05:51:45,03:54:34,06:40:27,--:--:--
 829,Francisco Andres,Marin Ors,885,M1,home,-,-,0,Barbera del valles,389,06:26:26,03:55:09,06:40:57,--:--:--
-830,Juan Carlos,√Ålvarez,981,M1,home,-,-,0,Barber√° del Vall√©s,390,06:26:27,03:55:18,06:41:01,--:--:--
+830,Juan Carlos,¡lvarez,981,M1,home,-,-,0,Barber· del VallÈs,390,06:26:27,03:55:18,06:41:01,--:--:--
 831,Magda,Creus Ragasol,384,M1,dona,-,-,0,Caldes de Montbui,359,06:50:33,03:58:40,06:41:22,--:--:--
-832,Jordi,Mir Mart√≠nez,225,M1,home,-,-,0,Vic,391,07:31:38,03:46:16,06:41:27,--:--:--
+832,Jordi,Mir MartÌnez,225,M1,home,-,-,0,Vic,391,07:31:38,03:46:16,06:41:27,--:--:--
 833,Fernando,Rodriguez Delgado,804,M1,home,-,-,0,Sant Feliu de Codines,392,06:50:33,03:59:00,06:41:27,--:--:--
 834,Josep,Many Berengueras,729,M1,home,-,-,0,Caldes de montbui,393,06:50:26,03:58:43,06:41:28,--:--:--
 835,Miquel,Gonzalez Jofra,386,M1,home,-,-,0,Bigues i Riells,394,06:50:28,03:58:52,06:41:31,--:--:--
 836,Laura,Creus Ragasol,385,M1,dona,-,-,0,Bigues i Riells,360,06:50:25,03:58:53,06:41:35,--:--:--
 837,Eva,Terricabras Mas,568,M1,home,-,-,0,Viladecans,395,06:46:50,03:48:31,06:41:51,--:--:--
-838,√≠ngrid,Terricabres Polo,340,M1,dona,-,-,0,Sant Juli√† de Vilatorta,361,06:46:36,03:48:37,06:41:54,--:--:--
+838,Ìngrid,Terricabres Polo,340,M1,dona,-,-,0,Sant Juli‡ de Vilatorta,361,06:46:36,03:48:37,06:41:54,--:--:--
 839,Marc,Casadella Vazquez,10,M1,home,-,-,0,centelles,396,06:16:39,03:46:22,06:42:14,--:--:--
-840,Macarena,Fern√°ndez Trujillo,980,M1,dona,-,-,CAM PARETS,Vilanova del Cam√≠,362,07:30:39,03:52:22,06:42:40,--:--:--
+840,Macarena,Fern·ndez Trujillo,980,M1,dona,-,-,CAM PARETS,Vilanova del CamÌ,362,07:30:39,03:52:22,06:42:40,--:--:--
 841,Jordi,Araque Prat,310,M1,home,-,-,0,Taradell,397,06:14:02,04:17:16,06:42:42,--:--:--
 842,Francesc,Ferrer Perez,984,M1,home,-,-,CAM PARETS,Vilanova del Cami,398,07:30:32,03:52:55,06:42:49,--:--:--
-843,Clara,G√≥mez Gorchs,248,M1,dona,-,-,0,Prats de Llu√ßan√®s,363,06:35:44,03:58:59,06:43:06,--:--:--
+843,Clara,GÛmez Gorchs,248,M1,dona,-,-,0,Prats de LluÁanËs,363,06:35:44,03:58:59,06:43:06,--:--:--
 844,Andrea,Serra Mayo,30,M1,dona,-,-,0,Vic,364,06:35:50,03:54:11,06:43:13,--:--:--
 845,Laura,Toran Arnau,26,M1,dona,-,-,0,Vic,365,06:35:47,03:54:19,06:43:13,--:--:--
-846,Carla,Saiz Creus,33,M1,dona,-,-,0,Sant Juli√† de Vilatorta,366,06:35:45,03:54:31,06:43:24,--:--:--
-847,Biel,Oliver Mart√≠nez,1147,M1,home,-,-,-,-,399,07:14:33,03:54:51,06:45:06,--:--:--
-848,Esteve,Brufau Moreno,725,M1,home,-,-,0,Santa Eug√®nia de Berga,400,05:40:06,04:07:37,06:45:07,--:--:--
-849,Cl√†udia,Salat Serrabasa,1148,M1,dona,-,-,-,-,367,07:14:28,03:54:47,06:45:09,--:--:--
-850,Adri√†,Fuente Cervera,363,M1,home,-,-,0,Vic,401,06:17:17,03:56:13,06:45:17,--:--:--
-851,N√∫ria,Roquer Ferrer,245,M1,dona,-,-,0,Santa Eug√®nia de Berga,368,06:17:11,03:56:06,06:45:44,--:--:--
+846,Carla,Saiz Creus,33,M1,dona,-,-,0,Sant Juli‡ de Vilatorta,366,06:35:45,03:54:31,06:43:24,--:--:--
+847,Biel,Oliver MartÌnez,1147,M1,home,-,-,-,-,399,07:14:33,03:54:51,06:45:06,--:--:--
+848,Esteve,Brufau Moreno,725,M1,home,-,-,0,Santa EugËnia de Berga,400,05:40:06,04:07:37,06:45:07,--:--:--
+849,Cl‡udia,Salat Serrabasa,1148,M1,dona,-,-,-,-,367,07:14:28,03:54:47,06:45:09,--:--:--
+850,Adri‡,Fuente Cervera,363,M1,home,-,-,0,Vic,401,06:17:17,03:56:13,06:45:17,--:--:--
+851,N˙ria,Roquer Ferrer,245,M1,dona,-,-,0,Santa EugËnia de Berga,368,06:17:11,03:56:06,06:45:44,--:--:--
 852,Eduard,Tarruell,848,M1,home,-,-,0,Sabadell,402,06:53:55,04:02:21,06:46:00,--:--:--
 853,Antonia,Orriols Canals,1058,M1,dona,-,-,0,Matadepera,369,07:01:19,04:01:46,06:49:08,--:--:--
-854,Jes√∫s,Parra Rios,16,M1,home,-,-,0,Cerdanyola,403,06:25:06,03:50:03,06:51:06,--:--:--
+854,Jes˙s,Parra Rios,16,M1,home,-,-,0,Cerdanyola,403,06:25:06,03:50:03,06:51:06,--:--:--
 855,Sandra,Codina Roca,1136,M1,dona,-,-,0,Taradell,370,05:39:43,04:09:44,06:51:18,--:--:--
-856,Cristina,L√≥pez Martin,914,M1,dona,-,-,0,Prats del Llu√ßan√®s,371,06:02:59,--:--:--,06:51:27,--:--:--
-857,Manel,Rodr√≠guez Ram√≥n,15,M1,home,-,-,0,Terrassa,404,06:24:36,03:50:20,06:51:30,--:--:--
+856,Cristina,LÛpez Martin,914,M1,dona,-,-,0,Prats del LluÁanËs,371,06:02:59,--:--:--,06:51:27,--:--:--
+857,Manel,RodrÌguez RamÛn,15,M1,home,-,-,0,Terrassa,404,06:24:36,03:50:20,06:51:30,--:--:--
 858,Demelsa,Larrosa,136,M1,dona,-,-,0,Barbera del valles,372,06:24:35,03:50:24,06:51:37,--:--:--
 859,Marc,Alier Soler,1048,M1,home,-,-,0,Barcelona,405,06:32:38,03:54:53,06:51:38,--:--:--
-860,N√∫ria,Portet Lozano,1034,M1,dona,-,-,0,Taradell,373,05:39:48,04:06:09,06:51:58,--:--:--
-861,Merc√®,Homs Molist,750,M1,dona,-,-,0,Barcelona,374,06:32:46,03:54:38,06:52:09,--:--:--
+860,N˙ria,Portet Lozano,1034,M1,dona,-,-,0,Taradell,373,05:39:48,04:06:09,06:51:58,--:--:--
+861,MercË,Homs Molist,750,M1,dona,-,-,0,Barcelona,374,06:32:46,03:54:38,06:52:09,--:--:--
 862,Mireia,Vila Flotats,1035,M2,dona,-,-,C.E.Taradell,Taradell,27,05:39:29,04:06:02,06:52:16,--:--:--
 863,Sergi,Ruiz Ferre,788,M1,home,-,-,0,EL MASNOU,406,06:36:17,03:59:46,06:52:27,--:--:--
-864,√†ngel,Rull Esplugas,787,M1,home,-,-,CLUB EXCTA. CAMINAIRES DE VILAMAJOR,BARCELONA,407,06:36:10,03:59:43,06:52:29,--:--:--
-865,Mireia,Rubio Berm√∫dez,66,M1,dona,-,-,Uni√≥ Excursionista Vic,Vic,375,06:29:11,03:58:45,06:52:44,--:--:--
+864,‡ngel,Rull Esplugas,787,M1,home,-,-,CLUB EXCTA. CAMINAIRES DE VILAMAJOR,BARCELONA,407,06:36:10,03:59:43,06:52:29,--:--:--
+865,Mireia,Rubio Berm˙dez,66,M1,dona,-,-,UniÛ Excursionista Vic,Vic,375,06:29:11,03:58:45,06:52:44,--:--:--
 866,Edu,Morraja Morales,195,M1,home,-,-,0,Barcelona,408,07:32:15,04:37:39,06:52:48,--:--:--
-867,Marc,Parramon Sellabona,67,M1,home,-,-,Uni√≥ Excurcionista Vic,Vic,409,06:28:55,03:59:05,06:53:01,--:--:--
-868,David,Salda√±a Cerc√≥s,194,M1,home,-,-,0,Barcelona,410,07:32:15,04:37:49,06:53:12,--:--:--
-869,Daniel,Mu√±oz Merino,71,M1,home,-,-,0,Piera,411,06:48:32,03:53:40,06:53:57,--:--:--
+867,Marc,Parramon Sellabona,67,M1,home,-,-,UniÛ Excurcionista Vic,Vic,409,06:28:55,03:59:05,06:53:01,--:--:--
+868,David,SaldaÒa CercÛs,194,M1,home,-,-,0,Barcelona,410,07:32:15,04:37:49,06:53:12,--:--:--
+869,Daniel,MuÒoz Merino,71,M1,home,-,-,0,Piera,411,06:48:32,03:53:40,06:53:57,--:--:--
 870,Albert,Cortabitarte Amoros,69,M1,home,-,-,0,Sant Joan Despi,412,06:48:31,03:53:31,06:54:16,--:--:--
 871,Aniol,Boixader,660,M1,home,-,-,0,L'Ametlla del Valles,413,06:56:23,03:59:18,06:54:42,--:--:--
-872,Eva,Berg√©,661,M1,dona,-,-,Madteam,L'Ametlla del Valles,376,06:56:18,03:59:18,06:54:48,--:--:--
+872,Eva,BergÈ,661,M1,dona,-,-,Madteam,L'Ametlla del Valles,376,06:56:18,03:59:18,06:54:48,--:--:--
 873,Enric,Martin,662,M1,home,-,-,Madteam,L'Ametlla del Valles,414,06:56:28,04:00:18,06:55:27,--:--:--
 874,Joan,Comerma Riera,903,M1,dona,-,-,0,Taradell,377,06:16:54,03:54:15,06:55:30,--:--:--
-875,Pep,Boixader,659,M1,home,-,-,AEG,L'Ametlla del Vall√®s,415,06:56:17,04:00:13,06:55:34,--:--:--
+875,Pep,Boixader,659,M1,home,-,-,AEG,L'Ametlla del VallËs,415,06:56:17,04:00:13,06:55:34,--:--:--
 876,Alejandra,Correa Barba,906,M1,dona,-,-,0,Taradell,378,06:16:46,03:54:27,06:55:43,--:--:--
-877,Manel,Sagal√©s Casanovas,457,M1,home,-,-,No,Manlleu,416,06:19:02,03:59:17,06:55:49,--:--:--
+877,Manel,SagalÈs Casanovas,457,M1,home,-,-,No,Manlleu,416,06:19:02,03:59:17,06:55:49,--:--:--
 878,Jordi,Comerma Riera,900,M1,home,-,-,0,Taradell,417,06:16:36,03:54:22,06:55:51,--:--:--
 879,Olga,Domene  Perez,276,M1,dona,-,-,0,Sanr pere de vilamajor,379,06:35:10,03:59:26,06:56:08,--:--:--
-880,Llu√≠s,Miguel Mart√≠nez,292,M1,home,-,-,0,Llinars del Vall√©s,418,06:35:12,03:59:05,06:56:12,--:--:--
-881,Alfonso,Ant√≥n Garc√≠a,277,M1,home,-,-,Maratonianos  Baix  Montseny,Llinars del  vall√©s,419,06:35:05,03:59:34,06:56:15,--:--:--
+880,LluÌs,Miguel MartÌnez,292,M1,home,-,-,0,Llinars del VallÈs,418,06:35:12,03:59:05,06:56:12,--:--:--
+881,Alfonso,AntÛn GarcÌa,277,M1,home,-,-,Maratonianos  Baix  Montseny,Llinars del  vallÈs,419,06:35:05,03:59:34,06:56:15,--:--:--
 882,Isabel,Rifa Carrera,1121,M1,dona,-,-,0,Torello,380,05:38:25,04:04:54,06:56:52,--:--:--
-883,Cinta,Or√≥,1120,M1,dona,-,-,0,Sant Vicen√ß de Torello,381,05:38:23,04:04:53,06:56:55,--:--:--
-884,Cati,Madue√±o Garc√≠a,110,M1,dona,-,-,0,Llinars del Vall√©s,382,06:35:24,03:59:08,06:57:33,--:--:--
+883,Cinta,OrÛ,1120,M1,dona,-,-,0,Sant VicenÁ de Torello,381,05:38:23,04:04:53,06:56:55,--:--:--
+884,Cati,MadueÒo GarcÌa,110,M1,dona,-,-,0,Llinars del VallÈs,382,06:35:24,03:59:08,06:57:33,--:--:--
 885,Josep Lluis,Moreno Ramirez,1080,M1,home,-,-,0,Badalona,420,07:01:22,04:00:28,06:57:55,--:--:--
 886,Xavier,Torreblanca Moyano,1081,M1,home,-,-,0,badalona,421,07:01:14,04:00:38,06:58:03,--:--:--
-887,Andreu,Caritg Cirera,3,M1,home,-,-,0,Les Masies de Voltreg√†,422,06:59:56,03:58:32,06:58:46,--:--:--
+887,Andreu,Caritg Cirera,3,M1,home,-,-,0,Les Masies de Voltreg‡,422,06:59:56,03:58:32,06:58:46,--:--:--
 888,Oriol,Caritg Cirera,5,M1,home,-,-,0,Barcelona,423,06:59:57,03:58:35,06:58:59,--:--:--
-889,Gon√ßal,Artigot Garcia,1038,M2,home,-,-,CET,Taradell,57,05:33:55,04:08:00,06:59:03,--:--:--
+889,GonÁal,Artigot Garcia,1038,M2,home,-,-,CET,Taradell,57,05:33:55,04:08:00,06:59:03,--:--:--
 890,Miquel,Vila Serra,4,M1,home,-,-,0,VIC,424,06:59:57,03:58:21,06:59:09,--:--:--
-891,Jordi,Portet Hum√†,6,M1,home,-,-,0,Sant Hip√≤lit de voltreg√†,425,06:59:52,03:58:31,06:59:13,--:--:--
-892,Ma. Rosa,Ti√≥ Pratdesaba,419,M2,dona,-,-,Centre Excursionista Taradell,TARADELL,28,05:36:30,04:09:47,06:59:53,--:--:--
-893,Agust√≠,Castells Font,842,M1,home,-,-,0,Palleja,426,07:13:29,04:02:38,07:00:14,--:--:--
-894,Luis Manuel,Mart√≠nez Diaz,829,M1,home,-,-,0,Barbera del Vall√©s,427,06:50:30,04:08:48,07:00:27,--:--:--
-895,Albert,Jornet I Massana,840,M1,home,-,-,CESV,Sant Vicen√ß dels Horts,428,07:13:19,04:02:44,07:00:29,--:--:--
-896,Llu√Øsa,Nebot Fortuny,479,M1,dona,-,-,0,Vic,383,06:56:25,04:08:22,07:01:16,--:--:--
+891,Jordi,Portet Hum‡,6,M1,home,-,-,0,Sant HipÚlit de voltreg‡,425,06:59:52,03:58:31,06:59:13,--:--:--
+892,Ma. Rosa,TiÛ Pratdesaba,419,M2,dona,-,-,Centre Excursionista Taradell,TARADELL,28,05:36:30,04:09:47,06:59:53,--:--:--
+893,AgustÌ,Castells Font,842,M1,home,-,-,0,Palleja,426,07:13:29,04:02:38,07:00:14,--:--:--
+894,Luis Manuel,MartÌnez Diaz,829,M1,home,-,-,0,Barbera del VallÈs,427,06:50:30,04:08:48,07:00:27,--:--:--
+895,Albert,Jornet I Massana,840,M1,home,-,-,CESV,Sant VicenÁ dels Horts,428,07:13:19,04:02:44,07:00:29,--:--:--
+896,LluÔsa,Nebot Fortuny,479,M1,dona,-,-,0,Vic,383,06:56:25,04:08:22,07:01:16,--:--:--
 897,Emma,Nuri Gargallo,856,M1,dona,-,-,0,granollers,384,05:38:02,04:03:26,07:01:32,--:--:--
-898,Bet,Madera Rusinyol,983,M1,dona,-,-,club excursionista savall,sant lloren√ß savall,385,06:56:38,04:07:24,07:01:32,--:--:--
+898,Bet,Madera Rusinyol,983,M1,dona,-,-,club excursionista savall,sant llorenÁ savall,385,06:56:38,04:07:24,07:01:32,--:--:--
 899,Israel,Nuri,855,M1,home,-,-,0,granollers,429,05:37:56,04:02:48,07:01:35,--:--:--
-900,Eva,Escofet Cat√†,482,M1,dona,-,-,0,Vic,386,06:56:33,04:06:47,07:01:48,--:--:--
+900,Eva,Escofet Cat‡,482,M1,dona,-,-,0,Vic,386,06:56:33,04:06:47,07:01:48,--:--:--
 901,Carol,Iglesias Diaz,598,M1,dona,-,-,0,BARCELONA,387,06:56:21,04:06:52,07:02:03,--:--:--
 902,Marc,Macia Mestanza,489,M1,home,-,-,CEG Gracia,Barcelona,430,06:29:35,03:52:41,07:02:05,--:--:--
-903,M√≤nica,Ravent√≥s Mestres,832,M1,dona,-,-,0,Sant Vicenc dels Horts,388,07:13:23,04:02:33,07:02:05,--:--:--
-904,Pedro,Abad Romera,783,M1,home,-,-,Grup senderista Barber√†,Barber√† del Vall√®s,431,06:48:40,04:09:19,07:02:19,--:--:--
+903,MÚnica,RaventÛs Mestres,832,M1,dona,-,-,0,Sant Vicenc dels Horts,388,07:13:23,04:02:33,07:02:05,--:--:--
+904,Pedro,Abad Romera,783,M1,home,-,-,Grup senderista Barber‡,Barber‡ del VallËs,431,06:48:40,04:09:19,07:02:19,--:--:--
 905,Francisco,Sanchez Villegas,616,M1,home,-,-,0,Sabadell,432,06:48:47,04:09:06,07:02:42,--:--:--
-906,Ana Belen,Rengel Sanjuan,715,M1,dona,-,-,Club excursionista Barber√°,Barber√° del Vall√©s,389,06:48:38,04:09:10,07:02:50,--:--:--
-907,Jordi Pau,Franc√†s Custodi,651,M1,home,-,-,0,Folgueroles,433,06:03:06,04:01:32,07:03:33,--:--:--
+906,Ana Belen,Rengel Sanjuan,715,M1,dona,-,-,Club excursionista Barber·,Barber· del VallÈs,389,06:48:38,04:09:10,07:02:50,--:--:--
+907,Jordi Pau,Franc‡s Custodi,651,M1,home,-,-,0,Folgueroles,433,06:03:06,04:01:32,07:03:33,--:--:--
 908,Ariadna,Farres Serrat,1131,M1,dona,-,-,0,Torello,390,06:03:04,04:02:17,07:03:41,--:--:--
 909,Isabel,Cabedo,475,M1,dona,-,-,C.E. GARRIGUENC,CANOVELLES,391,06:47:30,04:02:08,07:03:43,--:--:--
-910,Albert,Franc√†s Custodi,653,M1,home,-,-,0,Folgueroles,434,06:02:58,04:02:19,07:03:44,--:--:--
-911,Remei,Sans√≥n Mateos,476,M1,dona,-,-,Comissio sant antoni abat (se),Canovelles,392,06:47:25,04:02:27,07:03:56,--:--:--
+910,Albert,Franc‡s Custodi,653,M1,home,-,-,0,Folgueroles,434,06:02:58,04:02:19,07:03:44,--:--:--
+911,Remei,SansÛn Mateos,476,M1,dona,-,-,Comissio sant antoni abat (se),Canovelles,392,06:47:25,04:02:27,07:03:56,--:--:--
 912,Jordi,Serrano Torrella,64,M1,home,-,-,0,Terrassa,435,06:51:22,04:03:27,07:04:10,--:--:--
 913,Isabel,Sanglas Soler,767,M2,dona,-,-,Centre excta. Taradell,Gurb,29,05:41:54,04:10:40,07:04:31,--:--:--
 914,Josep,Badia De Monteys,735,M1,home,-,-,0,Seva,436,05:41:42,04:10:13,07:04:45,--:--:--
-915,Eduard,Fabr√© Barnolas,766,M2,home,-,-,Centre excta. Taradell,Gurb,58,05:41:32,04:10:53,07:05:01,--:--:--
+915,Eduard,FabrÈ Barnolas,766,M2,home,-,-,Centre excta. Taradell,Gurb,58,05:41:32,04:10:53,07:05:01,--:--:--
 916,Jordi,Palomeras Parella,1072,M1,home,-,-,0,banyoles,437,06:36:54,04:20:24,07:05:40,--:--:--
 917,Francesc,Verdaguer Ginestera,1075,M1,home,-,-,0,Banyoles,438,06:36:58,04:20:36,07:05:40,--:--:--
 918,Javier,Alcalde Naavas,1046,M1,home,-,-,0,torello,439,05:37:30,03:51:12,07:05:58,--:--:--
@@ -921,78 +921,78 @@ POSICI√ìN,NOMBRE,apellidos,dorsal,cat,sexo,ritmo,dif 1o,club,poblaci√≥n,poscat,A
 920,Jaume,Pou Comas,255,M1,home,-,-,0,VIC,440,05:41:13,04:10:03,07:08:26,--:--:--
 921,Xavier,Ribo Rull,737,M1,home,-,-,0,Sabadell,441,06:48:38,04:00:17,07:08:31,--:--:--
 922,Fina,Serra Barris,58,M1,dona,-,-,GEM Manlleu,Manlleu,394,05:41:15,04:10:04,07:08:35,--:--:--
-923,Gerard,Bov√© Tany√†,460,M2,home,-,-,0,TARADELL,59,05:40:54,04:10:25,07:08:35,--:--:--
+923,Gerard,BovÈ Tany‡,460,M2,home,-,-,0,TARADELL,59,05:40:54,04:10:25,07:08:35,--:--:--
 924,Rosa,Pla Aumatell,415,M2,dona,-,-,CENTRE EXCURSIONISTA TARADELL,Taradell,30,05:40:58,04:10:14,07:08:38,--:--:--
 925,Cristina,Teixidor Pujol,459,M2,dona,-,-,0,TARADELL,31,05:40:46,04:10:18,07:08:40,--:--:--
 926,Joan,Serra Pla,416,M1,home,-,-,0,Taradell,442,05:41:03,04:10:06,07:08:42,--:--:--
-927,Marta,Mumnr√∫ Bassas,123,M2,dona,-,-,0,Taradell,32,05:40:35,04:10:47,07:08:46,--:--:--
+927,Marta,Mumnr˙ Bassas,123,M2,dona,-,-,0,Taradell,32,05:40:35,04:10:47,07:08:46,--:--:--
 928,David,Ribo Ferrer,399,M1,home,-,-,0,Sabadell,443,06:48:27,04:00:30,07:08:47,--:--:--
 929,Teresa,Muntal Campas,744,M2,dona,-,-,CET TARADELL,Taradell,33,05:40:38,04:10:27,07:08:50,--:--:--
 930,Eva,Codina Pujols,668,M2,dona,-,-,Centre excursionista Taradell,Taradell,34,05:40:32,04:10:52,07:09:03,--:--:--
-931,Nat√†lia,Riera Nadal,1009,M1,dona,-,-,0,Barcelona,395,06:33:36,04:17:25,07:09:37,--:--:--
-932,Eugenio,Fuentes Romero,198,M1,home,-,-,0,Montmel√≥,444,05:53:50,04:22:39,07:09:38,--:--:--
+931,Nat‡lia,Riera Nadal,1009,M1,dona,-,-,0,Barcelona,395,06:33:36,04:17:25,07:09:37,--:--:--
+932,Eugenio,Fuentes Romero,198,M1,home,-,-,0,MontmelÛ,444,05:53:50,04:22:39,07:09:38,--:--:--
 933,Carme,Vilardell Sallent,535,M1,dona,-,-,CENTRE EXCURSIONISTA DELS HOSTALETS DE BALENYA,BALENYA,396,06:17:01,04:12:39,07:09:47,--:--:--
-934,Joan,Ort√≠n Martinez,488,M1,home,-,-,AE. TALAIA,Vilanova i la Geltr√∫,445,06:33:31,04:17:26,07:09:49,--:--:--
-935,Anna Llibertat,Garcia Sanchez,487,M1,dona,-,-,AE. TALAIA,Vilanova i la Geltr√∫,397,06:33:26,04:17:40,07:09:55,--:--:--
-936,Rafa,Ib√°√±ez Albalate,148,M1,home,-,-,0,Barcelona,446,05:53:28,04:26:37,07:10:05,--:--:--
+934,Joan,OrtÌn Martinez,488,M1,home,-,-,AE. TALAIA,Vilanova i la Geltr˙,445,06:33:31,04:17:26,07:09:49,--:--:--
+935,Anna Llibertat,Garcia Sanchez,487,M1,dona,-,-,AE. TALAIA,Vilanova i la Geltr˙,397,06:33:26,04:17:40,07:09:55,--:--:--
+936,Rafa,Ib·Òez Albalate,148,M1,home,-,-,0,Barcelona,446,05:53:28,04:26:37,07:10:05,--:--:--
 937,Isabel,Martos Perez,468,M1,dona,-,-,0,HOSTALETS DE BALENYA,398,06:16:50,04:12:31,07:10:09,--:--:--
 938,Anna,Martos Perez,467,M1,dona,-,-,0,HOSTALETS DE BALENYA,399,06:17:00,04:14:13,07:10:10,--:--:--
 939,Carolina,Castillo Cristofol,149,M1,dona,-,-,0,Barcelona,400,05:53:46,04:05:36,07:10:17,--:--:--
-940,Albert,Soler Molist,202,M1,home,-,-,0,Santa Eug√®nia de Berga,447,07:35:30,04:10:46,07:12:49,--:--:--
+940,Albert,Soler Molist,202,M1,home,-,-,0,Santa EugËnia de Berga,447,07:35:30,04:10:46,07:12:49,--:--:--
 941,Esteve,Colomer Gaja,57,M1,home,-,-,GEM Manlleu,Manlleu,448,05:41:21,04:09:50,07:13:46,--:--:--
-942,David,Monta√±a Custodi,652,M1,home,-,-,0,Igualada,449,06:03:06,04:01:36,07:16:27,--:--:--
-943,Juan Maria,S√°nchez Secades,827,M1,home,-,-,0,Cerdanyola del Vall√®s,450,07:08:24,04:14:48,07:16:52,--:--:--
-944,Helena,G√ºell Masramon,360,M1,dona,-,-,0,Vic,401,06:02:59,04:08:06,07:17:27,--:--:--
-945,Marc,G√ºell Masrramon,669,M1,home,-,-,0,Taradell,451,06:02:44,04:07:55,07:17:37,--:--:--
-946,Josep,G√ºell Santanera,373,M1,home,-,-,0,Vic,452,06:02:38,04:08:13,07:17:37,--:--:--
-947,Irene,Ylla Monfort,758,M1,dona,-,-,Centre Excta. Torell√≥,Gurb,402,06:53:42,04:21:42,07:18:01,--:--:--
+942,David,MontaÒa Custodi,652,M1,home,-,-,0,Igualada,449,06:03:06,04:01:36,07:16:27,--:--:--
+943,Juan Maria,S·nchez Secades,827,M1,home,-,-,0,Cerdanyola del VallËs,450,07:08:24,04:14:48,07:16:52,--:--:--
+944,Helena,G¸ell Masramon,360,M1,dona,-,-,0,Vic,401,06:02:59,04:08:06,07:17:27,--:--:--
+945,Marc,G¸ell Masrramon,669,M1,home,-,-,0,Taradell,451,06:02:44,04:07:55,07:17:37,--:--:--
+946,Josep,G¸ell Santanera,373,M1,home,-,-,0,Vic,452,06:02:38,04:08:13,07:17:37,--:--:--
+947,Irene,Ylla Monfort,758,M1,dona,-,-,Centre Excta. TorellÛ,Gurb,402,06:53:42,04:21:42,07:18:01,--:--:--
 948,Arola,Rovira Vall,760,M1,dona,-,-,UEVic,Vic,403,06:53:53,04:21:40,07:18:57,--:--:--
 949,David,Mengual Padros,258,M1,home,-,-,0,Barcelona,453,06:23:02,04:13:47,07:19:58,--:--:--
 950,Manel,Riera Garcia,257,M1,home,-,-,0,Barcelona,454,06:22:35,04:14:18,07:20:12,--:--:--
 951,Jordi,Mengual Padros,259,M1,home,-,-,0,Barcelona,455,06:22:42,04:14:35,07:20:14,--:--:--
 952,Alba,Rodriguez Franch,610,M1,dona,-,-,0,roda de ter,404,06:09:51,04:20:38,07:22:43,--:--:--
 953,Miquel,Serra Serra,628,M1,home,-,-,0,MANRESA,456,06:49:51,04:18:47,07:22:47,--:--:--
-954,√†ngela,Mayorga Su√°rez,621,M1,dona,-,-,0,Roda de ter,405,06:09:57,04:20:40,07:23:06,--:--:--
+954,‡ngela,Mayorga Su·rez,621,M1,dona,-,-,0,Roda de ter,405,06:09:57,04:20:40,07:23:06,--:--:--
 955,Montserrat,Casaldaliga Besora,607,M1,dona,-,-,0,MANRESA,406,06:49:21,04:19:23,07:23:09,--:--:--
 956,Joan,Muixi Codina,627,M1,home,-,-,0,MANRESA,457,06:48:58,04:19:44,07:23:35,--:--:--
 957,Sara,Barrancos Martorell,449,M1,dona,-,-,Centre Excursionista Parets,Centelles,407,06:31:22,04:13:02,07:24:16,--:--:--
-958,Ferran,Barrancos Solera,450,M1,home,-,-,Centre Excursionista Parets,Parets del Vall√®s,458,06:31:13,04:12:32,07:24:33,--:--:--
-959,Aleix,Bascompte Vilardeb√≥,451,M1,home,-,-,0,Centelles,459,06:31:23,04:13:06,07:24:37,--:--:--
+958,Ferran,Barrancos Solera,450,M1,home,-,-,Centre Excursionista Parets,Parets del VallËs,458,06:31:13,04:12:32,07:24:33,--:--:--
+959,Aleix,Bascompte VilardebÛ,451,M1,home,-,-,0,Centelles,459,06:31:23,04:13:06,07:24:37,--:--:--
 960,Aleix,Sillaurren Valls,236,M1,home,-,-,0,Barcelona,460,05:51:57,04:23:30,07:25:15,--:--:--
 961,Jordi,Sillaurren Molina,235,M1,home,-,-,0,Barcelona,461,05:51:52,--:--:--,07:25:22,--:--:--
-962,Montserrat,Valls Oferil,526,M1,dona,-,-,0,Sant Vicen√ß de Torello,408,06:32:46,04:23:07,07:27:12,--:--:--
-963,M Carme,Riba Bar√≥n,417,M1,dona,-,-,0,Sant Vicen√ß de Torell√≥,409,06:32:47,04:23:04,07:27:16,--:--:--
-964,M¬™. Rosa,Vilardell Romeu,617,M2,dona,-,-,Centre Excursionista Taradell,Taradell,35,05:35:04,04:22:07,07:28:10,--:--:--
+962,Montserrat,Valls Oferil,526,M1,dona,-,-,0,Sant VicenÁ de Torello,408,06:32:46,04:23:07,07:27:12,--:--:--
+963,M Carme,Riba BarÛn,417,M1,dona,-,-,0,Sant VicenÁ de TorellÛ,409,06:32:47,04:23:04,07:27:16,--:--:--
+964,M™. Rosa,Vilardell Romeu,617,M2,dona,-,-,Centre Excursionista Taradell,Taradell,35,05:35:04,04:22:07,07:28:10,--:--:--
 965,Javier,Dasi Fregine,170,M1,home,-,-,0,Ullastrell,462,06:22:12,04:14:08,07:28:20,--:--:--
-966,Laura,Bigord√† Amat,169,M1,dona,-,-,0,Ullastrell,410,06:22:09,04:14:13,07:28:29,--:--:--
+966,Laura,Bigord‡ Amat,169,M1,dona,-,-,0,Ullastrell,410,06:22:09,04:14:13,07:28:29,--:--:--
 967,Lluis,Dominguez Casas,851,M1,home,-,-,0,Sant Cugat del Valles,463,06:02:04,04:22:07,07:30:18,--:--:--
 968,Mireia,Canillo Marin,413,M1,dona,-,-,0,El Brull,411,06:44:47,04:32:56,07:36:00,--:--:--
 969,Josep,Munmany Vila,358,M1,home,-,-,0,Taradell,464,05:57:04,04:26:46,07:37:55,--:--:--
 970,Lola,Quesada  Portas,575,M1,dona,-,-,0,Taradell,412,05:56:54,04:26:50,07:38:04,--:--:--
-971,Antoni,Gim√©nez Colom,624,M1,home,-,-,0,Barcelona,465,05:56:45,04:27:17,07:38:21,--:--:--
+971,Antoni,GimÈnez Colom,624,M1,home,-,-,0,Barcelona,465,05:56:45,04:27:17,07:38:21,--:--:--
 972,Marc,Clerch,191,M1,home,-,-,0,Santa Cugat del Valles,466,05:53:44,04:22:49,07:38:56,--:--:--
 973,Helena,Signes Casanova,174,M1,dona,-,-,#camesmoridesteam,Folgueroles,413,06:25:30,04:27:19,07:39:18,--:--:--
 974,Dani,Amagat Guirado,648,M1,home,-,-,GECA - Llatissonada,Les Planes d'Hostoles,467,07:30:28,04:32:41,07:39:51,--:--:--
 975,Pepi,Codinachs Gil,261,M1,dona,-,-,0,Calldetenes,414,05:49:48,04:24:25,07:42:22,--:--:--
-976,N√∫ria,Torras Sanz,262,M1,dona,-,-,0,Taradell,415,05:49:38,04:24:33,07:42:29,--:--:--
+976,N˙ria,Torras Sanz,262,M1,dona,-,-,0,Taradell,415,05:49:38,04:24:33,07:42:29,--:--:--
 977,Rosalia,Fernandez Coll,260,M1,dona,-,-,0,Taradell,416,05:49:35,04:24:18,07:42:37,--:--:--
-978,Nuria,Alt√©s,656,M1,dona,-,-,0,El Brull,417,06:36:26,04:34:15,07:43:52,--:--:--
+978,Nuria,AltÈs,656,M1,dona,-,-,0,El Brull,417,06:36:26,04:34:15,07:43:52,--:--:--
 979,Montserrat,Bonilla Perez,571,M1,dona,-,-,0,Vic,418,05:56:58,04:26:56,07:46:11,--:--:--
 980,Xavi,Canovas Paradell,1150,M1,home,-,-,-,-,468,06:33:44,04:25:11,07:47:13,--:--:--
-981,Josep,Cribilles Sole,850,M2,home,-,-,Centre Excursionista Taradell,Santa eug√®nia de Berga,60,06:21:56,04:35:14,07:49:50,--:--:--
-982,Roger,Sol√† Arqu√©s,579,M1,home,-,-,Pasein,Sant cugat del valles,469,06:54:48,04:24:36,07:56:13,--:--:--
-983,Albert,Orriols Roca,658,M1,home,-,-,0,Sant cugat del vall√®s,470,06:54:41,04:24:46,07:56:14,--:--:--
+981,Josep,Cribilles Sole,850,M2,home,-,-,Centre Excursionista Taradell,Santa eugËnia de Berga,60,06:21:56,04:35:14,07:49:50,--:--:--
+982,Roger,Sol‡ ArquÈs,579,M1,home,-,-,Pasein,Sant cugat del valles,469,06:54:48,04:24:36,07:56:13,--:--:--
+983,Albert,Orriols Roca,658,M1,home,-,-,0,Sant cugat del vallËs,470,06:54:41,04:24:46,07:56:14,--:--:--
 984,Cesar,Molins Bartra,279,M1,home,-,-,0,Cabrils,471,06:36:16,04:27:16,07:57:41,--:--:--
 985,Albert,Collado,586,M1,home,-,-,0,Sant Just Desvern,472,06:36:21,04:27:02,07:57:42,--:--:--
 986,Maria,Redondo Bauza,237,M1,dona,-,-,0,La Garriga,419,05:42:47,04:29:17,07:59:38,--:--:--
 987,Albert,Pavon Tarragona,238,M1,home,-,-,0,La Garriga,473,05:42:36,04:29:44,07:59:58,--:--:--
 988,Miquel,Bau Farre,894,M1,home,-,-,0,Folgueroles,474,06:09:36,04:48:46,08:02:01,--:--:--
 989,Anna,Molist Codina,919,M1,dona,-,-,0,GURB,420,05:46:02,04:59:30,08:27:23,--:--:--
-990,Rafael,Costa Dachs,841,M1,home,-,-,CLUP ESQU√ç BERGUED√Ä,BERGA,475,05:55:12,05:08:37,08:34:17,--:--:--
+990,Rafael,Costa Dachs,841,M1,home,-,-,CLUP ESQUÕ BERGUED¿,BERGA,475,05:55:12,05:08:37,08:34:17,--:--:--
 991,Joan,Saborit Bertrana,1143,M1,home,-,-,0,Taradell,476,06:04:16,05:16:29,09:23:31,--:--:--
 992,Jan,Calle Puigbo,982,M1,home,-,-,Independent,Torello,477,07:01:03,02:52:37,--:--:--,--:--:--
 993,Ester,Bausells Fuente,511,M1,dona,-,-,0,Centelles,421,06:31:40,04:18:17,--:--:--,--:--:--
-994,Merc√®,Cabanas Sol√†,1039,M2,dona,-,-,CET,Taradell,36,05:33:56,--:--:--,--:--:--,--:--:--
+994,MercË,Cabanas Sol‡,1039,M2,dona,-,-,CET,Taradell,36,05:33:56,--:--:--,--:--:--,--:--:--
 995,Daniel,Freire Benet,993,M2,home,-,-,Innovit,El Brull,61,05:43:43,--:--:--,--:--:--,--:--:--
 996,Felipe,Gonzalez Riquelme,269,M1,home,-,-,Independent,Vic,478,06:21:51,--:--:--,--:--:--,--:--:--
 997,Oriol,Llop Sarsanedas,1010,M1,home,-,-,0,Barcelona,479,06:33:29,--:--:--,--:--:--,--:--:--
@@ -1000,38 +1000,38 @@ POSICI√ìN,NOMBRE,apellidos,dorsal,cat,sexo,ritmo,dif 1o,club,poblaci√≥n,poscat,A
 999,Alba,Fort Pinto,1074,M1,dona,-,-,0,les presses,422,06:37:10,--:--:--,--:--:--,--:--:--
 1000,Assumpta,Baucells Ribas,907,M2,dona,-,-,C. Excursionista Taradell,Malla,37,07:31:20,--:--:--,--:--:--,--:--:--
 1001,Judith,Curtichs Llored,908,M2,dona,-,-,C.E. Taradell,Baarcelona,38,07:31:25,--:--:--,--:--:--,--:--:--
-1002,Al√≠cia,Osorio Vila,135,M1,dona,00:09:43,02:52:05,0,Taradell,423,06:20:45,03:45:41,--:--:--,--:--:--
+1002,AlÌcia,Osorio Vila,135,M1,dona,00:09:43,02:52:05,0,Taradell,423,06:20:45,03:45:41,--:--:--,--:--:--
 1003,Francesc,Herrero Ballart,1025,M1,home,00:10:48,03:39:29,0,Taradell,481,06:06:06,03:49:40,--:--:--,07:50:18
 1004,Ivan,Saez Monleon,45,M1,home,00:13:47,05:49:09,0,CENTELLES,482,06:37:44,04:44:27,--:--:--,09:59:58
 1005,Catalina,Reus Gelabert,1130,M1,dona,-,-,U.Excursionista Vic,Vic,424,06:02:32,02:49:58,--:--:--,--:--:--
 1006,Marc,Royo Serradell,354,M1,home,-,-,MR26,Sant julia de vilatorta,483,06:02:23,--:--:--,--:--:--,--:--:--
 1007,Xavier,Rifa Vila,353,M1,home,-,-,Xrv21,Vic,484,06:02:10,--:--:--,--:--:--,--:--:--
-1008,Jaume,Par√©s Novellas,428,M1,home,-,-,0,Centelles,485,06:59:08,04:01:57,--:--:--,--:--:--
+1008,Jaume,ParÈs Novellas,428,M1,home,-,-,0,Centelles,485,06:59:08,04:01:57,--:--:--,--:--:--
 1009,Conxi,Valencia Palou,427,M1,dona,-,-,0,Centelles,425,06:59:09,04:02:02,--:--:--,--:--:--
-1010,Mer√ße,Sanchez  Frou,1106,M1,dona,-,-,0,Girona,426,07:28:21,03:52:44,--:--:--,--:--:--
-1011,Pon√ß,Feliu Latorre,1107,M1,home,-,-,0,girona,486,07:28:13,03:52:46,--:--:--,--:--:--
+1010,MerÁe,Sanchez  Frou,1106,M1,dona,-,-,0,Girona,426,07:28:21,03:52:44,--:--:--,--:--:--
+1011,PonÁ,Feliu Latorre,1107,M1,home,-,-,0,girona,486,07:28:13,03:52:46,--:--:--,--:--:--
 1012,Roser,Pijoan Aliu,878,M1,dona,-,-,Tiramilles,Begur,427,07:28:23,03:52:59,--:--:--,--:--:--
 1013,Guillem,Soler Selles,240,M1,home,-,-,0,Tona,487,06:32:31,03:48:03,--:--:--,--:--:--
 1014,Montse,Comellas Aguilar,1098,M1,dona,-,-,0,masies de voltrega,428,06:52:10,04:03:10,--:--:--,--:--:--
 1015,Elisenda,Realp Cortillas,1097,M1,dona,-,-,0,vic,429,06:52:02,04:03:09,--:--:--,--:--:--
 1016,Raquel,Castany Vilaregut,1096,M1,dona,-,-,0,torello,430,06:52:11,04:03:01,--:--:--,--:--:--
-1017,Silvia,Are√±as Campa,1195,M1,dona,-,-,0,sant hipolit de bvoltrega,431,06:52:20,04:02:59,--:--:--,--:--:--
+1017,Silvia,AreÒas Campa,1195,M1,dona,-,-,0,sant hipolit de bvoltrega,431,06:52:20,04:02:59,--:--:--,--:--:--
 1018,Cristina,Pladevall Vila,343,M1,dona,-,-,0,TONA,432,07:30:23,04:16:28,--:--:--,--:--:--
 1019,Montse,Bellavista Jonch,478,M1,dona,-,-,0,Vic,433,06:57:15,04:06:41,--:--:--,--:--:--
-1020,Paula,Arum√≠ Prat,481,M1,dona,-,-,0,VIC,434,06:56:48,04:06:38,--:--:--,--:--:--
+1020,Paula,ArumÌ Prat,481,M1,dona,-,-,0,VIC,434,06:56:48,04:06:38,--:--:--,--:--:--
 1021,Montserrat,Jutglar Sellares,477,M1,dona,-,-,0,Vic,435,06:56:08,04:07:08,--:--:--,--:--:--
 1022,Elisabet,Franqiesa,483,M1,dona,-,-,0,Vic,436,06:55:59,04:08:51,--:--:--,--:--:--
 1023,Bridget,Higgins,424,M1,dona,-,-,MADTEAM,HOSPITALET DE LLOBREGAT,437,07:36:03,04:27:35,--:--:--,--:--:--
-1024,Maria Esperanza,L√≥pez Benvenuty,193,M1,dona,-,-,0,Barcelona,438,07:36:05,04:27:51,--:--:--,--:--:--
+1024,Maria Esperanza,LÛpez Benvenuty,193,M1,dona,-,-,0,Barcelona,438,07:36:05,04:27:51,--:--:--,--:--:--
 1025,Anna,Solsona Armengol,125,M1,dona,-,-,0,Manresa,439,07:35:59,04:27:27,--:--:--,--:--:--
-1026,Isabel,Al√≠as Priego,356,M1,dona,-,-,0,Manresa,440,07:35:53,04:27:38,--:--:--,--:--:--
-1027,Jos√© Luis,P√©rez Arcas,357,M1,home,-,-,0,Manresa,488,07:35:59,04:27:36,--:--:--,--:--:--
+1026,Isabel,AlÌas Priego,356,M1,dona,-,-,0,Manresa,440,07:35:53,04:27:38,--:--:--,--:--:--
+1027,JosÈ Luis,PÈrez Arcas,357,M1,home,-,-,0,Manresa,488,07:35:59,04:27:36,--:--:--,--:--:--
 1028,Pau,Riba Farres,1110,M1,home,-,-,0,sant Julia de Vilatorta,489,06:58:51,04:36:41,--:--:--,--:--:--
 1029,Irene,Gumi Rovira,1113,M1,dona,-,-,0,sant julia de vilatorta,441,06:58:46,04:36:41,--:--:--,--:--:--
 1030,Ivet,Guni Rovira,1111,M1,home,-,-,0,sant Julia de Vilatorta,490,06:58:54,04:36:35,--:--:--,--:--:--
 1031,Ramon,Vila Altimir,414,M1,home,-,-,0,El Brull,491,06:44:46,04:34:05,--:--:--,--:--:--
 1032,Laura,Villarreal Tolchinsky,580,M1,dona,-,-,Pasein,Sant cugat del valles,442,06:54:44,04:25:28,--:--:--,--:--:--
-1033,In√©s,Clar√≥s Cendoya,1149,M1,dona,-,-,-,-,443,06:33:54,04:28:22,--:--:--,--:--:--
+1033,InÈs,ClarÛs Cendoya,1149,M1,dona,-,-,-,-,443,06:33:54,04:28:22,--:--:--,--:--:--
 1034,Mireia,Morera,332,M1,dona,-,-,0,Tona,444,06:56:49,05:05:47,--:--:--,--:--:--
 1035,Gemma,Albalat,543,M1,dona,-,-,0,vic,445,06:56:44,05:06:37,--:--:--,--:--:--
 1036,Claudia,Ferres,448,M1,dona,-,-,0,Vic,446,06:58:53,05:12:40,--:--:--,--:--:--
@@ -1042,12 +1042,11 @@ POSICI√ìN,NOMBRE,apellidos,dorsal,cat,sexo,ritmo,dif 1o,club,poblaci√≥n,poscat,A
 1041,Ricard,Garcia Gomez,918,M1,home,-,-,0,Calldetenes,492,06:51:00,04:44:01,--:--:--,--:--:--
 1042,Rosa Maria,Baucells Ferrer,955,M1,dona,-,-,0,Manlleu,450,06:25:51,05:10:36,--:--:--,--:--:--
 1043,Carme,Arderiu Prat,954,M1,dona,-,-,0,Manlleu,451,06:25:50,05:10:33,--:--:--,--:--:--
-1044,Irene,S√°ez,939,M1,dona,-,-,0,Sant Juli√† de Vilatorta,452,06:55:43,05:28:31,--:--:--,--:--:--
-1045,Jordi,Rebujent Moner,1004,M1,home,-,-,Agrupaci√≥ Esportiva Mediny√†,Girona,493,06:55:45,05:28:33,--:--:--,--:--:--
-1046,Elisabet,Garc√≠a Calder√≥n,222,M1,dona,-,-,0,Centelles,453,06:37:20,04:45:03,--:--:--,--:--:--
-1047,Ismenia,Xipell Garcia,600,M1,dona,-,-,0,Sant Miquel de Baleny√† (Seva),454,06:37:24,04:45:02,--:--:--,--:--:--
+1044,Irene,S·ez,939,M1,dona,-,-,0,Sant Juli‡ de Vilatorta,452,06:55:43,05:28:31,--:--:--,--:--:--
+1045,Jordi,Rebujent Moner,1004,M1,home,-,-,AgrupaciÛ Esportiva Mediny‡,Girona,493,06:55:45,05:28:33,--:--:--,--:--:--
+1046,Elisabet,GarcÌa CalderÛn,222,M1,dona,-,-,0,Centelles,453,06:37:20,04:45:03,--:--:--,--:--:--
+1047,Ismenia,Xipell Garcia,600,M1,dona,-,-,0,Sant Miquel de Baleny‡ (Seva),454,06:37:24,04:45:02,--:--:--,--:--:--
 1048,Eduard,Mir Pla,921,M1,home,-,-,0,VIC,494,05:46:16,05:04:09,--:--:--,--:--:--
 1049,Gloria,Ylla Catala,790,M1,dona,-,-,0,Vic,455,--:--:--,08:40:28,--:--:--,--:--:--
 1050,Laura,Miro Ylla,793,M2,dona,-,-,CET,Sta. Eugenia de Berga,39,--:--:--,08:40:49,--:--:--,--:--:--
 1051,Jordi,Oliver Rodriguez,785,M1,home,-,-,Tiramilles,Girona,495,--:--:--,11:21:18,--:--:--,--:--:--
-
