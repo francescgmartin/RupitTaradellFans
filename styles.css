@@ -17,44 +17,49 @@ body {
   padding: 16px;
 }
 
-/* Header / brand amb text escalat i wrap */
+/* Banner / brand */
 .brand {
-  --crest-h: 84px;
+  --crest-h: 64px;
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 18px;
   min-height: var(--crest-h);
-  flex-wrap: wrap; /* permet saltar a segona línia si cal */
+  background: #222;
+  border-radius: 10px;
+  padding: 18px 24px;
+  margin-bottom: 24px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.04);
 }
 .crest {
   height: var(--crest-h);
   width: auto;
   display: block;
-  background: transparent;
+  background: #fff;
+  border-radius: 8px;
+  border: 2px solid #eee;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.07);
 }
 .brand h1 {
-  font-size: calc(var(--crest-h) * 0.5);
-  line-height: 1.05;
-  margin: 0;
-  flex: 1 1 300px;            /* ocupa ample disponible, mínim 300px */
+  color: #fff;
+  background: #222;
+  padding: 4px 12px;
+  border-radius: 6px;
+  margin-bottom: 2px;
+  font-size: calc(var(--crest-h) * 0.9);
   letter-spacing: 0.02em;
+  line-height: 1;
+  white-space: nowrap;
 }
-.brand h2 {
-  font-size: calc(var(--crest-h) * 0.4);
-  line-height: 1.05;
-  margin: 0;
-  flex: 1 1 300px;            /* ocupa ample disponible, mínim 300px */
-  letter-spacing: 0.02em;
-}
-@media (max-width: 900px) {
-  .brand { --crest-h: 54px; }
-}
-@media (max-width: 600px) {
-  .brand { --crest-h: 48px; }
-}
-@media (max-width: 420px) {
-  .brand { --crest-h: 42px; }
-  .brand h1 { flex-basis: 360px; }
+.subtitle {
+  font-size: 1.15rem;
+  color: #eaeaea;
+  background: #222;
+  padding: 4px 12px;
+  border-radius: 6px;
+  display: inline-block;
+  margin-top: 6px;
+  letter-spacing: 0.04em;
+  font-weight: 500;
 }
 
 /* Espaiat entre seccions */
@@ -65,11 +70,11 @@ body {
   margin-top: 12px;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
-  border-radius: 6px;
+  border-radius: 12px; /* Cantonades arrodonides */
   padding: 6px 0;
   background:
     linear-gradient(to right, rgba(255,255,255,1), rgba(255,255,255,0)) 0 0 / 2rem 100% no-repeat,
-    linear-gradient(to left,  rgba(255,255,255,1), rgba(255,255,255,0)) 100% 0 / 2rem 100% no-repeat,
+    linear-gradient(to left, rgba(255,255,255,1), rgba(255,255,255,0)) 100% 0 / 2rem 100% no-repeat,
     #fff;
   background-attachment: local, local, scroll;
 }
@@ -87,6 +92,8 @@ body {
   min-width: 760px;
   border-collapse: collapse;
   background: #fff;
+  border-radius: 12px; /* Cantonades arrodonides */
+  overflow: hidden;    /* Perquè el border-radius sigui visible */
 }
 
 /* Cel·les */
@@ -99,17 +106,35 @@ th, td {
 }
 
 /* Sticky header */
-.table-wrap thead tr { background: #fafafa; }
+.table-wrap thead tr {
+  background: #222;
+}
 th {
   font-weight: 600;
   position: sticky;
   top: 0;
   z-index: 2;
-  background: #fafafa;
+  background: #222;
+  color: #fff;
+  white-space: normal; /* Permet salt de línia si cal */
+}
+
+/* Cantonades arrodonides a la capçalera i peu de taula */
+.table-wrap table thead tr:first-child th:first-child {
+  border-top-left-radius: 12px;
+}
+.table-wrap table thead tr:first-child th:last-child {
+  border-top-right-radius: 12px;
+}
+.table-wrap table tbody tr:last-child td:first-child {
+  border-bottom-left-radius: 12px;
+}
+.table-wrap table tbody tr:last-child td:last-child {
+  border-bottom-right-radius: 12px;
 }
 
 /* Alternança de colors a les files del tbody */
-.table-wrap tbody tr:nth-child(odd)  { background: #ffffff; }
+.table-wrap tbody tr:nth-child(odd) { background: #ffffff; }
 .table-wrap tbody tr:nth-child(even) { background: #f7f7f9; }
 
 /* Hover (opcional) */
@@ -123,14 +148,3 @@ th {
 
 /* Responsive tweaks */
 @media (max-width: 900px) {
-  .container { padding: 12px; }
-  .crest { width: 48px; }
-  .brand h1 { font-size: calc(var(--crest-h) * 0.9); }
-  .table-wrap table { min-width: 640px; }
-}
-
-/* Optional: scrollbar styling for WebKit (Chrome/Safari) */
-.table-wrap::-webkit-scrollbar { height: 10px; }
-.table-wrap::-webkit-scrollbar-track { background: #f5f5f5; border-radius: 10px; }
-.table-wrap::-webkit-scrollbar-thumb { background: #dadada; border-radius: 10px; }
-.table-wrap::-webkit-scrollbar-thumb:hover { background: #c7c7c7; }

@@ -1,103 +1,93 @@
+
 <!DOCTYPE html>
 <html lang="ca">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta charset="UTF-8">
   <title>Rupit-Taradell Fans</title>
   <link rel="stylesheet" href="styles.css"/>
 </head>
 <body>
-  <header class="site-header">
-    <div class="brand">
+  <div class="container">
+    <!-- Banner -->
+    <div class="brand mt-40">
       <img src="assets/taradell-crest.png" alt="C.E.T. Taradell" class="crest"/>
-      <h1>RUPIT TARADELL FANS</h1>
+      <div>
+        <h1>RUPIT TARADELL FANS</h1>
+        <div class="subtitle">43 KM · 1350 M DESNIVELL+</div>
+      </div>
     </div>
-  </header>
 
+    <!-- Resta del contingut original -->
+    <h2>Temps més ràpid conegut (unisex)</h2>
+    <div class="table-wrap">
+      <table id="fkt-table">
+        <thead>
+          <tr>
+            <th>Posició</th>
+            <th>Cognoms i Nom</th>
+            <th>Gènere</th>
+            <th>Edició</th>
+            <th>Temps a Sant Julià</th>
+            <th>Temps a Taradell</th>
+            <th>Ritme (min/km)</th>
+            <th>Club</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Files de resultats aquí -->
+        </tbody>
+      </table>
+    </div>
 
-  <main class="container">
-    <!-- FKT (unisex) -->
-    <section aria-labelledby="fkt-title">
-      <h2 id="fkt-title">Temps més ràpid conegut (unisex)</h2>
-      <div class="table-wrap">
-        <table id="fkt-table">
-          <thead>
-            <tr>
-              <th>Posició</th>
-              <th>Cognoms i Nom</th>
-              <th>Gènere</th>
-              <th>Edició</th>
-              <th>Temps a Sant Julià</th>
-              <th>Temps a Taradell</th>
-              <th>Ritme (min/km)</th>
-              <th>Club</th>
-            </tr>
-          </thead>
-          <tbody>
-            <!-- Renderitzat per script.js -->
-          </tbody>
-        </table>
-      </div>
-    </section>
+    <h2>Temps més ràpid conegut (femení)</h2>
+    <div class="table-wrap">
+      <table id="fkt-female-table">
+        <thead>
+          <tr>
+            <th>Posició</th>
+            <th>Cognoms i Nom</th>
+            <th>Gènere</th>
+            <th>Edició</th>
+            <th>Temps a Sant Julià</th>
+            <th>Temps a Taradell</th>
+            <th>Ritme (min/km)</th>
+            <th>Club</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Files de resultats aquí -->
+        </tbody>
+      </table>
+    </div>
 
-    <!-- FKT (femení) -->
-    <section aria-labelledby="fkt-female-title" class="mt-40">
-      <h2 id="fkt-female-title">Temps més ràpid conegut (femení)</h2>
-      <div class="table-wrap">
-        <table id="fkt-female-table">
-          <thead>
-            <tr>
-              <th>Posició</th>
-              <th>Cognoms i Nom</th>
-              <th>Gènere</th>
-              <th>Edició</th>
-              <th>Temps a Sant Julià</th>
-              <th>Temps a Taradell</th>
-              <th>Ritme (min/km)</th>
-              <th>Club</th>
-            </tr>
-          </thead>
-          <tbody>
-            <!-- Renderitzat per script.js -->
-          </tbody>
-        </table>
-      </div>
-    </section>
+    <h2>Resultats per edició</h2>
+    <label for="select-edicio">Selecciona edició:</label>
+    <select id="edition-select">
+      <!-- Opcions d'edició -->
+    </select>
+    <div class="table-wrap editions">
+	<table id="edition-table">
+        <thead>
+          <tr>
+            <th>Posició</th>
+            <th>Cognoms i Nom</th>
+            <th>Gènere</th>
+            <th>Temps a Sant Julià</th>
+            <th>Temps a Taradell</th>
+            <th>Ritme (min/km)</th>
+            <th>Club</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Files de resultats aquí -->
+        </tbody>
+      </table>
+    </div>
 
-    <!-- Resultats per edició -->
-    <section aria-labelledby="edition-title" class="mt-40">
-      <div class="section-header">
-        <h2 id="edition-title">Resultats per edició</h2>
-        <label for="edition-select" class="edition-label">Selecciona edició:</label>
-        <select id="edition-select">
-          <!-- Omplert per script.js -->
-        </select>
-      </div>
+    <footer class="site-footer">
+      © Rupit-Taradell Fans
+    </footer>
 
-      <!-- Taula amb scroll vertical limitat (molt gran: fins a 1100 files) -->
-      <div class="table-wrap editions">
-        <table id="edition-table">
-          <thead>
-            <tr>
-              <th>Posició</th>
-              <th>Cognoms i Nom</th>
-              <th>Gènere</th>
-              <th>Temps a Sant Julià</th>
-              <th>Temps a Taradell</th>
-              <th>Ritme (min/km)</th>
-              <th>Club</th>
-            </tr>
-          </thead>
-          <tbody>
-            <!-- Renderitzat per script.js -->
-          </tbody>
-        </table>
-      </div>
-    </section>
-  </main>
-
-  <footer class="site-footer">
-    <small>© Rupit-Taradell Fans</small>
   </footer>
 
     <script src="script.js"></script>
