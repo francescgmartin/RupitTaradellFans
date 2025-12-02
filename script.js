@@ -23,15 +23,19 @@ function paceMinPerKm(seconds, distanceKm) {
   return `${m}:${String(s).padStart(2, '0')}`;
 }
 
-function renderRows(tbody, rows, distanceKm) {
+
+function renderRows(tbody, rows, distanceKm, showYear = false) {
   tbody.innerHTML = '';
   rows.forEach((r, idx) => {
     const tr = document.createElement('tr');
     const pace = paceMinPerKm(r.time_net, distanceKm);
+
+    // Afegim la columna Year si showYear és true
     tr.innerHTML = `
-      <td>${idx + 1}</td>
+      <td>${idx + 1}</td>   
       <td>${r.full_name ?? ''}</td>
       <td>${r.gender ?? ''}</td>
+      ${showYear ? `<td>${r.year ?? ''}</td>` : ''}
       <td>${secondsToHMS(r.sant_julia)}</td>
       <td>${secondsToHMS(r.time_net)}</td>
       <td>${pace}</td>
@@ -40,6 +44,7 @@ function renderRows(tbody, rows, distanceKm) {
     tbody.appendChild(tr);
   });
 }
+
 
 // sanitize JSON text by replacing bare NaN tokens outside string literals with null
 function sanitizeJsonText(text) {
@@ -123,9 +128,9 @@ async function loadFKT() {
   try {
     const data = await fetchPossiblyInvalidJson(url);
     const top = (data?.overall?.FKT_top10) || [];
-    const distanceKm = 43.5; // same default as ETL
+    const distanceKm = 45; // same default as ETL
     const tbody = document.querySelector('#fkt-table tbody');
-    renderRows(tbody, top, distanceKm);
+    renderRows(tbody, top, distanceKm, true);
     console.log(`[loadFKT] rendered ${top.length} rows`);
   } catch (err) {
     console.error('[loadFKT] fetch error', err);
@@ -141,9 +146,9 @@ async function loadFKTFemale() {
     const data = await fetchPossiblyInvalidJson(url);
     // Canvi únic: node del JSON
     const top = (data?.by_gender?.F?.FKT_top10) || [];
-    const distanceKm = 43.5; // mateix default que l’ETL
+    const distanceKm = 45; // mateix default que l’ETL
     const tbody = document.querySelector('#fkt-female-table tbody'); // mateix patró, altre selector
-    renderRows(tbody, top, distanceKm);
+    renderRows(tbody, top, distanceKm, true);
     console.log(`[loadFKTFemale] rendered ${top.length} rows`);
   } catch (err) {
     console.error('[loadFKTFemale] fetch error', err);
@@ -158,7 +163,7 @@ async function loadEdition(year) {
   console.log('[loadEdition] fetching', url);
   try {
     const data = await fetchPossiblyInvalidJson(url);
-    const distanceKm = 43.4;
+    const distanceKm = data?.edition?.distance_km || 45;
     const rows = Array.isArray(data.results) ? data.results.slice() : [];
 
     // Order by net time ascending; non-finishers go to bottom
