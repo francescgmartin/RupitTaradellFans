@@ -1,7 +1,7 @@
 
 // Base URL for data (relative to where index.html is served)
 const DATA_BASE_URL = './out'; // IMPORTANT: keep 'out' here
-const AVAILABLE_YEARS = [2013,2014,2015,2016,2017,2018,2019,2021, 2022, 2023, 2024, 2025]; // Update with your real years
+const AVAILABLE_YEARS = ["TOTS",2013,2014,2015,2016,2017,2018,2019,2021, 2022, 2023, 2024, 2025]; // Update with your real years
 
 // --- Memòria d'estat per a l'edició carregada ---
 let CURRENT_EDITION_ROWS = [];
@@ -24,7 +24,7 @@ function applyEditionFilterByName(query) {
     ? baseRows.filter(r => (r.full_name || '').toLowerCase().includes(q))
     : baseRows;
 
-  renderRows(tbody, filtered, CURRENT_EDITION_DISTANCE_KM);
+  renderRows(tbody, filtered, CURRENT_EDITION_DISTANCE_KM,true);
 }
 
 
@@ -200,7 +200,7 @@ async function loadEdition(year) {
 
     const tbody = document.querySelector('#edition-table tbody');
     CURRENT_EDITION_ROWS = rows; // <-- AFEGEIX AIXÒ
-    renderRows(tbody, rows, distanceKm);
+    renderRows(tbody, rows, distanceKm, true);
     console.log(`[loadEdition] rendered ${rows.length} rows for`, year);
   } catch (err) {
     console.error('[loadEdition] fetch error', err);
