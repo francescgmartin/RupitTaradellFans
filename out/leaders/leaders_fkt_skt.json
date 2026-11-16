@@ -11,7 +11,43 @@
         "sant_julia": 8745
       },
       {
+        "year": null,
+        "runner_id": "50080530132a426293a993d00a1b3e91e9d62b3e",
+        "full_name": "PUJOL GARCIA Albert",
+        "gender": "M",
+        "club": null,
+        "time_net": 12641,
+        "sant_julia": 8745
+      },
+      {
+        "year": null,
+        "runner_id": "50080530132a426293a993d00a1b3e91e9d62b3e",
+        "full_name": "PUJOL GARCIA Albert",
+        "gender": "M",
+        "club": null,
+        "time_net": 12641,
+        "sant_julia": 8745
+      },
+      {
         "year": 2022,
+        "runner_id": "50080530132a426293a993d00a1b3e91e9d62b3e",
+        "full_name": "PUJOL GARCIA ALBERT",
+        "gender": "M",
+        "club": null,
+        "time_net": 13192,
+        "sant_julia": 9110
+      },
+      {
+        "year": null,
+        "runner_id": "50080530132a426293a993d00a1b3e91e9d62b3e",
+        "full_name": "PUJOL GARCIA ALBERT",
+        "gender": "M",
+        "club": null,
+        "time_net": 13192,
+        "sant_julia": 9110
+      },
+      {
+        "year": null,
         "runner_id": "50080530132a426293a993d00a1b3e91e9d62b3e",
         "full_name": "PUJOL GARCIA ALBERT",
         "gender": "M",
@@ -29,6 +65,24 @@
         "sant_julia": null
       },
       {
+        "year": null,
+        "runner_id": "85cbecf3a2d97723252066231470682a05aad65b",
+        "full_name": "BAULENAS Naim",
+        "gender": "M",
+        "club": null,
+        "time_net": 13578,
+        "sant_julia": null
+      },
+      {
+        "year": null,
+        "runner_id": "85cbecf3a2d97723252066231470682a05aad65b",
+        "full_name": "BAULENAS Naim",
+        "gender": "M",
+        "club": null,
+        "time_net": 13578,
+        "sant_julia": null
+      },
+      {
         "year": 2022,
         "runner_id": "426bcb2f956764e07bd872bf90f3734516933e5f",
         "full_name": "BAULENAS SANGLAS NAIM",
@@ -36,65 +90,29 @@
         "club": null,
         "time_net": 14015,
         "sant_julia": 9810
-      },
-      {
-        "year": 2025,
-        "runner_id": "db78473b25ea2afc1463324d9cbd3e68324cdb9e",
-        "full_name": "COMAS CABANAS ALEIX",
-        "gender": "M",
-        "club": "CE TARADELL",
-        "time_net": 14147,
-        "sant_julia": 9864
-      },
-      {
-        "year": 2018,
-        "runner_id": "80e5455b8c0f5f4d3a4cd9cd30da40979c54f9ba",
-        "full_name": "Lleïr Pladevall Terricabras",
-        "gender": "M",
-        "club": "0",
-        "time_net": 14450,
-        "sant_julia": 9963
-      },
-      {
-        "year": 2017,
-        "runner_id": "80e5455b8c0f5f4d3a4cd9cd30da40979c54f9ba",
-        "full_name": "Lleïr Pladevall Terricabras",
-        "gender": "M",
-        "club": "0",
-        "time_net": 14576,
-        "sant_julia": 10096
-      },
-      {
-        "year": 2019,
-        "runner_id": "80e5455b8c0f5f4d3a4cd9cd30da40979c54f9ba",
-        "full_name": "Lleïr Pladevall Terricabras",
-        "gender": "M",
-        "club": "0",
-        "time_net": 14629,
-        "sant_julia": 9907
-      },
-      {
-        "year": 2018,
-        "runner_id": "d01b3286165f0ab7a5372a3d8545e313a11dcf2d",
-        "full_name": "Jordi Aguilera Sañe",
-        "gender": "M",
-        "club": "Centre excursionista Taradell",
-        "time_net": 14636,
-        "sant_julia": 10006
-      },
-      {
-        "year": 2019,
-        "runner_id": "5dab225edf0b982d94eec70edc169b2021aa1783",
-        "full_name": "Albert Pujol Garcia",
-        "gender": "M",
-        "club": "Centre Excursionista Taradell",
-        "time_net": 14693,
-        "sant_julia": 9909
       }
     ],
     "SKT_top10": [
       {
         "year": 2017,
+        "runner_id": "4e58d5bfd6ebf22efd569826eab0a2bf1a63462a",
+        "full_name": "Montse Trias",
+        "gender": "F",
+        "club": "0",
+        "time_net": 65593,
+        "sant_julia": 53844
+      },
+      {
+        "year": null,
+        "runner_id": "4e58d5bfd6ebf22efd569826eab0a2bf1a63462a",
+        "full_name": "Montse Trias",
+        "gender": "F",
+        "club": "0",
+        "time_net": 65593,
+        "sant_julia": 53844
+      },
+      {
+        "year": null,
         "runner_id": "4e58d5bfd6ebf22efd569826eab0a2bf1a63462a",
         "full_name": "Montse Trias",
         "gender": "F",
@@ -112,7 +130,43 @@
         "sant_julia": 51725
       },
       {
+        "year": null,
+        "runner_id": "56a443c116f07e7b668b7aa4c53437544ab42e0c",
+        "full_name": "Montse Bonilla Perez",
+        "gender": "F",
+        "club": "0",
+        "time_net": 65403,
+        "sant_julia": 51725
+      },
+      {
+        "year": null,
+        "runner_id": "56a443c116f07e7b668b7aa4c53437544ab42e0c",
+        "full_name": "Montse Bonilla Perez",
+        "gender": "F",
+        "club": "0",
+        "time_net": 65403,
+        "sant_julia": 51725
+      },
+      {
         "year": 2019,
+        "runner_id": "08ab02fdfa2d6cd30212ae569f4ff5a291c39262",
+        "full_name": "Ramon Duch Mestre",
+        "gender": "M",
+        "club": "CENTRE EXCTA QUERALT",
+        "time_net": 64802,
+        "sant_julia": 51738
+      },
+      {
+        "year": null,
+        "runner_id": "08ab02fdfa2d6cd30212ae569f4ff5a291c39262",
+        "full_name": "Ramon Duch Mestre",
+        "gender": "M",
+        "club": "CENTRE EXCTA QUERALT",
+        "time_net": 64802,
+        "sant_julia": 51738
+      },
+      {
+        "year": null,
         "runner_id": "08ab02fdfa2d6cd30212ae569f4ff5a291c39262",
         "full_name": "Ramon Duch Mestre",
         "gender": "M",
@@ -128,60 +182,6 @@
         "club": "0",
         "time_net": 64003,
         "sant_julia": 51621
-      },
-      {
-        "year": 2017,
-        "runner_id": "f98e8869bcdb4b47f5e94f6800a3f9fdd9b28e72",
-        "full_name": "Laura Goula Colomer",
-        "gender": "F",
-        "club": "0",
-        "time_net": 62311,
-        "sant_julia": null
-      },
-      {
-        "year": 2017,
-        "runner_id": "66c14e46bf1805ba6701cc7ae2eb87520b59c494",
-        "full_name": "Montse Puig Arrom",
-        "gender": "F",
-        "club": "excursionista de Hostalets",
-        "time_net": 61611,
-        "sant_julia": 48719
-      },
-      {
-        "year": 2016,
-        "runner_id": "7612a76423ae2328f693696bf93a48ecce394028",
-        "full_name": "Júlia Reig Sistach",
-        "gender": "F",
-        "club": "-",
-        "time_net": 60884,
-        "sant_julia": 46115
-      },
-      {
-        "year": 2016,
-        "runner_id": "8025dc71da4ca79e68a2cbda88d71f5da2bea59b",
-        "full_name": "Marga Sistach",
-        "gender": "F",
-        "club": "-",
-        "time_net": 60881,
-        "sant_julia": 46122
-      },
-      {
-        "year": 2016,
-        "runner_id": "f83613898157ef0be1db53e4a3612dced37fd557",
-        "full_name": "Toni Reig Cassassas",
-        "gender": "M",
-        "club": "-",
-        "time_net": 60880,
-        "sant_julia": 46126
-      },
-      {
-        "year": 2016,
-        "runner_id": "198ee172c039960fb23de0e7ed0ff7c4c7f22bb6",
-        "full_name": "Martina Reig Sistach",
-        "gender": "F",
-        "club": "-",
-        "time_net": 60879,
-        "sant_julia": 46118
       }
     ]
   },
@@ -190,6 +190,24 @@
       "FKT_top10": [
         {
           "year": 2023,
+          "runner_id": "50080530132a426293a993d00a1b3e91e9d62b3e",
+          "full_name": "PUJOL GARCIA Albert",
+          "gender": "M",
+          "club": null,
+          "time_net": 12641,
+          "sant_julia": 8745
+        },
+        {
+          "year": null,
+          "runner_id": "50080530132a426293a993d00a1b3e91e9d62b3e",
+          "full_name": "PUJOL GARCIA Albert",
+          "gender": "M",
+          "club": null,
+          "time_net": 12641,
+          "sant_julia": 8745
+        },
+        {
+          "year": null,
           "runner_id": "50080530132a426293a993d00a1b3e91e9d62b3e",
           "full_name": "PUJOL GARCIA Albert",
           "gender": "M",
@@ -207,7 +225,43 @@
           "sant_julia": 9110
         },
         {
+          "year": null,
+          "runner_id": "50080530132a426293a993d00a1b3e91e9d62b3e",
+          "full_name": "PUJOL GARCIA ALBERT",
+          "gender": "M",
+          "club": null,
+          "time_net": 13192,
+          "sant_julia": 9110
+        },
+        {
+          "year": null,
+          "runner_id": "50080530132a426293a993d00a1b3e91e9d62b3e",
+          "full_name": "PUJOL GARCIA ALBERT",
+          "gender": "M",
+          "club": null,
+          "time_net": 13192,
+          "sant_julia": 9110
+        },
+        {
           "year": 2023,
+          "runner_id": "85cbecf3a2d97723252066231470682a05aad65b",
+          "full_name": "BAULENAS Naim",
+          "gender": "M",
+          "club": null,
+          "time_net": 13578,
+          "sant_julia": null
+        },
+        {
+          "year": null,
+          "runner_id": "85cbecf3a2d97723252066231470682a05aad65b",
+          "full_name": "BAULENAS Naim",
+          "gender": "M",
+          "club": null,
+          "time_net": 13578,
+          "sant_julia": null
+        },
+        {
+          "year": null,
           "runner_id": "85cbecf3a2d97723252066231470682a05aad65b",
           "full_name": "BAULENAS Naim",
           "gender": "M",
@@ -223,65 +277,29 @@
           "club": null,
           "time_net": 14015,
           "sant_julia": 9810
-        },
-        {
-          "year": 2025,
-          "runner_id": "db78473b25ea2afc1463324d9cbd3e68324cdb9e",
-          "full_name": "COMAS CABANAS ALEIX",
-          "gender": "M",
-          "club": "CE TARADELL",
-          "time_net": 14147,
-          "sant_julia": 9864
-        },
-        {
-          "year": 2018,
-          "runner_id": "80e5455b8c0f5f4d3a4cd9cd30da40979c54f9ba",
-          "full_name": "Lleïr Pladevall Terricabras",
-          "gender": "M",
-          "club": "0",
-          "time_net": 14450,
-          "sant_julia": 9963
-        },
-        {
-          "year": 2017,
-          "runner_id": "80e5455b8c0f5f4d3a4cd9cd30da40979c54f9ba",
-          "full_name": "Lleïr Pladevall Terricabras",
-          "gender": "M",
-          "club": "0",
-          "time_net": 14576,
-          "sant_julia": 10096
-        },
-        {
-          "year": 2019,
-          "runner_id": "80e5455b8c0f5f4d3a4cd9cd30da40979c54f9ba",
-          "full_name": "Lleïr Pladevall Terricabras",
-          "gender": "M",
-          "club": "0",
-          "time_net": 14629,
-          "sant_julia": 9907
-        },
-        {
-          "year": 2018,
-          "runner_id": "d01b3286165f0ab7a5372a3d8545e313a11dcf2d",
-          "full_name": "Jordi Aguilera Sañe",
-          "gender": "M",
-          "club": "Centre excursionista Taradell",
-          "time_net": 14636,
-          "sant_julia": 10006
-        },
-        {
-          "year": 2019,
-          "runner_id": "5dab225edf0b982d94eec70edc169b2021aa1783",
-          "full_name": "Albert Pujol Garcia",
-          "gender": "M",
-          "club": "Centre Excursionista Taradell",
-          "time_net": 14693,
-          "sant_julia": 9909
         }
       ],
       "SKT_top10": [
         {
           "year": 2019,
+          "runner_id": "08ab02fdfa2d6cd30212ae569f4ff5a291c39262",
+          "full_name": "Ramon Duch Mestre",
+          "gender": "M",
+          "club": "CENTRE EXCTA QUERALT",
+          "time_net": 64802,
+          "sant_julia": 51738
+        },
+        {
+          "year": null,
+          "runner_id": "08ab02fdfa2d6cd30212ae569f4ff5a291c39262",
+          "full_name": "Ramon Duch Mestre",
+          "gender": "M",
+          "club": "CENTRE EXCTA QUERALT",
+          "time_net": 64802,
+          "sant_julia": 51738
+        },
+        {
+          "year": null,
           "runner_id": "08ab02fdfa2d6cd30212ae569f4ff5a291c39262",
           "full_name": "Ramon Duch Mestre",
           "gender": "M",
@@ -299,7 +317,43 @@
           "sant_julia": 51621
         },
         {
+          "year": null,
+          "runner_id": "cc1c00a78f8be16d04010a007fe6af9aa3fa9688",
+          "full_name": "Fernando Escubós Vidal-ribas",
+          "gender": "M",
+          "club": "0",
+          "time_net": 64003,
+          "sant_julia": 51621
+        },
+        {
+          "year": null,
+          "runner_id": "cc1c00a78f8be16d04010a007fe6af9aa3fa9688",
+          "full_name": "Fernando Escubós Vidal-ribas",
+          "gender": "M",
+          "club": "0",
+          "time_net": 64003,
+          "sant_julia": 51621
+        },
+        {
           "year": 2016,
+          "runner_id": "f83613898157ef0be1db53e4a3612dced37fd557",
+          "full_name": "Toni Reig Cassassas",
+          "gender": "M",
+          "club": "-",
+          "time_net": 60880,
+          "sant_julia": 46126
+        },
+        {
+          "year": null,
+          "runner_id": "f83613898157ef0be1db53e4a3612dced37fd557",
+          "full_name": "Toni Reig Cassassas",
+          "gender": "M",
+          "club": "-",
+          "time_net": 60880,
+          "sant_julia": 46126
+        },
+        {
+          "year": null,
           "runner_id": "f83613898157ef0be1db53e4a3612dced37fd557",
           "full_name": "Toni Reig Cassassas",
           "gender": "M",
@@ -315,60 +369,6 @@
           "club": "0",
           "time_net": 58771,
           "sant_julia": 45715
-        },
-        {
-          "year": 2018,
-          "runner_id": "7822445d44d2ff6a4e9d3613f4a463dd00ac29f2",
-          "full_name": "Joan Redondo Pelaez",
-          "gender": "M",
-          "club": "0",
-          "time_net": 55356,
-          "sant_julia": 46148
-        },
-        {
-          "year": 2016,
-          "runner_id": "c75ae5360bafe147ca32956b897faf2cac97c071",
-          "full_name": "Hèctor Badia Auret",
-          "gender": "M",
-          "club": "Club Excursionista Seva",
-          "time_net": 55347,
-          "sant_julia": 45303
-        },
-        {
-          "year": 2018,
-          "runner_id": "21af23e5b2b626715bebfcd3e16cedb519798a6b",
-          "full_name": "Joan Conill Mateu",
-          "gender": "M",
-          "club": "Unio Excurionista Vic",
-          "time_net": 55241,
-          "sant_julia": 44364
-        },
-        {
-          "year": 2018,
-          "runner_id": "9e02cc4f0648003446b2e234983a4299e6078806",
-          "full_name": "Ramon Costa Rovira",
-          "gender": "M",
-          "club": "Unio Excurionista Vic",
-          "time_net": 55232,
-          "sant_julia": 44365
-        },
-        {
-          "year": 2016,
-          "runner_id": "e6707ae35cba199b1079a0d42f6dd2fdc7c3a748",
-          "full_name": "Santi Sans Palmes",
-          "gender": "M",
-          "club": "0",
-          "time_net": 54887,
-          "sant_julia": 44783
-        },
-        {
-          "year": 2015,
-          "runner_id": "81f488be30d1bc2199b2541dda2d708f624b768e",
-          "full_name": "MIQUEL SAÑA GUIX",
-          "gender": "M",
-          "club": "Club Excursionista Ripoll",
-          "time_net": 53755,
-          "sant_julia": 43033
         }
       ]
     },
@@ -384,6 +384,42 @@
           "sant_julia": 12435
         },
         {
+          "year": null,
+          "runner_id": "51d4a92c8ed5145af08a8520a92e1a6e7a62a25c",
+          "full_name": "CAñIGUERAL BATLLOSERA ESTEL",
+          "gender": "F",
+          "club": "CLUB EXCURSIONISTA CALLDETENES",
+          "time_net": 17387,
+          "sant_julia": 12435
+        },
+        {
+          "year": null,
+          "runner_id": "51d4a92c8ed5145af08a8520a92e1a6e7a62a25c",
+          "full_name": "CAñIGUERAL BATLLOSERA ESTEL",
+          "gender": "F",
+          "club": "CLUB EXCURSIONISTA CALLDETENES",
+          "time_net": 17387,
+          "sant_julia": 12435
+        },
+        {
+          "year": 2026,
+          "runner_id": "3226a11301a806a06a7fda80354e583ee7bf5af0",
+          "full_name": "VILA BELLVEHí CRISTINA",
+          "gender": "F",
+          "club": NaN,
+          "time_net": 17853,
+          "sant_julia": 13225
+        },
+        {
+          "year": null,
+          "runner_id": "3226a11301a806a06a7fda80354e583ee7bf5af0",
+          "full_name": "VILA BELLVEHí CRISTINA",
+          "gender": "F",
+          "club": NaN,
+          "time_net": 17853,
+          "sant_julia": 13225
+        },
+        {
           "year": 2023,
           "runner_id": "caf558e8908e0e7d1e3779ba988e1530e01904f3",
           "full_name": "CAÑIGUERAL Estel",
@@ -393,81 +429,63 @@
           "sant_julia": 12668
         },
         {
-          "year": 2016,
-          "runner_id": "75cb822b175c6d026399271097c3858382797de9",
-          "full_name": "Gemma Rica Botia",
+          "year": null,
+          "runner_id": "caf558e8908e0e7d1e3779ba988e1530e01904f3",
+          "full_name": "CAÑIGUERAL Estel",
           "gender": "F",
-          "club": "Unió Excursionista de Vic",
-          "time_net": 18557,
-          "sant_julia": 12655
+          "club": null,
+          "time_net": 18312,
+          "sant_julia": 12668
         },
         {
-          "year": 2017,
-          "runner_id": "f37c47b7682edb5f6b5250198fe33797ea73f12b",
-          "full_name": "Berta Rodriguez Brachs",
+          "year": null,
+          "runner_id": "caf558e8908e0e7d1e3779ba988e1530e01904f3",
+          "full_name": "CAÑIGUERAL Estel",
           "gender": "F",
-          "club": "Les Tortugues",
-          "time_net": 18692,
-          "sant_julia": 12831
+          "club": null,
+          "time_net": 18312,
+          "sant_julia": 12668
         },
         {
-          "year": 2016,
-          "runner_id": "ea044548c2b8701a06fc4027da1ad74f18ed0139",
-          "full_name": "Elisenda Pla Puigbò",
+          "year": 2026,
+          "runner_id": "1374b30bf9a646288eed1b3a5a8cebcfee0553ae",
+          "full_name": "BONACHí TEXIER SANDRA",
           "gender": "F",
-          "club": "Independent",
-          "time_net": 18760,
-          "sant_julia": 12867
+          "club": NaN,
+          "time_net": 18534,
+          "sant_julia": 12978
         },
         {
-          "year": 2016,
-          "runner_id": "a1c455c0ff5d3456bb8b7ce8e376255d3043eb5e",
-          "full_name": "Roser Castanyer Serra",
+          "year": null,
+          "runner_id": "1374b30bf9a646288eed1b3a5a8cebcfee0553ae",
+          "full_name": "BONACHí TEXIER SANDRA",
           "gender": "F",
-          "club": "Centre excursionista Taradell",
-          "time_net": 18916,
-          "sant_julia": 13019
-        },
-        {
-          "year": 2016,
-          "runner_id": "a09442a539279630d867baedb6acf1249441b5ce",
-          "full_name": "Nuria Castanyer Serra",
-          "gender": "F",
-          "club": "Centre excursionista Taradell",
-          "time_net": 18928,
-          "sant_julia": 13019
-        },
-        {
-          "year": 2018,
-          "runner_id": "9a99ad5d5cab09ceac84294599279496f3eeddfd",
-          "full_name": "Elisabet Noguera Codina",
-          "gender": "F",
-          "club": "Esports Estel",
-          "time_net": 18989,
-          "sant_julia": 12641
-        },
-        {
-          "year": 2015,
-          "runner_id": "757180fc077780dc533919bb454529e4f202d442",
-          "full_name": "HELENA MERCADER LLOBERA",
-          "gender": "F",
-          "club": "0",
-          "time_net": 19010,
-          "sant_julia": 12789
-        },
-        {
-          "year": 2018,
-          "runner_id": "6d1ba03de86c547d05ee4cadc20429cfbf903e29",
-          "full_name": "Elena Sanchez Gomez",
-          "gender": "F",
-          "club": "0",
-          "time_net": 19058,
-          "sant_julia": 13288
+          "club": NaN,
+          "time_net": 18534,
+          "sant_julia": 12978
         }
       ],
       "SKT_top10": [
         {
           "year": 2017,
+          "runner_id": "4e58d5bfd6ebf22efd569826eab0a2bf1a63462a",
+          "full_name": "Montse Trias",
+          "gender": "F",
+          "club": "0",
+          "time_net": 65593,
+          "sant_julia": 53844
+        },
+        {
+          "year": null,
+          "runner_id": "4e58d5bfd6ebf22efd569826eab0a2bf1a63462a",
+          "full_name": "Montse Trias",
+          "gender": "F",
+          "club": "0",
+          "time_net": 65593,
+          "sant_julia": 53844
+        },
+        {
+          "year": null,
           "runner_id": "4e58d5bfd6ebf22efd569826eab0a2bf1a63462a",
           "full_name": "Montse Trias",
           "gender": "F",
@@ -485,7 +503,43 @@
           "sant_julia": 51725
         },
         {
+          "year": null,
+          "runner_id": "56a443c116f07e7b668b7aa4c53437544ab42e0c",
+          "full_name": "Montse Bonilla Perez",
+          "gender": "F",
+          "club": "0",
+          "time_net": 65403,
+          "sant_julia": 51725
+        },
+        {
+          "year": null,
+          "runner_id": "56a443c116f07e7b668b7aa4c53437544ab42e0c",
+          "full_name": "Montse Bonilla Perez",
+          "gender": "F",
+          "club": "0",
+          "time_net": 65403,
+          "sant_julia": 51725
+        },
+        {
           "year": 2017,
+          "runner_id": "f98e8869bcdb4b47f5e94f6800a3f9fdd9b28e72",
+          "full_name": "Laura Goula Colomer",
+          "gender": "F",
+          "club": "0",
+          "time_net": 62311,
+          "sant_julia": null
+        },
+        {
+          "year": null,
+          "runner_id": "f98e8869bcdb4b47f5e94f6800a3f9fdd9b28e72",
+          "full_name": "Laura Goula Colomer",
+          "gender": "F",
+          "club": "0",
+          "time_net": 62311,
+          "sant_julia": null
+        },
+        {
+          "year": null,
           "runner_id": "f98e8869bcdb4b47f5e94f6800a3f9fdd9b28e72",
           "full_name": "Laura Goula Colomer",
           "gender": "F",
@@ -501,60 +555,6 @@
           "club": "excursionista de Hostalets",
           "time_net": 61611,
           "sant_julia": 48719
-        },
-        {
-          "year": 2016,
-          "runner_id": "7612a76423ae2328f693696bf93a48ecce394028",
-          "full_name": "Júlia Reig Sistach",
-          "gender": "F",
-          "club": "-",
-          "time_net": 60884,
-          "sant_julia": 46115
-        },
-        {
-          "year": 2016,
-          "runner_id": "8025dc71da4ca79e68a2cbda88d71f5da2bea59b",
-          "full_name": "Marga Sistach",
-          "gender": "F",
-          "club": "-",
-          "time_net": 60881,
-          "sant_julia": 46122
-        },
-        {
-          "year": 2016,
-          "runner_id": "198ee172c039960fb23de0e7ed0ff7c4c7f22bb6",
-          "full_name": "Martina Reig Sistach",
-          "gender": "F",
-          "club": "-",
-          "time_net": 60879,
-          "sant_julia": 46118
-        },
-        {
-          "year": 2016,
-          "runner_id": "c5818947dc8ac1fbd88a3e6217ee12980172517f",
-          "full_name": "Laia Reig Sistach",
-          "gender": "F",
-          "club": "-",
-          "time_net": 60876,
-          "sant_julia": 46120
-        },
-        {
-          "year": 2018,
-          "runner_id": "b6c1044794f49d65b689a65b4ff532acca4944ea",
-          "full_name": "Mireia Clotet Sala",
-          "gender": "F",
-          "club": "0",
-          "time_net": 59820,
-          "sant_julia": 48003
-        },
-        {
-          "year": 2018,
-          "runner_id": "731df2f4c89623241127bb402d13d05723853c9a",
-          "full_name": "Laia Sabaté Cequier",
-          "gender": "F",
-          "club": "0",
-          "time_net": 58816,
-          "sant_julia": null
         }
       ]
     },
@@ -562,6 +562,24 @@
       "FKT_top10": [
         {
           "year": 2013,
+          "runner_id": "9d91d53aa00f62860b3b8531bbd315910140bc80",
+          "full_name": "RICARD CASTAÑO SOLER",
+          "gender": null,
+          "club": "CLUB EXCTA. CALLDETENES",
+          "time_net": 16704,
+          "sant_julia": null
+        },
+        {
+          "year": null,
+          "runner_id": "9d91d53aa00f62860b3b8531bbd315910140bc80",
+          "full_name": "RICARD CASTAÑO SOLER",
+          "gender": null,
+          "club": "CLUB EXCTA. CALLDETENES",
+          "time_net": 16704,
+          "sant_julia": null
+        },
+        {
+          "year": null,
           "runner_id": "9d91d53aa00f62860b3b8531bbd315910140bc80",
           "full_name": "RICARD CASTAÑO SOLER",
           "gender": null,
@@ -579,7 +597,43 @@
           "sant_julia": null
         },
         {
+          "year": null,
+          "runner_id": "a5e4cd79ae293284f30307775ee9018ba3b5fb37",
+          "full_name": "JORDI PASCUAL SALA",
+          "gender": null,
+          "club": "0",
+          "time_net": 17515,
+          "sant_julia": null
+        },
+        {
+          "year": null,
+          "runner_id": "a5e4cd79ae293284f30307775ee9018ba3b5fb37",
+          "full_name": "JORDI PASCUAL SALA",
+          "gender": null,
+          "club": "0",
+          "time_net": 17515,
+          "sant_julia": null
+        },
+        {
           "year": 2013,
+          "runner_id": "ee61fc6d7046e4cebff78551fcf46821e5d1c839",
+          "full_name": "ALFONS MORCILLO VALERO",
+          "gender": null,
+          "club": "CENTRE EXCTA. TARADELL",
+          "time_net": 17913,
+          "sant_julia": null
+        },
+        {
+          "year": null,
+          "runner_id": "ee61fc6d7046e4cebff78551fcf46821e5d1c839",
+          "full_name": "ALFONS MORCILLO VALERO",
+          "gender": null,
+          "club": "CENTRE EXCTA. TARADELL",
+          "time_net": 17913,
+          "sant_julia": null
+        },
+        {
+          "year": null,
           "runner_id": "ee61fc6d7046e4cebff78551fcf46821e5d1c839",
           "full_name": "ALFONS MORCILLO VALERO",
           "gender": null,
@@ -595,65 +649,29 @@
           "club": "0",
           "time_net": 18027,
           "sant_julia": null
-        },
-        {
-          "year": 2023,
-          "runner_id": "365cacc163e952f124a7b2c959533b29d6f6afc1",
-          "full_name": "COLOMER Eva",
-          "gender": null,
-          "club": null,
-          "time_net": 18117,
-          "sant_julia": 12625
-        },
-        {
-          "year": 2013,
-          "runner_id": "3bb443a2b9c6eadb006bdf7beb9179af67b967a7",
-          "full_name": "DAVID MONTAÑA CUSTODI",
-          "gender": null,
-          "club": "AL-PI-NISME CLUB ESPORTIU",
-          "time_net": 18275,
-          "sant_julia": null
-        },
-        {
-          "year": 2013,
-          "runner_id": "deb9de55bfb7a096f7ec9f1c1c71338c6e20dc26",
-          "full_name": "XAVIER FONT MAIDEU",
-          "gender": null,
-          "club": "0",
-          "time_net": 18347,
-          "sant_julia": null
-        },
-        {
-          "year": 2013,
-          "runner_id": "d7a2eba1d44b4bf09f238c6fcfaf546cd4e5d9aa",
-          "full_name": "MIGUEL MONTILLA VALLEJO",
-          "gender": null,
-          "club": "0",
-          "time_net": 18489,
-          "sant_julia": null
-        },
-        {
-          "year": 2016,
-          "runner_id": "df4fbfed06484375a9e20efc9417709d8664b028",
-          "full_name": "Maria Rosa Casanovas Feliu",
-          "gender": null,
-          "club": "-",
-          "time_net": 18759,
-          "sant_julia": 12851
-        },
-        {
-          "year": 2013,
-          "runner_id": "611de3ec948ad13a5652432003999072133496b5",
-          "full_name": "MOISES PONS FORNELL",
-          "gender": null,
-          "club": "ASS.ESP. MOUNTAIN RUNNERS DEL BERGUEDÀ",
-          "time_net": 19203,
-          "sant_julia": null
         }
       ],
       "SKT_top10": [
         {
           "year": 2023,
+          "runner_id": "96329c66189fa4c0d9860d87d5231bdc0bcd3d5c",
+          "full_name": "VERDAGUER Francesc",
+          "gender": null,
+          "club": null,
+          "time_net": 60645,
+          "sant_julia": 48909
+        },
+        {
+          "year": null,
+          "runner_id": "96329c66189fa4c0d9860d87d5231bdc0bcd3d5c",
+          "full_name": "VERDAGUER Francesc",
+          "gender": null,
+          "club": null,
+          "time_net": 60645,
+          "sant_julia": 48909
+        },
+        {
+          "year": null,
           "runner_id": "96329c66189fa4c0d9860d87d5231bdc0bcd3d5c",
           "full_name": "VERDAGUER Francesc",
           "gender": null,
@@ -671,7 +689,43 @@
           "sant_julia": 46604
         },
         {
+          "year": null,
+          "runner_id": "0454b76a4e9644c99c085ac162b7c4aed82acd67",
+          "full_name": "ESPINA OLIVER ARNAU",
+          "gender": null,
+          "club": null,
+          "time_net": 58059,
+          "sant_julia": 46604
+        },
+        {
+          "year": null,
+          "runner_id": "0454b76a4e9644c99c085ac162b7c4aed82acd67",
+          "full_name": "ESPINA OLIVER ARNAU",
+          "gender": null,
+          "club": null,
+          "time_net": 58059,
+          "sant_julia": 46604
+        },
+        {
           "year": 2022,
+          "runner_id": "071bf03ddf00d44271e3e5d21f16e29046659ba2",
+          "full_name": "ESPINA ORDEIX ILDEFONS",
+          "gender": null,
+          "club": null,
+          "time_net": 58058,
+          "sant_julia": 46602
+        },
+        {
+          "year": null,
+          "runner_id": "071bf03ddf00d44271e3e5d21f16e29046659ba2",
+          "full_name": "ESPINA ORDEIX ILDEFONS",
+          "gender": null,
+          "club": null,
+          "time_net": 58058,
+          "sant_julia": 46602
+        },
+        {
+          "year": null,
           "runner_id": "071bf03ddf00d44271e3e5d21f16e29046659ba2",
           "full_name": "ESPINA ORDEIX ILDEFONS",
           "gender": null,
@@ -687,60 +741,6 @@
           "club": null,
           "time_net": 52046,
           "sant_julia": 42882
-        },
-        {
-          "year": 2022,
-          "runner_id": "d94973eae5b3c4c82436789ac719d167f9160083",
-          "full_name": "PUJOL SANCHEZ SYLVIA",
-          "gender": null,
-          "club": null,
-          "time_net": 45325,
-          "sant_julia": 34426
-        },
-        {
-          "year": 2022,
-          "runner_id": "93fb3c9e41214aeea37e3fae436928778b4ab415",
-          "full_name": "ARRUFAT ESQUILLOR PILAR",
-          "gender": null,
-          "club": null,
-          "time_net": 45316,
-          "sant_julia": 34425
-        },
-        {
-          "year": 2022,
-          "runner_id": "1d8cee681bfff767a1e9f5c33de32da0c7c2e520",
-          "full_name": "TORRELLA MALLOFRE JOAN",
-          "gender": null,
-          "club": null,
-          "time_net": 45313,
-          "sant_julia": 34401
-        },
-        {
-          "year": 2022,
-          "runner_id": "78d0f6b7e4193002586b732d0731988db44437c6",
-          "full_name": "SOLS PERO PEDRO",
-          "gender": null,
-          "club": null,
-          "time_net": 44969,
-          "sant_julia": 31706
-        },
-        {
-          "year": 2022,
-          "runner_id": "80122482a8e57c8f0f8b8704495d74979db0c47d",
-          "full_name": "MUÑOZ RICO ANA",
-          "gender": null,
-          "club": null,
-          "time_net": 44880,
-          "sant_julia": 32798
-        },
-        {
-          "year": 2022,
-          "runner_id": "b34b937aebb9412310ea4307b0f8b17b24f302f1",
-          "full_name": "TENOR VAGACE MI",
-          "gender": null,
-          "club": null,
-          "time_net": 44879,
-          "sant_julia": 32798
         }
       ]
     }
