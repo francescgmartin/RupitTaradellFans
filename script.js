@@ -1,7 +1,7 @@
 
 // Base URL for data (relative to where index.html is served)
 const DATA_BASE_URL = './out'; // IMPORTANT: keep 'out' here
-const AVAILABLE_YEARS = ["TOTS",2013,2014,2015,2016,2017,2018,2019,2021, 2022, 2023, 2024, 2025]; // Update with your real years
+const AVAILABLE_YEARS = ["TOTS",2013,2014,2015,2016,2017,2018,2019,2021, 2022, 2023, 2024, 2025, 2026]; // Update with your real years
 
 // --- Memòria d'estat per a l'edició carregada ---
 let CURRENT_EDITION_ROWS = [];
